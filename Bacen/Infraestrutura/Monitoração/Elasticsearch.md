@@ -1,0 +1,97 @@
+- É um mecanismo de análise de dados e busca [[#API RESTful|RESTful]] distribuído, capaz de atender a um número crescente de casos de uso
+- Escrito em [[Java]] 
+- Elastic Stack:
+	- [[Elasticsearch]]: armazenamento e indexação
+	- [[Logstash]]: coleta, agregação e enriquecimento de dados
+	- [[Kibana]]: visualização de dados por meio de dashboards
+- É um banco de dados [[Modelagem de Dados NoSQL|NoSql]] orientado a documentos semiestruturados
+- Possui excelente  [[#Escalabilidade]] quanto a dados e quanto a análises:
+	- Agregações permitem um panorama geral
+	- É possível executar consultas em um nó da mesma forma que faria em 300 nós.
+- Possui mecanismos de Redundancia
+- Buscas aprimoradas e avançadas:
+	- Análise de texto:
+		- Filtros de caracteres
+		- Tokenizadores 
+		- Filtros de Token
+	- Ótimo desempenho em buscas por textos.
+	- Permite consultas na linguagem [[PL & SQL]] 
+	- Pode combinar diversos tipos de busca:
+		- Estruturadas
+		- Geográficas
+		- Métricas
+		- Barra Vertical 
+
+### Escalabilidade
+- O elasticsearch é distribuído por natureza, isso significa que para lidar com grandes volumes de dados é possível distribuir o armazenamento entre nós (servidores elastic).
+- Para manter os nós organizado e trabalhando de forma conjunta eles são agrupados em **Clusters**.
+- **Clusters** podem ser **dimensionados horizontalmente** implantando mais nós em seu grupo. ^c34fd1
+- A ==distribuição de dados pelos nós é feita de forma automática== pelo elasticsearch, evitando sobrecarga em nós específicos e garantido alta disponibilidade.
+- Documentos podem ser adicionados e acessados a partir de qualquer nó e é indexado instantaneamente se tornando pesquisavel quase em tempo real graças à técnica de indexação [[#Índice Invertido]]
+
+### Nós
+- Cada nó possui uma tabela de comutaçãopara mapear os nós com os shards que eles possuem através de um identificador único.
+- **Master Node**
+	- Só existe 1 master node no cluster.
+	- Outros nós podem ser configurados como master node de backup, caso o master node se torne indisponível.
+	- Coordena as atividades do cluster em que está inserido
+		- Adicionar/Remover nó
+		- Alocação de Shards
+		- Manutenção do estados do cluster
+- **Data Node**
+	- Consultas de CRUD
+	- Realiza pesquisas e agregações nos dados.
+	- Armazena e indexa documentos 
+	- Gerencia as shards dos índices
+	- São transformados nos nós especializados
+- **Ingest Node**
+	- Pré-processa os dados antes da indexação
+	- Executa pipelines de ingestão que são compostas por processadores que transformam, filtram ou enriquecem os dados antes do armazenamento.
+	- Podem remover campos, renomear valores, aplicar regex, etc...
+- **Transform Node**
+	- Converte índices em índices resumidos
+	- Transformação **Pivot**:
+		- Resumo dos dados em formato desejado para análise 
+	- Transformação **Latest**:
+		- Copia os documentos mais recentes em um novo índice.
+- **Machine Learning Node**
+- **Coordinating Node**
+	- Encaminhas as solicitações para os nós que possuem as [[#Shards|shards]] necessárias.
+### Shards 
+- São partes em que um índice é dividido.
+- Os dados são alocados em shards
+- Permitem que o [[Elasticsearch]] distribuia a carga e otimize o desempenho.
+### Índice Invertido
+- Permite que os dados sejam indexados e buscados quase em tempo real.
+- **Como Funciona?**
+	- **Divisão em termos**: conteúdo divido em palavras, números, etc...
+	- **Catalogação em um índice**: cria-se um índice ordenado de termos únicos
+	- **Associação de termos a documentos**: cada termo é associado aos documentos em que ele está presente.
+	- **Flexibilidade de dados**: índices flexíveis.
+- **Ciclo de vida de um índice**:
+	- **Hot**: consultado/atualizado ativamente.
+	- **Warm**: não mais atualizado, porem consultado.
+	- **Cold** ou Frozen: não atualizado e raramente consultado.
+	- **Delete**: índice já desnecessário.
+
+### API RESTful
+- Baseada em JSON (Query DSL) para interagir com os dados
+- São permitidas também consultas [[PL & SQL]]
+	- Drivers JDBC
+	- Drivers ODBC
+- Suportar 4 tipos de operação por meio do HTTP:
+	- **indexar** documentos
+	- **buscar** documentos
+	- **atualizar** documentos
+	- **excluir** documentos 
+- Essas operações podem ocorrer a nível de um documento específico ou a nível de um índice.
+- Existem bibliotecas clientes disponíveis para várias linguagens de programação.
+- Tarefas administrativas e de monitoramento de saúde.
+- **Recursos disponíveis:**
+	- **Document API**
+	- **Index API**
+	- **Search API**
+	- **Cluser API**
+	- **Security API**
+	- E muitos outros, como **cat APIs**, **ingest APIs**, **machine learning APIs**, etc.
+	 
