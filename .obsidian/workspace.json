@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bacen/Desenvolvimento de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
+                "file": "Bacen/Edital Vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bacen/Desenvolvimento de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
+                "file": "Bacen/Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bacen/Desenvolvimento de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
+                "file": "Bacen/Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bacen/Desenvolvimento de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md"
+                "file": "Bacen/Edital Vertical.md"
               }
             }
+          },
+          {
+            "id": "5f975dfd3aeb3752",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,8 +155,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a016cba18a74e872",
+  "active": "5f975dfd3aeb3752",
   "lastOpenFiles": [
+    "Bacen/Desenvolvimento de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
     "Bacen/Desenvolvimento de Software/_Index_of_Desenvolvimento de Software.md",
     "Sem título.canvas"
   ]

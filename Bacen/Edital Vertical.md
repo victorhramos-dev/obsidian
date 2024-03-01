@@ -88,9 +88,9 @@
 - [ ] Java
 - [ ] Python
 - [ ] Testes de Software (_Index_of_Testes de Software)
-	- [ ] Testes Unitários
-	- [ ] Testes de Integração
-	- [ ] TDD
+	- [x] Testes Unitários
+	- [x] Testes de Integração
+	- [x] TDD
 	- [ ] BDD
 
 ## Engenharia de Software
