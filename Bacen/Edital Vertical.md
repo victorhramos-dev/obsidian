@@ -4,12 +4,12 @@
 ## Balanço 
 ![[Pasted image 20240220140453.png]]
 ## Ciência de Dados (_Index_of_Ciência de Dados)
-- [ ] Machine Learning
+- [x] Machine Learning
 - [ ] Deep Learning
 - [ ] PNL
-- [ ] Big Data
+- [x] Big Data
 - [ ] Qualidade de Dados
-- [ ] Tipos de Aprendizado
+- [x] Tipos de Aprendizado
 - [ ] Grandes Modelos LLM
 - [ ] IA Generativa
 - [ ] Redes Neurais
@@ -29,17 +29,17 @@
 - [ ] Itil 4
 
 ## Banco de Dados
-- [ ] SGBD SQL
-- [ ] SGBD NoSQL
-- [ ] Modelagem de Dados Relacional
-- [ ] Modelagem de Dados Multidimensional
-- [ ] Modelagem de Dados NoSQL
-- [ ] PL & SQL
+- [x] SGBD SQL
+- [x] SGBD NoSQL
+- [x] Modelagem de Dados Relacional
+- [x] Modelagem de Dados Multidimensional
+- [x] Modelagem de Dados NoSQL
+- [x] PL & SQL
 - [x] Business Inteligence ✅ 2024-02-14
 	- [x] DataWarehouse ✅ 2024-02-14
 	- [x] DataMart ✅ 2024-02-14
 	- [x] DataLake ✅ 2024-02-14
-	- [ ] DataMesh
+	- [x] DataMesh
 
 
 ## Infraestrutura
@@ -49,7 +49,7 @@
 - [x] Kubernetes
 - [x] DNS ✅ 2024-02-14
 - [x] DHCP ✅ 2024-02-14
-- [ ] Radius
+- [x] Radius
 - [x] Autenticação ✅ 2024-02-14
 - [x] Certificados
 - [ ] Active Directiory (AD)
@@ -134,20 +134,20 @@
 	- [x] IDS ✅ 2024-02-23
 	- [x] IPS ✅ 2024-02-23
 	- [ ] Security 35 SIEM
-	- [ ] Proxy
+	- [x] Proxy
 	- [ ] IAM
 	- [ ] PAM
 	- [x] Antivirus ✅ 2024-02-14
-	- [ ] Antispam
+	- [x] Antispam
 - [ ] Frameworks:
-	- [ ] MITRE ATT&CK
+	- [x] MITRE ATT&CK
 	- [ ] CIS Controls
 	- [ ] NIST CSF
-	- [ ] CyBok
-- [ ] Tratamento de Incidentes
+	- [x] CyBok
+- [x] Tratamento de Incidentes
 - [x] Assinatura & Certificados Digitais
 - [x] Criptografia e Proteção de Dados
-- [ ] Segurança em Cloud Computing
+- [x] Segurança em Cloud Computing
 
 
 ## Macroeconomia
@@ -178,11 +178,11 @@
 - [ ] Organização administrativa brasileira. 
 	- [ ] Serviços públicos: conceito e princípios. 
 	- [ ] Autarquias, agências reguladoras, agências executivas, fundações públicas, empresas públicas, sociedades de economia mista. 
-- [ ] Ato administrativo. 
-	- [ ] Conceito, requisitos e atributos. 
-	- [ ] Comunicação dos atos administrativos. 
-	- [ ] Anulação, revogação e convalidação. 
-	- [ ] Discricionariedade e vinculação. 
+- [x] Ato administrativo. 
+	- [x] Conceito, requisitos e atributos. 
+	- [x] Comunicação dos atos administrativos. 
+	- [x] Anulação, revogação e convalidação. 
+	- [x] Discricionariedade e vinculação. 
 - [x] Servidores públicos: cargo, emprego e função públicos. 
 	- [x] Lei nº 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União) e alterações. Disposições preliminares. 
 		- [x] Provimento, vacância, remoção, redistribuição e substituição. 
