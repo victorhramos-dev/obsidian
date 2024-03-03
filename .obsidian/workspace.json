@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bacen/Direito Administrativo/LGPD.md",
+                "file": "Bacen/Edital Vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bacen/Direito Administrativo/LGPD.md",
+                "file": "Bacen/Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bacen/Direito Administrativo/LGPD.md",
+                "file": "Bacen/Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bacen/Direito Administrativo/LGPD.md"
+                "file": "Bacen/Edital Vertical.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "d19ad4c541403bdc",
   "lastOpenFiles": [
-    "Bacen/Edital Vertical.md",
     "Bacen/Direito Administrativo/LGPD.md",
+    "Bacen/Edital Vertical.md",
     "Bacen/_Index_of_Bacen.md",
     "Bacen/Engenharia de Software/Desenvolvimento de Software/_Index_of_Desenvolvimento de Software.md",
     "Bacen/Engenharia de Software/Web Services.md",
