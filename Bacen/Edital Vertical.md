@@ -43,15 +43,15 @@
 
 
 ## Infraestrutura
-- [ ] Puppet
-- [ ] Ansible
-- [ ] Docker
-- [ ] Kubernetes
+- [x] Puppet
+- [x] Ansible
+- [x] Docker
+- [x] Kubernetes
 - [x] DNS ✅ 2024-02-14
 - [x] DHCP ✅ 2024-02-14
 - [ ] Radius
 - [x] Autenticação ✅ 2024-02-14
-- [ ] Certificados
+- [x] Certificados
 - [ ] Active Directiory (AD)
 - [x] Monitoração (_Index_of_Monitoração) ✅ 2024-02-23
 	- [x] Grafana ✅ 2024-02-17
@@ -61,33 +61,33 @@
 	- [x] Kibana ✅ 2024-02-15
 	- [x] Logstash ✅ 2024-02-15
 	- [x] Application Performance Monitoring (APM) ✅ 2024-02-23
-- [ ] Iaas
-- [ ] Paas
-- [ ] Saas
-- [ ] Tolerancia a falhas, Continuidade de Operação
-- [ ] Virtualização
+- [x] Iaas
+- [x] Paas
+- [x] Saas
+- [x] Tolerancia a falhas, Continuidade de Operação
+- [x] Virtualização
 
 ## Redes
-- [ ] Protocolos (_Index_of_Protocolos)
-	- [ ] SMTP
-	- [ ] HTTP
-	- [ ] HTTPS
-	- [ ] SSL TLS
+- [x] Protocolos (_Index_of_Protocolos)
+	- [x] SMTP
+	- [x] HTTP
+	- [x] HTTPS
+	- [x] SSL TLS
 	- [ ] LDAP
 	- [ ] NFS
 	- [ ] SMB
-- [ ] LAN
-- [ ] WAN
+- [x] LAN
+- [x] WAN
 - [ ] SDN
 - [ ] Windows Server e Linux
 
 ## Desenvolvimento de Software
 - [ ] Desenvolvimento Seguro (SDL, OWASP, CLASP)
 - [ ] Programação Assíncrona
-- [ ] Git
+- [x] Git
 - [ ] Java
-- [ ] Python
-- [ ] Testes de Software (_Index_of_Testes de Software)
+- [x] Python
+- [x] Testes de Software (_Index_of_Testes de Software)
 	- [x] Testes Unitários
 	- [x] Testes de Integração
 	- [x] TDD
@@ -145,8 +145,8 @@
 	- [ ] NIST CSF
 	- [ ] CyBok
 - [ ] Tratamento de Incidentes
-- [ ] Assinatura & Certificados Digitais
-- [ ] Criptografia e Proteção de Dados
+- [x] Assinatura & Certificados Digitais
+- [x] Criptografia e Proteção de Dados
 - [ ] Segurança em Cloud Computing
 
 
@@ -170,7 +170,7 @@
 	- [ ] Elasticidade da demanda.
 
 ## Direito Administrativo
-- [ ] Administração pública: princípios básicos. 
+- [x] Administração pública: princípios básicos. 
 	- [ ] Administração direta e indireta. 
 - [ ] Poderes administrativos. 
 	- [ ] Espécies de poder: hierárquico, disciplinar, regulamentar, de polícia e normativo. 
@@ -183,14 +183,14 @@
 	- [ ] Comunicação dos atos administrativos. 
 	- [ ] Anulação, revogação e convalidação. 
 	- [ ] Discricionariedade e vinculação. 
-- [ ] Servidores públicos: cargo, emprego e função públicos. 
-	- [ ] Lei nº 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União) e alterações. Disposições preliminares. 
-		- [ ] Provimento, vacância, remoção, redistribuição e substituição. 
-		- [ ] Direitos e vantagens. 
-		- [ ] Regime disciplinar. 
-		- [ ] Seguridade social do servidor: aposentadoria e pensão civil. 
-		- [ ] Processo administrativo disciplinar. 
-- [ ] Improbidade administrativa.
+- [x] Servidores públicos: cargo, emprego e função públicos. 
+	- [x] Lei nº 8.112/1990 (Regime Jurídico dos Servidores Públicos Civis da União) e alterações. Disposições preliminares. 
+		- [x] Provimento, vacância, remoção, redistribuição e substituição. 
+		- [x] Direitos e vantagens. 
+		- [x] Regime disciplinar. 
+		- [x] Seguridade social do servidor: aposentadoria e pensão civil. 
+		- [x] Processo administrativo disciplinar. 
+- [x] Improbidade administrativa.
 - [ ] Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994). 
 - [ ] Código de Conduta da Alta Administração Federal. 
 - [ ] Lei de conflito de interesses (Lei nº 11.813/2013). 
@@ -199,14 +199,14 @@
 
 
 ## Lógica e Estatística
-- [ ] Raciocínio lógico. 
-	- [ ] Estruturas lógicas. 
-	- [ ] Lógica de argumentação: analogias, inferências, deduções e conclusões. 
-	- [ ] Lógica sentencial (ou proposicional). 
-		- [ ] Proposições simples e compostas. 
-		- [ ] Tabelas-verdade. 
-		- [ ] Equivalências. 
-		- [ ] Leis de Morgan; problemas. 
+- [x] Raciocínio lógico. 
+	- [x] Estruturas lógicas. 
+	- [x] Lógica de argumentação: analogias, inferências, deduções e conclusões. 
+	- [x] Lógica sentencial (ou proposicional). 
+		- [x] Proposições simples e compostas. 
+		- [x] Tabelas-verdade. 
+		- [x] Equivalências. 
+		- [x] Leis de Morgan; problemas. 
 - [ ] Noções de estatística. 
 	- [ ] População e amostra. 
 	- [ ] Histogramas e curvas de frequência. 
