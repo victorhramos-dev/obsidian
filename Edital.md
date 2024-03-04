@@ -10,3 +10,11 @@
 	8.11.5 Os candidatos não eliminados na forma do subitem 8.11.4 deste edital serão ordenados, de acordo com os valores decrescentes da nota final nas provas objetivas (NFPO), que será a soma das notas obtidas nas provas objetivas P1 e P2, e listados em ordem alfabética no resultado final nas provas.
 
 ![[Pasted image 20240220140453.png]]
+
+## Discursiva
+9.1 As provas discursivas consistirão de: a) prova discursiva P3: uma dissertação, a ser respondida em até 40 linhas, com valor de 30,00 pontos, acerca de atualidades; b) prova discursiva P4: uma questão dissertativa envolvendo situação-problema, a ser respondida em até 80 linhas, com valor de 50,00 pontos, acerca de conhecimentos específicos do cargo/área. 9.2 As provas discursivas serão avaliadas e pontuadas segundo os critérios estabelecidos no subitem 9.7 deste edital.
+
+P3 - Atualidades
+d) será calculada, então, a nota da questão dissertativa (ND) pela fórmula ND = NC - 6 × NE ÷ TL, em que TL corresponde ao número de linhas efetivamente escritas pelo candidato;
+
+P4 - 
