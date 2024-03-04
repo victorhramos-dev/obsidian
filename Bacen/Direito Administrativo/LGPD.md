@@ -50,3 +50,7 @@
 - **Órgão de pesquisa:** órgão ou entidade da administração publica direta/indireta ou PJ de direito privado sem fins lucrativos com missão de pesquisa básica ou de caráter histórico, científico, tecnológico ou estatístico.
 
 # Princípios
+- Deve sempre se observar a **BOA-FÉ**
+
+1. 
+
