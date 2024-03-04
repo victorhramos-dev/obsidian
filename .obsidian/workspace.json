@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bacen/Edital Vertical.md",
+                "file": "Bacen/Direito Administrativo/LGPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 239.50260543823242
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bacen/Edital Vertical.md",
+                "file": "Bacen/Direito Administrativo/LGPD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bacen/Edital Vertical.md",
+                "file": "Bacen/Direito Administrativo/LGPD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bacen/Edital Vertical.md"
+                "file": "Bacen/Direito Administrativo/LGPD.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +157,10 @@
   },
   "active": "d19ad4c541403bdc",
   "lastOpenFiles": [
-    "Bacen/Direito Administrativo/LGPD.md",
     "Bacen/Edital Vertical.md",
     "Bacen/_Index_of_Bacen.md",
+    "_Index_of_Bacen.md",
+    "Bacen/Direito Administrativo/LGPD.md",
     "Bacen/Engenharia de Software/Desenvolvimento de Software/_Index_of_Desenvolvimento de Software.md",
     "Bacen/Engenharia de Software/Web Services.md",
     "Bacen/Engenharia de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",

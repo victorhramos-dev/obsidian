@@ -195,7 +195,7 @@
 - [ ] Código de Conduta da Alta Administração Federal. 
 - [ ] Lei de conflito de interesses (Lei nº 11.813/2013). 
 - [ ] Lei de Acesso à Informação (Lei nº 12.527/2011). 
-- [ ] Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais).
+- [ ] Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais). 🛫 2024-03-03 
 
 
 ## Lógica e Estatística

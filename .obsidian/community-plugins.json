@@ -1,7 +1,11 @@
 [
-  "obsidian-git",
   "zoottelkeeper-obsidian-plugin",
   "graph-analysis",
   "table-editor-obsidian",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-tasks-plugin",
+  "quickadd",
+  "dataview",
+  "obsidian-style-settings",
+  "obsidian-git"
 ]
