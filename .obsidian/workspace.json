@@ -11,9 +11,11 @@
             "id": "39f4259475daa0b0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bacen/Direito Administrativo/Pasted image 20240303233617.png"
+                "file": "Bacen/Direito Administrativo/LGPD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bacen/Direito Administrativo/Pasted image 20240303233617.png",
+                "file": "Bacen/Direito Administrativo/LGPD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bacen/Direito Administrativo/Pasted image 20240303233617.png",
+                "file": "Bacen/Direito Administrativo/LGPD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bacen/Direito Administrativo/Pasted image 20240303233617.png"
+                "file": "Bacen/Direito Administrativo/LGPD.md"
               }
             }
           },
@@ -157,8 +159,8 @@
   },
   "active": "39f4259475daa0b0",
   "lastOpenFiles": [
-    "Bacen/Direito Administrativo/LGPD.md",
     "Bacen/Direito Administrativo/Pasted image 20240303233617.png",
+    "Bacen/Direito Administrativo/LGPD.md",
     "Bacen/Edital Vertical.md",
     "Bacen/_Index_of_Bacen.md",
     "_Index_of_Bacen.md",
