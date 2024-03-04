@@ -78,36 +78,37 @@
 - [ ] Windows Server e Linux
 
 ## Desenvolvimento de Software
+
+
+## Engenharia de Software
+- [x] DevOps 
+- [x] DevSecOps 
+- [x] CI & CD 
+- [x] Web Services 
+- [x] Padrões de Projeto GoF, GRASP 
+- [x] Transações Distribuídas 
+- [x] Práticas de UX UI 
 - [ ] Desenvolvimento Seguro (SDL, OWASP, CLASP)
 - [ ] Programação Assíncrona
 - [x] Git
 - [ ] Java
 - [x] Python
-- [x] Testes de Software (_Index_of_Testes de Software)
+- [x] Testes de Software (_Index_of_Testes de Software) 
 	- [x] Testes Unitários
 	- [x] Testes de Integração
 	- [x] TDD
 	- [ ] BDD
-
-## Engenharia de Software
-- [x] DevOps ✅ 2024-02-23
-- [x] DevSecOps ✅ 2024-02-25
-- [x] CI & CD ✅ 2024-02-25
-- [x] Web Services ✅ 2024-02-14
-- [x] Padrões de Projeto GoF, GRASP ✅ 2024-02-14
-- [x] Transações Distribuídas ✅ 2024-02-23
-- [x] Práticas de UX UI ✅ 2024-02-19
-- [x] Arquiteturas (_Index_of_Arquiteturas) ✅ 2024-02-23
-	- [x] Arquitetura em Camadas ✅ 2024-02-23
-	- [x] Arquitetura em Serviços ✅ 2024-02-14
-	- [x] Arquitetura de MicroServiços (Orquestração, Gateway) ✅ 2024-02-23
-	- [x] Arquitetura Orientação a Eventos ✅ 2024-02-23
-	- [x] Arquitetura Cliente-Servidor ✅ 2024-02-23
-	- [x] Arquitetura Serverless ✅ 2024-02-23
-	- [x] Arquitetura de Sistemas Web (_Index_of_Arquitetura de Sistemas Web) ✅ 2024-02-23
-		- [x] HTTP, HTTP2 ✅ 2024-02-14
-		- [x] gRPC ✅ 2024-02-23
-		- [x] WebSockets ✅ 2024-02-19
+- [x] Arquiteturas (_Index_of_Arquiteturas) 
+	- [x] Arquitetura em Camadas 
+	- [x] Arquitetura em Serviços 
+	- [x] Arquitetura de MicroServiços (Orquestração, Gateway) 
+	- [x] Arquitetura Orientação a Eventos 
+	- [x] Arquitetura Cliente-Servidor 
+	- [x] Arquitetura Serverless 
+	- [x] Arquitetura de Sistemas Web (_Index_of_Arquitetura de Sistemas Web) 
+		- [x] HTTP, HTTP2 
+		- [x] gRPC 
+		- [x] WebSockets 
 		- [ ] Proxy
 		- [ ] Cache
 		- [ ] LoadBalancer
@@ -115,25 +116,25 @@
 
 
 ## Segurança da Informação
-- [x] Gestão de Identidades de Acesso: ✅ 2024-02-15
-	- [x] Autenticação e Autorização ✅ 2024-02-15
-	- [x] SSO ✅ 2024-02-15
-	- [x] SAML ✅ 2024-02-15
-	- [x] OAuth2 ✅ 2024-02-15
-	- [x] OpenId Connect ✅ 2024-02-15
-- [x] Privacidade e Segurança por padrão ✅ 2024-02-19
-- [x] Ataques e Vulnerabilidades (CyBok) ✅ 2024-02-14
-- [x] MFA ✅ 2024-02-14
-- [x] Controle e Testes de Segurança em sistemas web e web services ✅ 2024-02-23
-- [x] Ferramentas de Segurança: ✅ 2024-02-23
-	- [x] Firewall ✅ 2024-02-23
-	- [x] IDS ✅ 2024-02-23
-	- [x] IPS ✅ 2024-02-23
+- [x] Gestão de Identidades de Acesso: 
+	- [x] Autenticação e Autorização 
+	- [x] SSO 
+	- [x] SAML 
+	- [x] OAuth2 
+	- [x] OpenId Connect 
+- [x] Privacidade e Segurança por padrão
+- [x] Ataques e Vulnerabilidades (CyBok) 
+- [x] MFA 
+- [x] Controle e Testes de Segurança em sistemas web e web services 
+- [x] Ferramentas de Segurança: 
+	- [x] Firewall 
+	- [x] IDS 
+	- [x] IPS 
 	- [ ] Security 35 SIEM
 	- [x] Proxy
 	- [ ] IAM
 	- [ ] PAM
-	- [x] Antivirus ✅ 2024-02-14
+	- [x] Antivirus 
 	- [x] Antispam
 - [ ] Frameworks:
 	- [x] MITRE ATT&CK
