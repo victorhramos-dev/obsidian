@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Edital Vertical.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Edital Vertical.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "520b69ad77228b08",
   "lastOpenFiles": [
-    "Edital Vertical.md",
     "Edital.md",
+    "Edital Vertical.md",
     "_Index_of_Bacen-OBS.md",
     "Pasted image 20240220140453.png",
     "Bacen/_Index_of_Bacen.md",
