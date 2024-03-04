@@ -56,10 +56,10 @@
 2. **Adequação:** compatibilidade do tratamento com as finalidades informadas ao titular;
 3. **Necessidade:** limitação do tratamento ao mínimo necessário;
 4. **Livre Acesso:** garantia aos titulares de consulta facilitada sobre o tratamento e integridade dos seus dados compartilhados;
-5. **Qualidade dos Dados:** garantia de exatidão, clare
-6. **Transparência:** 
-7. **Segurança:** 
-8. **Prevenção:** 
-9. **Não Discriminação:** 
+5. **Qualidade dos Dados:** garantia de exatidão, clareza e relevância dos dados de acordo com o seu uso;
+6. **Transparência:** garantia ao titulares de informações claras sobre os processos de tratamento respeitando os segredos comerciais;
+7. **Segurança:** utilização de medidas técnicas e administrativas para proteger os dados pessoais;
+8. **Prevenção:** medidas para prevenir ocorrência de danos em virtude do tratamento de dados pessoais;
+9. **Não Discriminação:** impossibilidade de realização do tratamento para
 10. **Responsabilização e Prestação de Contas:** 
 
