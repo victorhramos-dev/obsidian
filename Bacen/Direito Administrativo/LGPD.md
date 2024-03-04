@@ -52,11 +52,11 @@
 # Princípios
 - Deve sempre se observar a **BOA-FÉ**
 
-1. **Finalidade:** tratamento para propósitos legítimos, explícitos e informados ao titular respeitando o escopo dos dados
-2. **Adequação:** 
-3. **Necessidade:** 
-4. **Livre Acesso:** 
-5. **Qualidade dos Dados:** 
+1. **Finalidade:** tratamento para propósitos legítimos, explícitos e informados ao titular respeitando o escopo dos dados de forma proporcional;
+2. **Adequação:** compatibilidade do tratamento com as finalidades informadas ao titular;
+3. **Necessidade:** limitação do tratamento ao mínimo necessário;
+4. **Livre Acesso:** garantia aos titulares de consulta facilitada sobre o tratamento e integridade dos seus dados compartilhados;
+5. **Qualidade dos Dados:** garantia de exatidão, clare
 6. **Transparência:** 
 7. **Segurança:** 
 8. **Prevenção:** 
