@@ -52,5 +52,14 @@
 # Princípios
 - Deve sempre se observar a **BOA-FÉ**
 
-1. 
+1. **Finalidade:** tratamento para propósitos legítimos, explícitos e informados ao titular respeitando o escopo dos dados
+2. **Adequação:** 
+3. **Necessidade:** 
+4. **Livre Acesso:** 
+5. **Qualidade dos Dados:** 
+6. **Transparência:** 
+7. **Segurança:** 
+8. **Prevenção:** 
+9. **Não Discriminação:** 
+10. **Responsabilização e Prestação de Contas:** 
 
