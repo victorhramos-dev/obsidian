@@ -68,6 +68,7 @@
 # Tratamento de Dados Pessoais - Cap. 2
 ## Hipóteses para tratamento:
 1. Quando consentido pelo titular;
+	* Se o controlador precisar compartilhar os dad
 2. Cumprimento de obrigação legal ou regulatória pelo controlador
 3. Pela administração pública para uso compartilhado à execução de políticas públicas
 4. Realização de estudos por órgão de pesquisa respeitando sempre a anonimização quando possível
