@@ -1,8 +1,4 @@
-# Edital
-[Link Edital](https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/ED_1_BCB_23_ABERTURA.PDF)
 
-## Balanço 
-![[Pasted image 20240220140453.png]]
 ## Ciência de Dados (_Index_of_Ciência de Dados)
 - [x] Machine Learning
 - [ ] Deep Learning
