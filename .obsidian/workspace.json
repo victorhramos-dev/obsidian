@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "520b69ad77228b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bacen/Edital Vertical.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bacen/Edital Vertical.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bacen/Edital Vertical.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -155,11 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39f4259475daa0b0",
+  "active": "520b69ad77228b08",
   "lastOpenFiles": [
+    "_Index_of_Bacen-OBS.md",
+    "Bacen/Edital Vertical.md",
+    "Edital.md",
     "Bacen/Direito Administrativo/LGPD.md",
     "Bacen/Direito Administrativo/Pasted image 20240303233617.png",
-    "Bacen/Edital Vertical.md",
     "Bacen/_Index_of_Bacen.md",
     "_Index_of_Bacen.md",
     "Bacen/Engenharia de Software/Desenvolvimento de Software/_Index_of_Desenvolvimento de Software.md",
