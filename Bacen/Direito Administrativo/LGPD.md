@@ -7,11 +7,18 @@
 	- Desenvolvimento de personalidade
 
 # Fundamentos
-1. Respeito à privacidade
-2. autodeterminação informativa
-3. liberdade de expressão, de informação, de comunicação e de opinião
-4. inviolabilidade da intimidade, da honra e da imagem
-5. desenvolvimento econômico e tecnológico e a inovação
+1. ==Respeito à privacidade==
+2. Autodeterminação informativa
+3. ==Liberdades:==
+	1. ==Expressão==
+	2. ==Informação==
+	3. ==Comunicação==
+	4. ==Opinião==
+4. ==Inviolabilidade:==
+	1. ==Intimidade==
+	2. ==Honra==
+	3. ==Imagem==
+5. **Desenvolvimento** econômico e tecnológico e a **Inovação**
 6. livre iniciativa, a livre concorrência e a defesa do consumidor
 7. direitos humanos, livre desenvolvimento da personalidade, dignidade e o exercício da cidadania pelas pessoas naturais
 # Aplicação
@@ -41,3 +48,5 @@
 - **Tratamento:** operação realizada com os dados pessoais: coleta, produção, recepção, classificação, uso, acesso, transmissão, armazenamento, etc...
 - **Anonimização:** tratamento de dados pessoais para que se torne impossível a associação dos dados ao titular
 - **Órgão de pesquisa:** órgão ou entidade da administração publica direta/indireta ou PJ de direito privado sem fins lucrativos com missão de pesquisa básica ou de caráter histórico, científico, tecnológico ou estatístico.
+
+# Princípios
