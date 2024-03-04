@@ -22,7 +22,7 @@
 - **Quando NÃO se aplica:**
 	- fins particulares e não econômicos
 	- fins jornalísticos e artísticos
-	- fins acadêmicos
+	- fins acadêmicos (aplica-se quanto à dados pessoais e sensíveis)
 	- segurança pública
 	- defesa nacional
 	- segurança do estado
