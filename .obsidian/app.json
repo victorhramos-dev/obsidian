@@ -26,5 +26,11 @@
     "editor:insert-callout",
     "editor:insert-codeblock",
     "editor:insert-table"
-  ]
+  ],
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": false
 }

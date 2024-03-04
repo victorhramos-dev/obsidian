@@ -15,7 +15,7 @@
               "state": {
                 "file": "Edital Vertical.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "Edital Vertical.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -165,7 +165,8 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Abrir importador Markdown": false
     }
   },
   "active": "520b69ad77228b08",

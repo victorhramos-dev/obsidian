@@ -19,8 +19,8 @@
 - [ ] Governança e Ética na IA
 
 ## Gestão em TI
-- [x] Kanban ✅ 2024-02-15
-- [x] Scrum ✅ 2024-02-14
+- [x] Kanban
+- [x] Scrum
 - [ ] Governança de Dados
 - [ ] Itil 4
 
@@ -31,10 +31,10 @@
 - [x] Modelagem de Dados Multidimensional
 - [x] Modelagem de Dados NoSQL
 - [x] PL & SQL
-- [x] Business Inteligence ✅ 2024-02-14
-	- [x] DataWarehouse ✅ 2024-02-14
-	- [x] DataMart ✅ 2024-02-14
-	- [x] DataLake ✅ 2024-02-14
+- [x] Business Inteligence
+	- [x] DataWarehouse
+	- [x] DataMart
+	- [x] DataLake
 	- [x] DataMesh
 
 
@@ -43,20 +43,20 @@
 - [x] Ansible
 - [x] Docker
 - [x] Kubernetes
-- [x] DNS ✅ 2024-02-14
-- [x] DHCP ✅ 2024-02-14
+- [x] DNS
+- [x] DHCP
 - [x] Radius
-- [x] Autenticação ✅ 2024-02-14
+- [x] Autenticação
 - [x] Certificados
 - [ ] Active Directiory (AD)
-- [x] Monitoração (_Index_of_Monitoração) ✅ 2024-02-23
-	- [x] Grafana ✅ 2024-02-17
-	- [x] Prometheus ✅ 2024-02-16
-	- [x] Nagios ✅ 2024-02-19
-	- [x] Elasticsearch ✅ 2024-02-15
-	- [x] Kibana ✅ 2024-02-15
-	- [x] Logstash ✅ 2024-02-15
-	- [x] Application Performance Monitoring (APM) ✅ 2024-02-23
+- [x] Monitoração (_Index_of_Monitoração)
+	- [x] Grafana
+	- [x] Prometheus
+	- [x] Nagios
+	- [x] Elasticsearch
+	- [x] Kibana
+	- [x] Logstash
+	- [x] Application Performance Monitoring (APM)
 - [x] Iaas
 - [x] Paas
 - [x] Saas
