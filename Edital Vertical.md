@@ -188,7 +188,7 @@
 		- [x] Seguridade social do servidor: aposentadoria e pensão civil. 
 		- [x] Processo administrativo disciplinar. 
 - [x] Improbidade administrativa.
-- [ ] Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994). 
+- [ ] Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994).
 - [ ] Código de Conduta da Alta Administração Federal. 
 - [ ] Lei de conflito de interesses (Lei nº 11.813/2013). 
 - [ ] Lei de Acesso à Informação (Lei nº 12.527/2011). 
