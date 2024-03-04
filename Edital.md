@@ -17,4 +17,7 @@
 P3 - Atualidades
 d) será calculada, então, a nota da questão dissertativa (ND) pela fórmula ND = NC - 6 × NE ÷ TL, em que TL corresponde ao número de linhas efetivamente escritas pelo candidato;
 
-P4 - 
+P4 - Especifica
+d) será calculada, então, a nota da questão dissertativa sobre situação problema (NSP) pela fórmula NSP = NC - 5 × NE ÷ TL, em que TL corresponde ao número de linhas efetivamente escritas pelo candidato;
+
+*ESCREVER O MÁXIMO POSS*
