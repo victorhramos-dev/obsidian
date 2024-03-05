@@ -27,7 +27,7 @@
     "editor:insert-codeblock",
     "editor:insert-table"
   ],
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "source",
   "readableLineLength": false,
   "foldIndent": true,
