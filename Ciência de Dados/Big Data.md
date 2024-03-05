@@ -4,11 +4,21 @@
 
 ## Características
 - 5 V's:
+
+
+| Volume       | Quantidade            |
+| ------------ | --------------------- |
+| Velocidade   | Rapidez no tratamento |
+| Variedade    | Diversidade de dados  |
+| Veracidade   |                       |
+| Visibilidade |                       |
+
+
 	- **Volume:** grande quantidade de dados
 	- **Velocidade:** rapidez na coleta e tratamento dos dados
 	- **Variedade:** heterogeniedade dos dados, diferentes formatos
 	- **Veracidade**: consistência dos dados
-	- **Valor**: 
+	- **Valor**: extração de insights e valores úteis dos dados
 
 ### Atenção
 > Big Data não é Business Intelligence, mesmo que em casos alguns casos estejam relacionados.

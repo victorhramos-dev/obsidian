@@ -136,14 +136,21 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "7a89222cac242e90",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +164,7 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "c98271b792ed05bc",
+  "active": "7a89222cac242e90",
   "lastOpenFiles": [
     "Edital Vertical.md",
     "Edital.md",
