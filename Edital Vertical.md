@@ -3,7 +3,7 @@
 - [ ] Governança e Ética na IA
 - [ ] Machine Learning
 - [ ] Tipos de Aprendizado
-- [ ] Big Data
+- [ ] [[Big Data]]
 - [ ] Deep Learning
 - [ ] Redes Neurais
 - [ ] PNL

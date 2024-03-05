@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a946b3a884f12c07",
+        "id": "97822b2143260d13",
         "type": "tabs",
         "children": [
           {
-            "id": "c98271b792ed05bc",
+            "id": "470b2dddecc381c5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/Sem título.canvas",
-                "viewState": {
-                  "x": 59.154052734375,
-                  "y": -59.15403330149799,
-                  "zoom": 0
-                }
+                "file": "Ciência de Dados/Big Data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/Sem título.canvas",
+                "file": "Ciência de Dados/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/Sem título.canvas",
+                "file": "Ciência de Dados/Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência de Dados/Sem título.canvas"
+                "file": "Ciência de Dados/Big Data.md"
               }
             }
           },
@@ -168,12 +166,12 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "c98271b792ed05bc",
+  "active": "470b2dddecc381c5",
   "lastOpenFiles": [
+    "Edital.md",
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Sem título.canvas",
     "Infraestrutura/Monitoração/Kibana.md",
-    "Edital.md",
     "Infraestrutura/Monitoração/Logstash.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
     "Edital Vertical.md",
