@@ -2,6 +2,7 @@
  [[Banco de Dados/_Index_of_Banco de Dados|_Index_of_Banco de Dados]]
  [[Ciência de Dados/_Index_of_Ciência de Dados|_Index_of_Ciência de Dados]]
  [[Direito Administrativo/_Index_of_Direito Administrativo|_Index_of_Direito Administrativo]]
+ [[Discursivas Solução-Problema|Discursivas Solução-Problema]]
  [[Edital Vertical|Edital Vertical]]
  [[Edital|Edital]]
  [[Engenharia de Software/_Index_of_Engenharia de Software|_Index_of_Engenharia de Software]]

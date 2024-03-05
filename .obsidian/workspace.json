@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c98271b792ed05bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discursivas Solução-Problema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Discursivas Solução-Problema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Discursivas Solução-Problema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Discursivas Solução-Problema.md"
               }
             }
           },
@@ -170,12 +182,13 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "520b69ad77228b08",
+  "active": "c98271b792ed05bc",
   "lastOpenFiles": [
+    "Edital.md",
+    "Discursivas Solução-Problema.md",
     "Edital Vertical.md",
     "Segurança/Ferramentas de Segurança/SIEM.md",
     "Segurança/Criptografia e Proteção de Dados.md",
-    "Edital.md",
     "_Index_of_Bacen-OBS.md",
     "Pasted image 20240220140453.png",
     "Bacen/_Index_of_Bacen.md",
