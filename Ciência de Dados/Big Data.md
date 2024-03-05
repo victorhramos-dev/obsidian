@@ -22,9 +22,9 @@
 
 ## Teorema CAP
 [[Transações Distribuídas]]
-- C
-- A
-- Partition Tolerance
+- Consistency (Consistência): Nodes (nós) vendo os memos dados ao mesmo tempo
+- Availability (Disponibilidade): capacidade de operar mesmo em face de falhas
+- Partition Tolerance (Tolerancia a Partições): capacidade de continuar operando quando partições (partes, componentes) do sistema forem desconectadas 
 ### Atenção
 > Big Data não é Business Intelligence, mesmo que em casos alguns casos estejam relacionados.
 
