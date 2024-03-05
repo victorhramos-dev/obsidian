@@ -19,6 +19,12 @@
 - Previsões
 - Detecção de fraudes
 - Gerenciamento de riscos
+
+## Teorema CAP
+[[Transações Distribuídas]]
+- C
+- A
+- Partition Tolerance
 ### Atenção
 > Big Data não é Business Intelligence, mesmo que em casos alguns casos estejam relacionados.
 
