@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Redes/SDN.md",
+                "file": "Edital Vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Redes/SDN.md",
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Redes/SDN.md",
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Redes/SDN.md"
+                "file": "Edital Vertical.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "c98271b792ed05bc",
   "lastOpenFiles": [
-    "Edital Vertical.md",
     "Edital.md",
+    "Infraestrutura/Redes/_Index_of_Redes.md",
+    "Infraestrutura/Redes/Active Directiory (AD).md",
+    "Infraestrutura/Redes/SDN.md",
+    "Edital Vertical.md",
     "Infraestrutura/Monitoração/Prometheus.md",
     "Discursivas Solução-Problema.md",
     "Segurança/Ferramentas de Segurança/SIEM.md",
