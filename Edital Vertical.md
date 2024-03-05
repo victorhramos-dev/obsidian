@@ -1,14 +1,15 @@
 
 ## Ciência de Dados (_Index_of_Ciência de Dados)
 - [x] Machine Learning
+- [x] Tipos de Aprendizado
 - [ ] Deep Learning
+- [ ] - [ ] Redes Neurais
 - [ ] PNL
 - [x] Big Data
 - [ ] Qualidade de Dados
-- [x] Tipos de Aprendizado
 - [ ] Grandes Modelos LLM
 - [ ] IA Generativa
-- [ ] Redes Neurais
+
 - [ ] MLOps
 	- [ ] Gestão de Código
 	- [ ] Treinamento

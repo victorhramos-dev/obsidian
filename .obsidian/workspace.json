@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Edital Vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Edital Vertical.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "c98271b792ed05bc",
   "lastOpenFiles": [
+    "Edital.md",
     "Infraestrutura/Monitoração/Prometheus.md",
     "Discursivas Solução-Problema.md",
     "Edital Vertical.md",
-    "Edital.md",
     "Segurança/Ferramentas de Segurança/SIEM.md",
     "Segurança/Criptografia e Proteção de Dados.md",
     "_Index_of_Bacen-OBS.md",
