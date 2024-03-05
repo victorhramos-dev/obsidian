@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/Big Data.md",
+                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/Big Data.md",
+                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/Big Data.md",
+                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência de Dados/Big Data.md"
+                "file": "Infraestrutura/Monitoração/Elasticsearch.md"
               }
             }
           },
@@ -146,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +169,9 @@
   "lastOpenFiles": [
     "Edital Vertical.md",
     "Edital.md",
+    "Ciência de Dados/Big Data.md",
+    "Engenharia de Software/Práticas de UX UI.md",
+    "Engenharia de Software/Transações Distribuídas.md",
     "Infraestrutura/Redes/_Index_of_Redes.md",
     "Infraestrutura/Redes/Active Directiory (AD).md",
     "Infraestrutura/Redes/SDN.md",
