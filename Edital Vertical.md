@@ -1,15 +1,15 @@
 
 ## Ciência de Dados (_Index_of_Ciência de Dados)
+- [ ] Governança e Ética na IA
 - [x] Machine Learning
 - [x] Tipos de Aprendizado
-- [ ] Deep Learning
-- [ ] - [ ] Redes Neurais
-- [ ] PNL
 - [x] Big Data
+- [ ] Deep Learning
+- [ ] Redes Neurais
+- [ ] PNL
 - [ ] Qualidade de Dados
 - [ ] Grandes Modelos LLM
 - [ ] IA Generativa
-
 - [ ] MLOps
 	- [ ] Gestão de Código
 	- [ ] Treinamento
@@ -17,7 +17,7 @@
 	- [ ] Monitoramento
 	- [ ] Automação
 	- [ ] Versionamento
-- [ ] Governança e Ética na IA
+
 
 ## Gestão em TI
 - [x] Kanban
