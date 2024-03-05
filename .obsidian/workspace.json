@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Criptografia e Proteção de Dados.md",
-                "mode": "preview",
+                "file": "Segurança/Ferramentas de Segurança/SIEM.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Criptografia e Proteção de Dados.md",
+                "file": "Segurança/Ferramentas de Segurança/SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Criptografia e Proteção de Dados.md",
+                "file": "Segurança/Ferramentas de Segurança/SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Criptografia e Proteção de Dados.md"
+                "file": "Segurança/Ferramentas de Segurança/SIEM.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "520b69ad77228b08",
   "lastOpenFiles": [
+    "Segurança/Criptografia e Proteção de Dados.md",
     "Edital.md",
     "Edital Vertical.md",
     "_Index_of_Bacen-OBS.md",
