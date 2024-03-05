@@ -1,5 +1,5 @@
 
-[Link Edital](https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/ED_1_BCB_23_ABERTURA.PDF)
+[Link Edital](https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/ED_1_BCB_23_ABERTURA_ATUALIZADO_RET_4.PDF)
 
 # Pontuação
 8.11 DOS CRITÉRIOS DE AVALIAÇÃO DAS PROVAS OBJETIVAS 
