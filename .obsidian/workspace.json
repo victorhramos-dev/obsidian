@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md"
+                "file": "Ciência de Dados/Big Data.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,10 +164,12 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "5f975dfd3aeb3752",
+  "active": "c98271b792ed05bc",
   "lastOpenFiles": [
-    "Edital Vertical.md",
     "Edital.md",
+    "Infraestrutura/Monitoração/Logstash.md",
+    "Infraestrutura/Monitoração/Elasticsearch.md",
+    "Edital Vertical.md",
     "Ciência de Dados/Big Data.md",
     "Engenharia de Software/Práticas de UX UI.md",
     "Engenharia de Software/Transações Distribuídas.md",
