@@ -6,4 +6,8 @@
 		- Spark
 		- TensorFlow
 		- PyTorch
-	- A
+	- Arquitetura: 
+		- CI/CT/CD
+		- pipeline de ingestão, processamento e análise
+		- microserviços
+		- monitoramento continuo
