@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital Vertical.md"
+                "file": "Ciência de Dados/Big Data.md"
               }
             }
           },
@@ -160,11 +159,11 @@
   },
   "active": "c98271b792ed05bc",
   "lastOpenFiles": [
+    "Edital Vertical.md",
     "Edital.md",
     "Infraestrutura/Redes/_Index_of_Redes.md",
     "Infraestrutura/Redes/Active Directiory (AD).md",
     "Infraestrutura/Redes/SDN.md",
-    "Edital Vertical.md",
     "Infraestrutura/Monitoração/Prometheus.md",
     "Discursivas Solução-Problema.md",
     "Segurança/Ferramentas de Segurança/SIEM.md",
