@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/SIEM.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "source": true
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50260543823242
+    "width": 353.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/SIEM.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/SIEM.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/SIEM.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   },
   "active": "520b69ad77228b08",
   "lastOpenFiles": [
+    "Edital Vertical.md",
+    "Segurança/Ferramentas de Segurança/SIEM.md",
     "Segurança/Criptografia e Proteção de Dados.md",
     "Edital.md",
-    "Edital Vertical.md",
     "_Index_of_Bacen-OBS.md",
     "Pasted image 20240220140453.png",
     "Bacen/_Index_of_Bacen.md",
