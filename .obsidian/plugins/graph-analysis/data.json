@@ -12,10 +12,15 @@
   "exclusionTags": [],
   "algsToShow": [
     "Co-Citations",
+    "HITS",
     "Adamic Adar",
     "Jaccard",
+    "Overlap",
     "Label Propagation",
+    "Louvain",
+    "Clustering Coefficient",
     "BoW",
-    "Otsuka-Chiai"
+    "Otsuka-Chiai",
+    "Sentiment"
   ]
 }
