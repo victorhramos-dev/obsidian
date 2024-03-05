@@ -6,12 +6,13 @@
 - 5 V's:
 
 
-| Volume       | Quantidade            |
-| ------------ | --------------------- |
-| Velocidade   | Rapidez no tratamento |
-| Variedade    | Diversidade de dados  |
-| Veracidade   |                       |
-| Visibilidade |                       |
+| Característica | Significado                             | Objetivo                                       |
+| -------------- | --------------------------------------- | ---------------------------------------------- |
+| Volume         | Quantidade de dados                     | Armazenar e processas grandes volumes de dados |
+| Velocidade     | Rapidez no tratamento                   | Tratar e analisar dados                        |
+| Variedade      | Heterogeniedade de dados, vários tipos  |                                                |
+| Veracidade     | Qualidade e Confiabilidade              |                                                |
+| Valor          | Extração de insights e criação de valor |                                                |
 
 
 	- **Volume:** grande quantidade de dados
