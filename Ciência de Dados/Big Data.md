@@ -11,6 +11,14 @@
 |  **Variedade** | Heterogeniedade de dados, vários tipos  | Integrar e analisar dados de diferentes tipos e de diferentes fontes |
 | **Veracidade** | Qualidade e Confiabilidade              | Garantir precisão e confiabilidade das informações. CONSISTÊNCIA     |
 |      **Valor** | Extração de insights e criação de valor | Tomadas de decisões e inovação                                       |
+## Aplicação
+- Desenvolvimento de mercado
+- Inovação
+- Desenvolvimento de produtos
+- Eficiência operacional
+- Previsões
+- Detecção de fraudes
+- Gerenciamento de riscos
 
 ### Atenção
 > Big Data não é Business Intelligence, mesmo que em casos alguns casos estejam relacionados.
