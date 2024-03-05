@@ -5,7 +5,7 @@
   "showImgThumbnails": true,
   "addUnresolved": true,
   "coTags": true,
-  "defaultSubtypeType": "Co-Citations",
+  "defaultSubtypeType": "BoW",
   "debugMode": false,
   "superDebugMode": false,
   "exclusionRegex": "",
