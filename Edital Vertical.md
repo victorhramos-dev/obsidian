@@ -1,9 +1,9 @@
 
 ## Ciência de Dados (_Index_of_Ciência de Dados)
 - [ ] Governança e Ética na IA
-- [x] Machine Learning
-- [x] Tipos de Aprendizado
-- [x] Big Data
+- [ ] Machine Learning
+- [ ] Tipos de Aprendizado
+- [ ] Big Data
 - [ ] Deep Learning
 - [ ] Redes Neurais
 - [ ] PNL
