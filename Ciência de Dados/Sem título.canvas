@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"609cbcc4b9b52168","x":-480,"y":-360,"width":540,"height":400,"type":"file","file":"Ciência de Dados/Big Data.md"},
+		{"id":"bcd15aee08bfe9a8","x":120,"y":-360,"width":400,"height":400,"type":"file","file":"Ciência de Dados/Machine Learning.md"}
+	],
+	"edges":[]
+}
