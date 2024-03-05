@@ -1,5 +1,5 @@
 ## Algoritmos Simétricos
-TAD3 BRINCS?
+> **TAD3 BRINCS?**
 - **T:** Twofish (Tamanhos de chave: 128, 192, 256 bits)
 - **A:** AES (Tamanhos de chave: 128, 192, 256 bits)
 - **D:** DES (Tamanho de chave: 56 bits)
@@ -8,4 +8,6 @@ TAD3 BRINCS?
 - **R:** RC4 (Tamanho de chave: Variável, geralmente entre 40 e 2048 bits)
 - **I:** IDEA (Tamanho de chave: 128 bits)
 - **C:** Camellia (Tamanhos de chave: 128, 192, 256 bits)
+- **N:** Nihilist Cipher (Matriz de substituição)
 - **S:** SEED (Tamanho de chave: 128 bits)
+> **Chaves com tamanho fixo: SID (Seed, IDEA, DES)**
