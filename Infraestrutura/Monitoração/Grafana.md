@@ -34,12 +34,12 @@ O Grafana é uma **plataforma de código aberto** para **visualização e análi
     * **Exemplos:** dashboards para diferentes equipes, diferentes tipos de dados, diferentes ambientes.
 
 ## **Principais integrações:**
-* **Prometheus:**
-    * O Grafana se integra **facilmente** com o Prometheus.
-    * Permite visualizar as métricas coletadas pelo Prometheus em dashboards personalizados.
+* **[[Prometheus]]:**
+    * O Grafana se integra **facilmente** com o [[Prometheus]].
+    * Permite visualizar as métricas coletadas pelo [[Prometheus]] em dashboards personalizados.
 * **InfluxDB:**
     * O Grafana também se integra com o InfluxDB, outro sistema de coleta e armazenamento de métricas.
-* **Elasticsearch:**
+* **[[Elasticsearch]]:**
     * O Grafana pode ser integrado com o Elasticsearch para visualizar logs e traces.
 * **Graphite:**
     * O Grafana se integra com o Graphite, um sistema de coleta e armazenamento de métricas legado.
@@ -60,7 +60,7 @@ O Grafana é uma **plataforma de código aberto** para **visualização e análi
 	- Funcionalidade de alerta integrada ao Grafana.
 	- Permite definir alertas com base em painéis e consultas do Grafana.
 	- Suporta diversos canais de notificação, como email, Slack, Webhooks e Opsgenie.
-	- Mais fácil de usar do que o Alert Manager do Prometheus, especialmente para usuários iniciantes.
+	- Mais fácil de usar do que o Alert Manager do [[Prometheus]], especialmente para usuários iniciantes.
 - **Recomendado para:**
     - Ambientes simples com poucos alertas.
     - Usuários que desejam uma solução fácil de usar.

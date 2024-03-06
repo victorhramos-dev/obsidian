@@ -40,7 +40,7 @@
 2. **Armazenamento**: Armazena os dados localmente
 3. **Agregação**: Aplica regras sobre os dados pra realizar a agregação
 4. **Alertas**: Gera alertas sobre esses dados caso se aplique à determinadas condições.
-5. **Visualização**: Os dados ficam disponíveis para exibição via Prometheus WebUI, Grafana ou outros dashboards que se integrem via API.
+5. **Visualização**: Os dados ficam disponíveis para exibição via Prometheus WebUI, [[Grafana]] ou outros dashboards que se integrem via API.
 
 ## Linha de Comando
 - prometheus: prometheus server

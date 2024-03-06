@@ -29,7 +29,7 @@
 - [x] SGBD SQL
 - [x] SGBD NoSQL
 - [x] Modelagem de Dados Relacional
-- [x] Modelagem de Dados Multidimensional
+- [x] [[Modelagem de Dados Multidimensional]]
 - [x] Modelagem de Dados NoSQL
 - [x] PL & SQL
 - [x] Business Inteligence
@@ -51,12 +51,12 @@
 - [x] Certificados
 - [ ] Active Directiory (AD)
 - [x] Monitoração (_Index_of_Monitoração)
-	- [x] Grafana
-	- [x] Prometheus
+	- [x] [[Grafana]]
+	- [x] [[Prometheus]]
 	- [x] Nagios
-	- [x] Elasticsearch
+	- [x] [[Elasticsearch]]
 	- [x] Kibana
-	- [x] Logstash
+	- [x] [[Logstash]]
 	- [x] Application Performance Monitoring (APM)
 - [x] Iaas
 - [x] Paas

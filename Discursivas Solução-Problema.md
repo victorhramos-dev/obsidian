@@ -14,7 +14,7 @@ microservicos:
     modelos: Random Forest, XGBoost
     
   - nome: Monitoramento
-    tecnologia: Prometheus
+    tecnologia: [[Prometheus]]
 pipeline:
   - ingestão
   - processamento
@@ -22,7 +22,7 @@ pipeline:
 CI/CD: Jenkins
 ```
 
-O fluxo de operação começa com a ingestão de dados em tempo real usando o Kafka. Esses dados são então processados pelo Spark para limpeza e transformação. Os modelos de aprendizado de máquina, Random Forest e XGBoost, implementados no TensorFlow e PyTorch, são usados para identificar possíveis fraudes. O monitoramento contínuo é realizado usando o Prometheus, garantindo que o sistema esteja sempre funcionando de maneira ideal.
+O fluxo de operação começa com a ingestão de dados em tempo real usando o Kafka. Esses dados são então processados pelo Spark para limpeza e transformação. Os modelos de aprendizado de máquina, Random Forest e XGBoost, implementados no TensorFlow e PyTorch, são usados para identificar possíveis fraudes. O monitoramento contínuo é realizado usando o [[Prometheus]], garantindo que o sistema esteja sempre funcionando de maneira ideal.
 
 **Redação**
 

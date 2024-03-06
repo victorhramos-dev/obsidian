@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/DevOps.md"
+                "file": "Infraestrutura/Monitoração/Nagios.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 422.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +167,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2cb4eeb5f1b993a7",
+  "active": "85c943aa377660db",
   "lastOpenFiles": [
-    "Engenharia de Software/DevSecOps.md",
+    "Infraestrutura/Monitoração/Logstash.md",
+    "Banco de Dados/Modelagem de Dados Multidimensional.md",
+    "Infraestrutura/Monitoração/Prometheus.md",
+    "Discursivas Solução-Problema.md",
+    "Infraestrutura/Monitoração/Grafana.md",
+    "Infraestrutura/Monitoração/Elasticsearch.md",
+    "Infraestrutura/Redes/WAN.md",
     "Engenharia de Software/DevOps.md",
+    "Engenharia de Software/DevSecOps.md",
     "Engenharia de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Engenharia de Software/Padrões de Projeto GoF, GRASP.md",
@@ -177,25 +185,18 @@
     "Pasted image 20240220140453.png",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Segurança/Segurança em Cloud Computing.md",
-    "Discursivas Solução-Problema.md",
     "Edital.md",
     "_Index_of_Bacen-OBS.md",
     "Ciência de Dados/Big Data.md",
     "Edital Vertical.md",
     "Ciência de Dados/Sem título.canvas",
     "Infraestrutura/Monitoração/Kibana.md",
-    "Infraestrutura/Monitoração/Logstash.md",
-    "Infraestrutura/Monitoração/Elasticsearch.md",
     "Engenharia de Software/Práticas de UX UI.md",
     "Engenharia de Software/Transações Distribuídas.md",
     "Infraestrutura/Redes/_Index_of_Redes.md",
     "Infraestrutura/Redes/Active Directiory (AD).md",
     "Infraestrutura/Redes/SDN.md",
-    "Infraestrutura/Monitoração/Prometheus.md",
     "Segurança/Ferramentas de Segurança/SIEM.md",
-    "Segurança/Criptografia e Proteção de Dados.md",
-    "Bacen/_Index_of_Bacen.md",
-    "Direito Administrativo/LGPD.md",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
   ]
