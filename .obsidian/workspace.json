@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital Vertical.md"
+                "file": "Ciência de Dados/Big Data.md"
               }
             }
           },
@@ -168,13 +168,13 @@
   },
   "active": "470b2dddecc381c5",
   "lastOpenFiles": [
+    "Edital Vertical.md",
     "Edital.md",
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Sem título.canvas",
     "Infraestrutura/Monitoração/Kibana.md",
     "Infraestrutura/Monitoração/Logstash.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
-    "Edital Vertical.md",
     "Engenharia de Software/Práticas de UX UI.md",
     "Engenharia de Software/Transações Distribuídas.md",
     "Infraestrutura/Redes/_Index_of_Redes.md",
