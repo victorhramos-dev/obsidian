@@ -59,5 +59,3 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [ ] Scrum
 - [ ] Governança de Dados.
 - [ ] ITIL v4
-
-DDCEEAABECDEDBDEABEAADCECEBECAECDCDABDBAECACBDABEAEDDCCEACDBAADEBAEBDB

@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Edital.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital Vertical.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Edital Vertical.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "_Index_of_Bacen-OBS.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
@@ -235,7 +236,6 @@
     "Segurança/Segurança em Cloud Computing.md",
     "Edital.md",
     "Ciência de Dados/Big Data.md",
-    "Edital Vertical.md",
     "Ciência de Dados/Sem título.canvas",
     "Infraestrutura/Monitoração/Kibana.md",
     "Engenharia de Software/Práticas de UX UI.md",
