@@ -9,9 +9,9 @@ Nagios é um sistema **opensource** (*Nagios Core*) de monitoração de infraest
 - **Flexibilidade necessária**: Nagios é extensivel via plugins e addons. Quando um hardware não possui suporte nativo é possível desenvolver um [[#Plugins|plugin]] para embarcar o monitoramento do hardware com o Nagios. 
 
 ## Quando não usar?
-- **Redes domésticas de baixa complexidade:** O Nagios suporta tranquilamente esse cenário, porém oferece um grau de complexidade para o acompanhamento que não é bem vindo nessas topologias. ==**Alternativas para essa situação:**== *MRTG, Cacti, LibreNMS.*
-- **Tempo Real:** embora consiga detectar problemas em dispositivos com certa agilidade o Nagios apresenta uma latencia alta devido ao seu processo de [[coleta de dados]] via [[Agentes]] ou [[SNMP]]. ==**Alternativas para essa situação:**== *[[Prometheus]], [[Grafana]], InfluxDB.*
-- **Empresas com baixo orçamento:** Mesmo sendo um software opensource, normalmente sua implantação requer um profissional especializado e a aquisição de um suporte mais amplos da versão comercial Nagios XI. ==**Alternativas para essa situação:**== *PRTG, Zabbix, SolarWinds*.
+- **Redes domésticas de baixa complexidade**: O Nagios suporta tranquilamente esse cenário, porém oferece um grau de complexidade para o acompanhamento que não é bem vindo nessas topologias. ==**Alternativas para essa situação**== *MRTG, Cacti, LibreNMS.*
+- **Tempo Real**: embora consiga detectar problemas em dispositivos com certa agilidade o Nagios apresenta uma latencia alta devido ao seu processo de [[coleta de dados]] via [[Agentes]] ou [[SNMP]]. ==**Alternativas para essa situação**== *[[Prometheus]], [[Grafana]], InfluxDB.*
+- **Empresas com baixo orçamento**: Mesmo sendo um software opensource, normalmente sua implantação requer um profissional especializado e a aquisição de um suporte mais amplos da versão comercial Nagios XI. ==**Alternativas para essa situação**== *PRTG, Zabbix, SolarWinds*.
 
 ## Componentes
 ### Core
