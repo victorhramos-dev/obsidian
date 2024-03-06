@@ -82,14 +82,14 @@
 
 
 ## Engenharia de Software
-- [x] DevOps 
+- [x] [[DevOps]] 
 - [x] DevSecOps 
 - [x] CI & CD 
 - [x] Web Services 
 - [x] Padrões de Projeto GoF, GRASP 
 - [x] Transações Distribuídas 
 - [x] Práticas de UX UI 
-- [ ] Desenvolvimento Seguro (SDL, OWASP, CLASP)
+- [ ] [[Desenvolvimento Seguro (SDL, OWASP, CLASP)]]
 - [ ] Programação Assíncrona
 - [x] Git
 - [ ] Java
