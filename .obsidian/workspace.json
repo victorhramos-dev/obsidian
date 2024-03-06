@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Index_of_Bacen-OBS.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Bacen-OBS.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_Bacen-OBS.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_Bacen-OBS.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Bacen-OBS.md"
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md"
               }
             }
           },
@@ -207,13 +207,14 @@
       "markdown-importer:Abrir importador Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
-    "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "_Index_of_Bacen-OBS.md",
+    "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
     "Discursivas Solução-Problema.md",
     "Infraestrutura/Monitoração/Nagios.md",
