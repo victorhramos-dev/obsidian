@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a93c0e8afd1ea8f",
+        "id": "fbbace9b2bf95d81",
         "type": "tabs",
         "children": [
           {
-            "id": "85c943aa377660db",
+            "id": "3f0c74e0a072110f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,11 +139,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "526c51cb8bfb244e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27a29bbeca5a6fb",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +168,14 @@
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir importador Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "85c943aa377660db",
+  "active": "3f0c74e0a072110f",
   "lastOpenFiles": [
+    "_Index_of_Bacen-OBS.md",
+    "Infraestrutura/Monitoração/Nagios.md",
     "Infraestrutura/Monitoração/Logstash.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Infraestrutura/Monitoração/Prometheus.md",
@@ -186,7 +193,6 @@
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Edital.md",
-    "_Index_of_Bacen-OBS.md",
     "Ciência de Dados/Big Data.md",
     "Edital Vertical.md",
     "Ciência de Dados/Sem título.canvas",
@@ -196,7 +202,6 @@
     "Infraestrutura/Redes/_Index_of_Redes.md",
     "Infraestrutura/Redes/Active Directiory (AD).md",
     "Infraestrutura/Redes/SDN.md",
-    "Segurança/Ferramentas de Segurança/SIEM.md",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
   ]
