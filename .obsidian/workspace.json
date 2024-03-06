@@ -11,13 +11,8 @@
             "id": "470b2dddecc381c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,6 +151,7 @@
   },
   "active": "470b2dddecc381c5",
   "lastOpenFiles": [
+    "Segurança/Segurança em Cloud Computing.md",
     "Discursivas Solução-Problema.md",
     "Edital.md",
     "_Index_of_Bacen-OBS.md",
