@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Edital Vertical.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Edital Vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md"
+                "file": "Edital Vertical.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "_Index_of_Bacen-OBS.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
@@ -231,7 +232,6 @@
     "Engenharia de Software/Padrões de Projeto GoF, GRASP.md",
     "Engenharia de Software/Java.md",
     "Pasted image 20240220140453.png",
-    "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Edital.md",
     "Ciência de Dados/Big Data.md",
