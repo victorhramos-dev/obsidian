@@ -4,18 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "fbbace9b2bf95d81",
+        "id": "5e83eb9f27982162",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0c74e0a072110f",
+            "id": "f27a29bbeca5a6fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "map-of-content",
               "state": {}
             }
+          },
+          {
+            "id": "706395295c972768",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_Index_of_Bacen-OBS.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000007,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "bed4c9c4b8e5152b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Index_of_Bacen-OBS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Index_of_Bacen-OBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Index_of_Bacen-OBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Index_of_Bacen-OBS.md"
+              }
             }
           },
           {
@@ -137,26 +189,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "526c51cb8bfb244e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f27a29bbeca5a6fb",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 422.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,14 +210,16 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3f0c74e0a072110f",
+  "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "_Index_of_Bacen-OBS.md",
+    "Infraestrutura/_Index_of_Infraestrutura.md",
+    "Discursivas Solução-Problema.md",
     "Infraestrutura/Monitoração/Nagios.md",
     "Infraestrutura/Monitoração/Logstash.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Infraestrutura/Monitoração/Prometheus.md",
-    "Discursivas Solução-Problema.md",
     "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
     "Infraestrutura/Redes/WAN.md",
@@ -200,8 +240,6 @@
     "Engenharia de Software/Práticas de UX UI.md",
     "Engenharia de Software/Transações Distribuídas.md",
     "Infraestrutura/Redes/_Index_of_Redes.md",
-    "Infraestrutura/Redes/Active Directiory (AD).md",
-    "Infraestrutura/Redes/SDN.md",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
   ]
