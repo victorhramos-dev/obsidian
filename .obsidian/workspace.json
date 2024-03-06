@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Discursivas Solução-Problema.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Discursivas Solução-Problema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Discursivas Solução-Problema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Discursivas Solução-Problema.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "470b2dddecc381c5",
   "lastOpenFiles": [
-    "_Index_of_Bacen-OBS.md",
     "Edital.md",
+    "_Index_of_Bacen-OBS.md",
     "Ciência de Dados/Big Data.md",
     "Edital Vertical.md",
     "Ciência de Dados/Sem título.canvas",
