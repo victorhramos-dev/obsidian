@@ -60,6 +60,5 @@
 ## Herança
 ### Sobreposição
 - Possibilidade de **a classe filha implementar o método da classe pai**, passando a "valer" o método chamado de acordo com o tipo de objeto.
-- ![[Pasted image 20240213225802.png]]
 ### Sobrecarga
-- Ocorre quando há vários métodos **na mesma classe** que possuem o mesmo nome porém **argumentos diferentes**.
+- Ocorre quando há vários métodos **na mesma classe** que possuem o mesmo nome porém **argumentos diferentes** (assinatura).
