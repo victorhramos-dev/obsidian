@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discursivas Solução-Problema.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discursivas Solução-Problema.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discursivas Solução-Problema.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discursivas Solução-Problema.md"
+                "file": "Segurança/Segurança em Cloud Computing.md"
               }
-            }
-          },
-          {
-            "id": "5f975dfd3aeb3752",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             }
           },
           {
@@ -145,17 +137,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "7246b854dd0bf7b6",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,6 +160,7 @@
   },
   "active": "470b2dddecc381c5",
   "lastOpenFiles": [
+    "Discursivas Solução-Problema.md",
     "Edital.md",
     "_Index_of_Bacen-OBS.md",
     "Ciência de Dados/Big Data.md",
@@ -190,7 +175,6 @@
     "Infraestrutura/Redes/Active Directiory (AD).md",
     "Infraestrutura/Redes/SDN.md",
     "Infraestrutura/Monitoração/Prometheus.md",
-    "Discursivas Solução-Problema.md",
     "Segurança/Ferramentas de Segurança/SIEM.md",
     "Segurança/Criptografia e Proteção de Dados.md",
     "Pasted image 20240220140453.png",
