@@ -41,7 +41,7 @@
 - Deve conter, de forma obrigatória, pelo menos um Controlador e delegar a invocação dos métodos para os repositórios.
 
 ## Stream API
-- Novidade no Java 8
+- Novidade do Java 8 
 ### Métodos
 - **filter**: tem a missão de filtrar os elementos de um fluxo de acordo com alguma condição fornecida, ao final ele nos retorna um fluxo apenas com os elementos que se enquadaram na condição.
 - **distinct**: tem a missão de retornar um fluxo contendo apenas elementos únicos, sem dados duplicados.
