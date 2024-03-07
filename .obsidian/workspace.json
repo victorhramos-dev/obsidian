@@ -243,8 +243,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 288,
-        "y": 35,
+        "x": 273,
+        "y": 46,
         "width": 1024,
         "height": 800,
         "maximize": false,
