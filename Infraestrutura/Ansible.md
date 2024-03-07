@@ -1,0 +1,22 @@
+Ansible é uma ferramenta de automação de TI que permite automatizar tarefas repetitivas, provisionar servidores, configurar sistemas e orquestrar aplicativos. Ele é baseado em YAML e utiliza uma abordagem de infraestrutura como código (IaC), o que significa que a configuração é expressa em arquivos de texto simples, proporcionando facilidade de manutenção e escalabilidade.
+## Learning Path
+- **Introdução ao Ansible**
+    - Definição e propósito do Ansible.
+    - Comparação com outras ferramentas de automação.
+    - Instalação e configuração inicial.
+- **Conceitos Básicos**
+    - Inventário: organização de hosts.
+    - Módulos: unidades de execução de tarefas.
+    - Playbooks: descrição de configuração e automação.
+- **Gerenciamento de Configuração**
+    - Ad-hoc commands: execução de comandos rapidamente.
+    - Playbooks: estrutura e execução.
+    - Variáveis e fatos: manipulação de dados dinâmicos.
+- **Implantação de Aplicativos**
+    - Roles: reutilização de código.
+    - Handlers: reações a eventos específicos.
+    - Templates: geração dinâmica de arquivos de configuração.
+- **Automação Avançada**
+    - Ansible Vault: gerenciamento de segredos.
+    - Ansible Galaxy: compartilhamento de papéis.
+    - Integração com ferramentas de CI/CD.
