@@ -21,6 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Engenharia de Software/DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -65,8 +66,12 @@
             "id": "ed7ad25551d69470",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Engenharia de Software/DevOps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -136,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engenharia de Software/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engenharia de Software/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engenharia de Software/DevOps.md"
+              }
             }
           },
           {
