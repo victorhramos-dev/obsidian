@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Infraestrutura/Ansible.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Edital.md",
     "Edital Vertical.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "_Index_of_Bacen-OBS.md",
@@ -234,7 +235,6 @@
     "Engenharia de Software/Java.md",
     "Pasted image 20240220140453.png",
     "Segurança/Segurança em Cloud Computing.md",
-    "Edital.md",
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Sem título.canvas",
     "Infraestrutura/Monitoração/Kibana.md",
