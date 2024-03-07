@@ -208,8 +208,8 @@
       "markdown-importer:Abrir importador Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "map-of-content:Update Map of Content": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "bed4c9c4b8e5152b",
