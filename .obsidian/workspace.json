@@ -21,6 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Infraestrutura/Ansible.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -60,17 +61,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5aee03680cdd4ba4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Infraestrutura/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Infraestrutura/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Infraestrutura/Ansible.md"
+              }
             }
           },
           {
@@ -252,7 +249,7 @@
       }
     ]
   },
-  "active": "5aee03680cdd4ba4",
+  "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
     "Engenharia de Software/DevOps.md",
     "_Index_of_Bacen-OBS.md",
