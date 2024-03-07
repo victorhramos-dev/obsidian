@@ -21,7 +21,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engenharia de Software/_Index_of_Engenharia de Software.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,12 +65,8 @@
             "id": "ed7ad25551d69470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Software/_Index_of_Engenharia de Software.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -125,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.49999618530273,
-    "collapsed": true
+    "width": 271.49999618530273
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -142,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/_Index_of_Engenharia de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/_Index_of_Engenharia de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +173,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engenharia de Software/_Index_of_Engenharia de Software.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,6 +217,7 @@
   "active": "ed7ad25551d69470",
   "lastOpenFiles": [
     "_Index_of_Bacen-OBS.md",
+    "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Infraestrutura/Ansible.md",
     "Edital.md",
     "Edital Vertical.md",
@@ -244,7 +235,6 @@
     "Engenharia de Software/DevOps.md",
     "Engenharia de Software/DevSecOps.md",
     "Engenharia de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
-    "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Engenharia de Software/Padrões de Projeto GoF, GRASP.md",
     "Engenharia de Software/Java.md",
     "Pasted image 20240220140453.png",
