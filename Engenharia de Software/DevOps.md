@@ -2,7 +2,7 @@
 - Cultura e práticas que visam integrar o desenvolvimento de software (DEV) com a operação de sistemas (OPS) para melhorar a colaboração e a entrega contínua de software com alta qualidade.
 
 # Questões
-[[ lin]]
+https://www.tecconcursos.com.br/s/Q3NdId
 ## Cultura
 - **Colaboração multidiscplinar**
 	- Foco na quebra de silos entre equipes de desenvolvimento, operações e outras áreas.
