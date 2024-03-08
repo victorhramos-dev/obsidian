@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Edital Vertical.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md"
+                "file": "Edital Vertical.md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "Edital.md",
+    "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Kubernetes.md",
-    "Infraestrutura/Infraestrutura como código.md",
     "Gestão em TI/Kanban.md",
     "Gestão em TI/Itil 4.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
@@ -199,7 +200,6 @@
     "Infraestrutura/Puppet.md",
     "Infraestrutura/Saas.md",
     "_Index_of_Bacen.md",
-    "Edital.md",
     "Discursivas Solução-Problema.md",
     "Pasted image 20240220140453.png",
     "_Index_of_Bacen-OBS.md",
