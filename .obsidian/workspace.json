@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md"
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Infraestrutura/Ansible.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Engenharia de Software/DevOps.md",
@@ -220,7 +221,6 @@
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Edital.md",
     "Edital Vertical.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
     "Discursivas Solução-Problema.md",
