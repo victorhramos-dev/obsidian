@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"Infraestrutura/Kubernetes.md","width":500,"height":500,"y":1200,"x":0,"type":"file","file":"Infraestrutura/Kubernetes.md","color":"1"},
+		{"id":"Infraestrutura/Redes/Protocolos/HTTP.md","width":500,"height":500,"x":1000,"y":0,"type":"file","file":"Infraestrutura/Redes/Protocolos/HTTP.md"},
+		{"id":"Infraestrutura/Redes/Protocolos/HTTPS.md","width":500,"height":500,"x":1000,"y":600,"type":"file","file":"Infraestrutura/Redes/Protocolos/HTTPS.md"},
+		{"id":"Infraestrutura/Docker.md","width":500,"height":500,"x":1000,"y":1200,"type":"file","file":"Infraestrutura/Docker.md"},
+		{"id":"Infraestrutura/Virtualização.md","width":500,"height":500,"x":2000,"y":1200,"type":"file","file":"Infraestrutura/Virtualização.md"},
+		{"id":"Infraestrutura/Monitoração/Prometheus.md","width":500,"height":500,"x":1000,"y":2100,"type":"file","file":"Infraestrutura/Monitoração/Prometheus.md"},
+		{"id":"Banco de Dados/Modelagem de Dados Multidimensional.md","width":500,"height":500,"x":2000,"y":1800,"type":"file","file":"Banco de Dados/Modelagem de Dados Multidimensional.md"},
+		{"id":"Infraestrutura/Monitoração/Grafana.md","width":500,"height":500,"x":2000,"y":2400,"type":"file","file":"Infraestrutura/Monitoração/Grafana.md"},
+		{"id":"Edital Vertical.md","width":500,"height":500,"x":-1000,"y":0,"type":"file","file":"Edital Vertical.md"},
+		{"id":"Edital.md","width":500,"height":500,"x":-1000,"y":600,"type":"file","file":"Edital.md"},
+		{"id":"Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md","width":500,"height":500,"x":-1000,"y":1200,"type":"file","file":"Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md"},
+		{"id":"Engenharia de Software/DevOps.md","width":500,"height":500,"x":-1000,"y":1800,"type":"file","file":"Engenharia de Software/DevOps.md"},
+		{"id":"Infraestrutura/_Index_of_Infraestrutura.md","width":500,"height":500,"x":-1000,"y":2400,"type":"file","file":"Infraestrutura/_Index_of_Infraestrutura.md"}
+	],
+	"edges":[
+		{"id":"Infraestrutura/Kubernetes.md-Infraestrutura/Redes/Protocolos/HTTP.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Kubernetes.md","toNode":"Infraestrutura/Redes/Protocolos/HTTP.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Infraestrutura/Redes/Protocolos/HTTPS.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Kubernetes.md","toNode":"Infraestrutura/Redes/Protocolos/HTTPS.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Infraestrutura/Docker.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Kubernetes.md","toNode":"Infraestrutura/Docker.md"},
+		{"id":"Infraestrutura/Docker.md-Infraestrutura/Virtualização.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Docker.md","toNode":"Infraestrutura/Virtualização.md"},
+		{"id":"Infraestrutura/Docker.md-Infraestrutura/Kubernetes.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Docker.md","toNode":"Infraestrutura/Kubernetes.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Infraestrutura/Monitoração/Prometheus.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Kubernetes.md","toNode":"Infraestrutura/Monitoração/Prometheus.md"},
+		{"id":"Infraestrutura/Monitoração/Prometheus.md-Banco de Dados/Modelagem de Dados Multidimensional.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Monitoração/Prometheus.md","toNode":"Banco de Dados/Modelagem de Dados Multidimensional.md"},
+		{"id":"Infraestrutura/Monitoração/Prometheus.md-Infraestrutura/Monitoração/Prometheus.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Monitoração/Prometheus.md","toNode":"Infraestrutura/Monitoração/Prometheus.md"},
+		{"id":"Infraestrutura/Monitoração/Prometheus.md-Infraestrutura/Monitoração/Grafana.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/Monitoração/Prometheus.md","toNode":"Infraestrutura/Monitoração/Grafana.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Edital Vertical.md","fromSide":"right","toSide":"left","fromNode":"Edital Vertical.md","toNode":"Infraestrutura/Kubernetes.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Edital.md","fromSide":"right","toSide":"left","fromNode":"Edital.md","toNode":"Infraestrutura/Kubernetes.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md","fromSide":"right","toSide":"left","fromNode":"Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md","toNode":"Infraestrutura/Kubernetes.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Engenharia de Software/DevOps.md","fromSide":"right","toSide":"left","fromNode":"Engenharia de Software/DevOps.md","toNode":"Infraestrutura/Kubernetes.md"},
+		{"id":"Infraestrutura/Kubernetes.md-Infraestrutura/_Index_of_Infraestrutura.md","fromSide":"right","toSide":"left","fromNode":"Infraestrutura/_Index_of_Infraestrutura.md","toNode":"Infraestrutura/Kubernetes.md"}
+	]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Monitoração/Nagios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md"
+                "file": "Infraestrutura/Monitoração/Nagios.md"
               }
             }
           },
@@ -189,6 +188,11 @@
   },
   "active": "9216cd635dc8ea63",
   "lastOpenFiles": [
+    "Elasticsearch.canvas",
+    "Infraestrutura/Monitoração/Elasticsearch.md",
+    "Infraestrutura/Ansible.md",
+    "Kubernetes.canvas",
+    "Infraestrutura/Kubernetes.md",
     "DevOps.canvas",
     "Engenharia de Software/CI & CD.md",
     "Engenharia de Software/Web Services.md",
@@ -201,7 +205,6 @@
     "Engenharia de Software/DevOps.md",
     "Engenharia de Software/DLT.md",
     "Infraestrutura/Docker.md",
-    "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Virtualização.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
@@ -209,12 +212,10 @@
     "Infraestrutura/Puppet.md",
     "Infraestrutura/Paas.md",
     "Infraestrutura/Iaas.md",
-    "Infraestrutura/Ansible.md",
     "Engenharia de Software/DevSecOps.md",
     "Engenharia de Software/Arquiteturas/Arquitetura SOA.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/gRPC.md",
-    "_Index_of_Bacen.md",
     "Arquitetura de MicroServiços.canvas",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",

@@ -52,7 +52,7 @@ Nagios é um sistema **opensource** (*Nagios Core*) de monitoração de infraest
 		- **SNMP:** Para monitorar dispositivos de rede.
 		- **NRPE:** Para executar plugins em hosts remotos através do SSH.
 		- **PING:** Para verificar a conectividade com hosts.
-		- **HTTP:** Para monitorar websites e serviços web.
+		- **[[HTTP]]:** Para monitorar websites e serviços web.
 		- **TCP:** Para verificar se portas específicas estão abertas.
 - **Tipos de dados**:
 	- **Texto simples:** Formato mais comum, geralmente usado para status e eventos.
@@ -81,7 +81,7 @@ Nagios é um sistema **opensource** (*Nagios Core*) de monitoração de infraest
 - **TCP:** Verifica se portas específicas estão abertas.
 - **UDP:** Verifica se portas UDP específicas estão abertas.
 - **SNMP:** Monitora dispositivos de rede que suportam SNMP.
-- **HTTP:** Monitora websites e serviços web.
+- **[[HTTP]]:** Monitora websites e serviços web.
 - **HTTPS:** Monitora websites e serviços web seguros.
 - **FTP:** Monitora servidores FTP.
 - **SSH:** Monitora servidores SSH.

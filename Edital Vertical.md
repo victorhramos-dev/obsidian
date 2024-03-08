@@ -53,7 +53,7 @@
 - [x] Monitoração (_Index_of_Monitoração)
 	- [x] [[Grafana]]
 	- [x] [[Prometheus]]
-	- [x] Nagios
+	- [x] [[Nagios]]
 	- [x] [[Elasticsearch]]
 	- [x] Kibana
 	- [x] [[Logstash]]

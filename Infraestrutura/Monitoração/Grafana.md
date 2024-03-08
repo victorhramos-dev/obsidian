@@ -40,7 +40,7 @@ O Grafana é uma **plataforma de código aberto** para **visualização e análi
 * **InfluxDB:**
     * O Grafana também se integra com o InfluxDB, outro sistema de coleta e armazenamento de métricas.
 * **[[Elasticsearch]]:**
-    * O Grafana pode ser integrado com o Elasticsearch para visualizar logs e traces.
+    * O Grafana pode ser integrado com o [[Elasticsearch]] para visualizar logs e traces.
 * **Graphite:**
     * O Grafana se integra com o Graphite, um sistema de coleta e armazenamento de métricas legado.
 * **CloudWatch:**

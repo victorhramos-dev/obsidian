@@ -79,7 +79,7 @@
 - São permitidas também consultas [[PL & SQL]]
 	- Drivers JDBC
 	- Drivers ODBC
-- Suportar 4 tipos de operação por meio do HTTP:
+- Suportar 4 tipos de operação por meio do [[HTTP]]:
 	- **indexar** documentos
 	- **buscar** documentos
 	- **atualizar** documentos

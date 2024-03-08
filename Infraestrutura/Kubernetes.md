@@ -2,7 +2,6 @@
 cards-deck: Infraestrutura
 ---
 
-
 ## Afirmações
 - Kubernetes é uma plataforma de orquestração de contêineres que automatiza o provisionamento, escalonamento e gerenciamento de aplicativos em contêineres.
 - Pods são a menor unidade em Kubernetes, consistindo em um ou mais contêineres que compartilham armazenamento, rede e especificações de ciclo de vida.
@@ -43,9 +42,9 @@ cards-deck: Infraestrutura
 - O Kata Containers é uma tecnologia que combina as vantagens de VMs e contêineres, oferecendo isolamento de segurança semelhante ao de VMs com a eficiência dos contêineres, suportado pelo Kubernetes.
 - O Multus é um plugin CNI em Kubernetes que permite que um pod tenha várias interfaces de rede, oferecendo flexibilidade na configuração da rede para aplicativos complexos.
 - O PodDisruptionBudget é um recurso em Kubernetes que permite limitar o número de pods que podem ser desligados simultaneamente para garantir a alta disponibilidade de aplicativos.
-- O Prometheus é uma ferramenta de monitoramento amplamente usada com Kubernetes, oferecendo métricas detalhadas sobre o desempenho e a saúde do cluster e dos aplicativos.
+- O [[Prometheus]] é uma ferramenta de monitoramento amplamente usada com Kubernetes, oferecendo métricas detalhadas sobre o desempenho e a saúde do cluster e dos aplicativos.
 - O Istio é uma plataforma de serviço de malha que pode ser integrada com Kubernetes para controle de tráfego e segurança, oferecendo recursos avançados de gerenciamento de tráfego e políticas de segurança.
-- O Contour é um controlador Ingress para Kubernetes projetado para desempenho e escalabilidade, oferecendo recursos avançados de roteamento de tráfego [[HTTPS|HTTP]] e HTTPS.
+- O Contour é um controlador Ingress para Kubernetes projetado para desempenho e escalabilidade, oferecendo recursos avançados de roteamento de tráfego [[HTTPS|HTTP]] e [[HTTPS]].
 - O MetalLB é um controlador de balanceador de carga para Kubernetes que permite a atribuição de endereços IP a serviços, facilitando a exposição de serviços externamente.
 - O Kube-proxy é um componente em Kubernetes que gerencia o tráfego de rede para serviços, oferecendo balanceamento de carga e encaminhamento de pacotes para os pods corretos.
 - O Fluentd é uma ferramenta de coleta e encaminhamento de logs que pode ser integrada com Kubernetes para centralizar logs, oferecendo insights sobre o comportamento e o desempenho dos aplicativos.
@@ -58,7 +57,7 @@ Os Services em Kubernetes são usados para expor aplicativos implantados dentro 
 
 Os manifestos que descrevem os recursos do Kubernetes, como pods, serviços e deployments, são escritos em YAML. Dentro de um cluster, um namespace Kubernetes é uma maneira de organizar e isolar recursos, permitindo a divisão lógica de recursos. O Helm é um gerenciador de pacotes para Kubernetes que simplifica o processo de implantação e gerenciamento de aplicativos usando modelos pré-configurados.
 
-O Ingress é um recurso em Kubernetes usado para controlar o acesso externo aos serviços dentro do cluster, permitindo o roteamento de solicitações [[HTTP]] e HTTPS. Os StatefulSets são usados para aplicativos que exigem identidades persistentes e únicas, como bancos de dados, garantindo a ordem e a persistência dos pods. Um DaemonSet em Kubernetes garante que todos (ou alguns) nós em um cluster executem uma cópia específica de um pod, como um agente de monitoramento.
+O Ingress é um recurso em Kubernetes usado para controlar o acesso externo aos serviços dentro do cluster, permitindo o roteamento de solicitações [[HTTP]] e [[HTTPS]]. Os StatefulSets são usados para aplicativos que exigem identidades persistentes e únicas, como bancos de dados, garantindo a ordem e a persistência dos pods. Um DaemonSet em Kubernetes garante que todos (ou alguns) nós em um cluster executem uma cópia específica de um pod, como um agente de monitoramento.
 
 O Horizontal Pod Autoscaler (HPA) ajusta automaticamente o número de réplicas de um aplicativo com base na utilização da CPU ou outras métricas definidas pelo usuário. Um Secret em Kubernetes é um objeto usado para armazenar informações sensíveis, como senhas, chaves SSH ou tokens de API, de forma segura. O NetworkPolicy é um recurso em Kubernetes usado para especificar como os pods podem se comunicar entre si e com outros recursos de rede dentro do cluster.
 
@@ -78,7 +77,7 @@ Um Static Pod em Kubernetes é um pod cuja configuração é gerenciada diretame
 
 O Kata Containers é uma tecnologia que combina as vantagens de VMs e contêineres, oferecendo isolamento de segurança semelhante ao de VMs com a eficiência dos contêineres, suportado pelo Kubernetes. O Multus é um plugin CNI em Kubernetes que permite que um pod tenha várias interfaces de rede, oferecendo flexibilidade na configuração da rede para aplicativos complexos. O PodDisruptionBudget é um recurso em Kubernetes que permite limitar o número de pods que podem ser desligados simultaneamente para garantir a alta disponibilidade de aplicativos.
 
-O Prometheus é uma ferramenta de monitoramento amplamente usada com Kubernetes, oferecendo métricas detalhadas sobre o desempenho e a saúde do cluster e dos aplicativos. O Istio é uma plataforma de serviço de malha que pode ser integrada com Kubernetes para controle de tráfego e segurança, oferecendo recursos avançados de gerenciamento de tráfego e políticas de segurança. O Contour é um controlador Ingress para Kubernetes projetado para desempenho e escalabilidade, oferecendo recursos avançados de roteamento de tráfego [[HTTP]] e HTTPS.
+O [[Prometheus]] é uma ferramenta de monitoramento amplamente usada com Kubernetes, oferecendo métricas detalhadas sobre o desempenho e a saúde do cluster e dos aplicativos. O Istio é uma plataforma de serviço de malha que pode ser integrada com Kubernetes para controle de tráfego e segurança, oferecendo recursos avançados de gerenciamento de tráfego e políticas de segurança. O Contour é um controlador Ingress para Kubernetes projetado para desempenho e escalabilidade, oferecendo recursos avançados de roteamento de tráfego [[HTTP]] e [[HTTPS]].
 
 O MetalLB é um controlador de balanceador de carga para Kubernetes que permite a atribuição de endereços IP a serviços, facilitando a exposição de serviços externamente. O Kube-proxy é um componente em Kubernetes que gerencia o tráfego de rede para serviços, oferecendo balanceamento de carga e encaminhamento de pacotes para os pods corretos. O Fluentd é uma ferramenta de coleta e encaminhamento de logs que pode ser integrada com Kubernetes para centralizar logs, oferecendo insights sobre o comportamento e o desempenho dos aplicativos.
 
