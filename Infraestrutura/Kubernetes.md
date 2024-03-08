@@ -77,3 +77,16 @@ O Kata Containers é uma tecnologia que combina as vantagens de VMs e contêiner
 O Prometheus é uma ferramenta de monitoramento amplamente usada com Kubernetes, oferecendo métricas detalhadas sobre o desempenho e a saúde do cluster e dos aplicativos. O Istio é uma plataforma de serviço de malha que pode ser integrada com Kubernetes para controle de tráfego e segurança, oferecendo recursos avançados de gerenciamento de tráfego e políticas de segurança. O Contour é um controlador Ingress para Kubernetes projetado para desempenho e escalabilidade, oferecendo recursos avançados de roteamento de tráfego HTTP e HTTPS.
 
 O MetalLB é um controlador de balanceador de carga para Kubernetes que permite a atribuição de endereços IP a serviços, facilitando a exposição de serviços externamente. O Kube-proxy é um componente em Kubernetes que gerencia o tráfego de rede para serviços, oferecendo balanceamento de carga e encaminhamento de pacotes para os pods corretos. O Fluentd é uma ferramenta de coleta e encaminhamento de logs que pode ser integrada com Kubernetes para centralizar logs, oferecendo insights sobre o comportamento e o desempenho dos aplicativos.
+
+# Visão CEBRASPE
+- Um aplicativo _conteinerizado_ pode ser testado como uma unidade e implantado como instância de uma imagem de contêiner no sistema operacional hospedeiro.
+- Kubernetes é uma plataforma utilizada para manter e implantar um grupo de contêineres em tempo de execução, além de ser comumente utilizada junto com a ferramenta Docker, para melhor controle e implementação de aplicativos em contêineres.
+- Um contêiner é um conjunto de processos organizados isoladamente do sistema; todos os arquivos necessários para executá-los são disponibilizados por uma imagem distinta.
+- Contêineres Docker encapsulam em um mesmo objeto a aplicação e o seu ambiente de execução (sistema operacional e demais dependências), aproximando os times de desenvolvimento e de operação.
+- Um contêiner deve fornecer um ambiente de hospedagem do lado do servidor gerenciado e um _middleware_ que intercepte as chamadas recebidas e, em seguida, execute as ações apropriadas para garantir que as propriedades desejadas do aplicativo distribuído sejam mantidas.
+- O Kubernetes faz o escalonamento e a recuperação no caso de falha de uma aplicação.
+- Ao conteinerizar uma aplicação, ela passa a ser executada de forma independente do sistema operacional e isolada de outras aplicações, o que aumenta a sua eficiência.
+- Os _containers_ oferecem um mecanismo de empacotamento lógico em que os aplicativos podem ser abstraídos pelo ambiente em que são efetivamente executados, mesmo se esse ambiente for uma nuvem pública.
+- Caso seja necessário informar ao _Docker_ que um container deve escutar na porta de rede 80 do TCP, o comando correto no DockerFile é o seguinte: EXPOSE 80/tcp
+- Em _containers_, a decomposição de funções de uma aplicação resulta em microsserviços, independentes entre si e com fraco acoplamento.
+- Com a implantação do Kubernetes, é obtido um cluster com pelo menos um nó de trabalho _(worker node)_; os nós de trabalho, por sua vez, hospedam vários componentes da carga de trabalho do aplicativo.
