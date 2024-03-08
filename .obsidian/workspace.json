@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infraestrutura/Ansible.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Ansible.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Ansible.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Ansible.md"
+                "file": "Ciência de Dados/Tipos de Aprendizado.md"
               }
             }
           },
@@ -230,7 +230,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Infraestrutura/Ansible.md",
+                    "file": "Ciência de Dados/Tipos de Aprendizado.md",
                     "mode": "source",
                     "source": false
                   }
@@ -244,15 +244,15 @@
         "y": 46,
         "width": 1024,
         "height": 800,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "588e05f08700db7c",
   "lastOpenFiles": [
-    "Engenharia de Software/DevOps.md",
     "Infraestrutura/Ansible.md",
+    "Engenharia de Software/DevOps.md",
     "_Index_of_Bacen-OBS.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Edital.md",
