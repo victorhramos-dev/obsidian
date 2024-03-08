@@ -1,4 +1,5 @@
 
+## Afirmações
 - Kubernetes é uma plataforma de orquestração de contêineres que automatiza o provisionamento, escalonamento e gerenciamento de aplicativos em contêineres.
 - Pods são a menor unidade em Kubernetes, consistindo em um ou mais contêineres que compartilham armazenamento, rede e especificações de ciclo de vida.
 - Um nó (node) em Kubernetes é uma máquina física ou virtual que faz parte do cluster e pode executar pods.
@@ -44,3 +45,6 @@
 - O MetalLB é um controlador de balanceador de carga para Kubernetes que permite a atribuição de endereços IP a serviços, facilitando a exposição de serviços externamente.
 - O Kube-proxy é um componente em Kubernetes que gerencia o tráfego de rede para serviços, oferecendo balanceamento de carga e encaminhamento de pacotes para os pods corretos.
 - O Fluentd é uma ferramenta de coleta e encaminhamento de logs que pode ser integrada com Kubernetes para centralizar logs, oferecendo insights sobre o comportamento e o desempenho dos aplicativos.
+
+
+## Overview
