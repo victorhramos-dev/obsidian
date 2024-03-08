@@ -2,7 +2,7 @@
  [[Infraestrutura/Ansible|Ansible]]
  [[Infraestrutura/Docker|Docker]]
  [[Infraestrutura/Iaas|Iaas]]
- [[Infraestrutura/IAC|IAC]]
+ [[Infraestrutura/Infraestrutura como código|Infraestrutura como código]]
  [[Infraestrutura/Kubernetes|Kubernetes]]
  [[Infraestrutura/Monitoração/_Index_of_Monitoração|_Index_of_Monitoração]]
  [[Infraestrutura/Paas|Paas]]

@@ -1,1 +1,0 @@
-# Infraestrutura como código
