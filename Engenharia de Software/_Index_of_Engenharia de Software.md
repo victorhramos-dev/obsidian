@@ -5,6 +5,7 @@
  [[Engenharia de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP)|Desenvolvimento Seguro (SDL, OWASP, CLASP)]]
  [[Engenharia de Software/DevOps|DevOps]]
  [[Engenharia de Software/DevSecOps|DevSecOps]]
+ [[Engenharia de Software/DLT|DLT]]
  [[Engenharia de Software/Git|Git]]
  [[Engenharia de Software/Java|Java]]
  [[Engenharia de Software/Padrões de Projeto GoF, GRASP|Padrões de Projeto GoF, GRASP]]

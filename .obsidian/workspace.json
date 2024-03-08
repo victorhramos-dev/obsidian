@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/DLT.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/DLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/DLT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Engenharia de Software/DLT.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "Edital.md",
+    "Engenharia de Software/DLT.md",
+    "Edital Vertical.md",
     "Discursivas Solução-Problema.md",
     "_Index_of_Bacen.md",
     "_Index_of_Bacen-OBS.md",
-    "Edital Vertical.md",
-    "Edital.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Kubernetes.md",
@@ -214,7 +215,6 @@
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
-    "Infraestrutura/Monitoração/Nagios.md",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
