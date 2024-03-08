@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Index_of_Bacen.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Index_of_Bacen.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Index_of_Bacen.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Index_of_Bacen.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
-    "_Index_of_Bacen-OBS.md",
+    "Discursivas Solução-Problema.md",
     "_Index_of_Bacen.md",
+    "_Index_of_Bacen-OBS.md",
     "Edital Vertical.md",
     "Edital.md",
     "Infraestrutura/Infraestrutura como código.md",
@@ -202,7 +203,6 @@
     "Infraestrutura/Paas.md",
     "Infraestrutura/Puppet.md",
     "Infraestrutura/Saas.md",
-    "Discursivas Solução-Problema.md",
     "Pasted image 20240220140453.png",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
