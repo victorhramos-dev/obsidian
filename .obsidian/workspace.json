@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md"
+                "file": "Engenharia de Software/DevOps.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Infraestrutura/Ansible.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
@@ -240,7 +241,6 @@
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Sem título.canvas",
     "Infraestrutura/Monitoração/Kibana.md",
-    "Engenharia de Software/Práticas de UX UI.md",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
   ]
