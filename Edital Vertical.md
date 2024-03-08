@@ -40,7 +40,7 @@
 
 
 ## Infraestrutura
-- [x] Puppet
+- [x] [[Puppet]]
 - [x] [[Ansible]]
 - [x] [[Docker]]
 - [x] [[Kubernetes]]
@@ -58,11 +58,11 @@
 	- [x] Kibana
 	- [x] [[Logstash]]
 	- [x] Application Performance Monitoring (APM)
-- [x] Iaas
-- [x] Paas
-- [x] Saas
-- [x] Tolerancia a falhas, Continuidade de Operação
-- [x] Virtualização
+- [x] [[Iaas]]
+- [x] [[Paas]]
+- [x] [[Saas]]
+- [x] [[Tolerancia a falhas, Continuidade de Operação]]
+- [x] [[Virtualização]]
 
 ## Redes
 - [x] Protocolos (_Index_of_Protocolos)

@@ -23,7 +23,7 @@ https://www.tecconcursos.com.br/s/Q3NdId
 4. Práticas do DevOps (20%)
     4.1. Integração contínua (5%)
     4.2. Entrega contínua (5%)
-    4.3. Infraestrutura como código (5%)
+    4.3. [[Infraestrutura como código]] (5%)
     4.4. Monitoramento e registro (5%)
 5. Cultura DevOps (20%)
     5.1. Colaboração (5%)
@@ -38,7 +38,7 @@ https://www.tecconcursos.com.br/s/Q3NdId
 - Em DevOps, além das ferramentas do ambiente de desenvolvimento integrado, são relevantes as ferramentas para gerenciamento de controle de fontes, trabalho colaborativo e planejamento de projetos.
 - As ferramentas DevOps incluem o [[Kubernetes]], uma plataforma de orquestração de contêineres que permite gerenciar e escalonar aplicativos em contêineres em diferentes ambientes e pode ser integrada a outras ferramentas DevOps, como [[Docker]] e Jenkins.
 - A prática de database migration é fundamental em DevOps para garantir a consistência dos dados bem como sua disponibilidade e segurança.
-- A infraestrutura como código é uma prática DevOps caracterizada pela infraestrutura provisionada e gerenciada por meio de técnicas de desenvolvimento de código e de software, como, por exemplo, controle de versão e integração contínua.
+- A [[infraestrutura como código]] é uma prática DevOps caracterizada pela infraestrutura provisionada e gerenciada por meio de técnicas de desenvolvimento de código e de software, como, por exemplo, controle de versão e integração contínua.
 - A arquitetura de microsserviços decompõe a aplicação em serviços e pode ser criada e implantada de maneira independente, o que permite executar no DevOps o continuous integration / continuous delivery (CI/CD).
 - Os microsserviços são módulos implantados e monitorados de forma independente, os quais são combinados, em uma coleção desacoplada, por aplicativos baseados nesses microsserviços.
 - Uma imagem de contêiner tem como característica a imutabilidade, ou seja, ela não muda após a sua construção; no entanto, ela pode ser configurada.

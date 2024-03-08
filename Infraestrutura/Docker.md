@@ -1,7 +1,7 @@
 1. Docker é uma plataforma de software que permite a criação, implantação e execução de aplicativos em contêineres.
 2. Os contêineres Docker encapsulam uma aplicação com seu próprio ambiente de execução.
 3. O Docker Engine é a parte fundamental do Docker que cria e gerencia os contêineres.
-4. O Docker utiliza a tecnologia de virtualização a nível de sistema operacional para isolar processos.
+4. O Docker utiliza a tecnologia de [[virtualização]] a nível de sistema operacional para isolar processos.
 5. Uma das principais vantagens do Docker é a portabilidade, pois os contêineres podem ser executados em qualquer ambiente que tenha o Docker Engine instalado.
 6. O Docker Hub é um serviço de registro de contêineres que permite o armazenamento e compartilhamento de imagens de contêineres.
 7. Os arquivos Dockerfile são usados para definir as configurações e os passos necessários para criar uma imagem Docker.
@@ -30,5 +30,5 @@
 30. O Docker Logging Drivers permite que os logs dos contêineres sejam roteados e persistidos em diferentes destinos.
 
 ## Visão Cebraspe
-- O **Docker** é uma ferramenta _open source_ que permite a criação de ambientes virtuais por meio de **Linux Containers**, sendo uma das vantagens dos contêineres Docker fornecer uma virtualização em nível de sistema operacional, o que isola as aplicações em execução e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
+- O **Docker** é uma ferramenta _open source_ que permite a criação de ambientes virtuais por meio de **Linux Containers**, sendo uma das vantagens dos contêineres Docker fornecer uma [[virtualização]] em nível de sistema operacional, o que isola as aplicações em execução e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
 - A adoção de tecnologias de conteinerização, como o Docker, permite à equipe orquestrar vários contêineres em conjunto, por exemplo, um contêiner para a aplicação Node.js e outro, para o banco de dados MongoDB.

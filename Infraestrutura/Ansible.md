@@ -19,7 +19,7 @@
 
 ### Baixa Importância (0% - 50%)
 16. A sintaxe de Jinja2 é usada nos templates do Ansible para gerar configurações dinâmicas. (35%)
-17. Ansible permite integração com ferramentas de controle de versão como Git para gerenciar playbooks. (30%)
+17. Ansible permite integração com ferramentas de controle de versão como [[Git]] para gerenciar playbooks. (30%)
 18. O Ansible pode ser usado para automação de provisionamento em nuvem em plataformas como AWS e Azure. (25%)
 19. Ansible-lint é uma ferramenta para verificar e garantir a conformidade dos playbooks com as melhores práticas. (20%)
 20. O Ansible pode ser usado para realizar tarefas de monitoramento e gerenciamento de configurações. (15%)

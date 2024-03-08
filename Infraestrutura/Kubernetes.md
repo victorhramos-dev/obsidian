@@ -19,7 +19,7 @@ cards-deck: Infraestrutura
 - O Horizontal Pod Autoscaler (HPA) ajusta automaticamente o número de réplicas de um aplicativo com base na utilização da CPU ou outras métricas definidas pelo usuário.
 - Um Secret em Kubernetes é um objeto usado para armazenar informações sensíveis, como senhas, chaves SSH ou tokens de API, de forma segura.
 - O NetworkPolicy é um recurso em Kubernetes usado para especificar como os pods podem se comunicar entre si e com outros recursos de rede dentro do cluster.
-- O Container Runtime Interface (CRI) é uma interface que permite a integração de runtimes de contêineres diferentes com Kubernetes, como Docker, containerd e CRI-O.
+- O Container Runtime Interface (CRI) é uma interface que permite a integração de runtimes de contêineres diferentes com Kubernetes, como [[Docker]], containerd e CRI-O.
 - O Job Kubernetes cria uma ou mais tarefas independentes que executam até a conclusão com sucesso, como processamento em lote ou operações de backup.
 - Um Operator em Kubernetes é um método de empacotar, implantar e gerenciar um aplicativo Kubernetes, permitindo a automação de tarefas operacionais.
 - O Custom Resource Definition (CRD) é uma extensão do Kubernetes que permite aos usuários definir e usar recursos personalizados além dos tipos de recursos padrão.
@@ -62,7 +62,7 @@ O Ingress é um recurso em Kubernetes usado para controlar o acesso externo aos 
 
 O Horizontal Pod Autoscaler (HPA) ajusta automaticamente o número de réplicas de um aplicativo com base na utilização da CPU ou outras métricas definidas pelo usuário. Um Secret em Kubernetes é um objeto usado para armazenar informações sensíveis, como senhas, chaves SSH ou tokens de API, de forma segura. O NetworkPolicy é um recurso em Kubernetes usado para especificar como os pods podem se comunicar entre si e com outros recursos de rede dentro do cluster.
 
-O Container Runtime Interface (CRI) é uma interface que permite a integração de runtimes de contêineres diferentes com Kubernetes, como Docker, containerd e CRI-O. O Job Kubernetes cria uma ou mais tarefas independentes que executam até a conclusão com sucesso, como processamento em lote ou operações de backup. Um Operator em Kubernetes é um método de empacotar, implantar e gerenciar um aplicativo Kubernetes, permitindo a automação de tarefas operacionais.
+O Container Runtime Interface (CRI) é uma interface que permite a integração de runtimes de contêineres diferentes com Kubernetes, como [[Docker]], containerd e CRI-O. O Job Kubernetes cria uma ou mais tarefas independentes que executam até a conclusão com sucesso, como processamento em lote ou operações de backup. Um Operator em Kubernetes é um método de empacotar, implantar e gerenciar um aplicativo Kubernetes, permitindo a automação de tarefas operacionais.
 
 O Custom Resource Definition (CRD) é uma extensão do Kubernetes que permite aos usuários definir e usar recursos personalizados além dos tipos de recursos padrão. Um cluster Kubernetes pode ser implantado em nuvens públicas, privadas ou híbridas, proporcionando flexibilidade de implantação. O Taint é uma marcação aplicada a um nó Kubernetes para repelir pods, a menos que eles tenham uma tolerância correspondente, garantindo a segregação de carga de trabalho.
 
@@ -84,14 +84,14 @@ O MetalLB é um controlador de balanceador de carga para Kubernetes que permite 
 
 # Visão CEBRASPE
 - Um aplicativo _conteinerizado_ pode ser testado como uma unidade e implantado como instância de uma imagem de contêiner no sistema operacional hospedeiro.
-- **Kubernetes** é uma plataforma utilizada para manter e implantar um grupo de contêineres em tempo de execução, além de ser comumente utilizada junto com a ferramenta **Docker**, para melhor controle e implementação de aplicativos em contêineres.
+- **Kubernetes** é uma plataforma utilizada para manter e implantar um grupo de contêineres em tempo de execução, além de ser comumente utilizada junto com a ferramenta **[[Docker]]**, para melhor controle e implementação de aplicativos em contêineres.
 - Um **contêiner** é um conjunto de processos organizados isoladamente do sistema; todos os arquivos necessários para executá-los são disponibilizados por uma imagem distinta.
-- **Contêineres Docker** encapsulam em um mesmo objeto a aplicação e o seu ambiente de execução (sistema operacional e demais dependências), aproximando os times de desenvolvimento e de operação.
+- **Contêineres [[Docker]]** encapsulam em um mesmo objeto a aplicação e o seu ambiente de execução (sistema operacional e demais dependências), aproximando os times de desenvolvimento e de operação.
 - Um contêiner deve fornecer um ambiente de hospedagem do lado do servidor gerenciado e um _middleware_ que intercepte as chamadas recebidas e, em seguida, execute as ações apropriadas para garantir que as propriedades desejadas do aplicativo distribuído sejam mantidas.
 - 😱 O **Kubernetes** faz o escalonamento e a recuperação no caso de falha de uma aplicação.
 - Ao conteinerizar uma aplicação, ela passa a ser executada de forma independente do sistema operacional e isolada de outras aplicações, o que aumenta a sua eficiência.
 - Os _containers_ oferecem um mecanismo de empacotamento lógico em que os aplicativos podem ser abstraídos pelo ambiente em que são efetivamente executados, mesmo se esse ambiente for uma nuvem pública.
-- Caso seja necessário informar ao **Docker** que um container deve escutar na porta de rede 80 do TCP, o comando correto no _DockerFile_ é o seguinte: `EXPOSE 80/tcp`
+- Caso seja necessário informar ao **[[Docker]]** que um container deve escutar na porta de rede 80 do TCP, o comando correto no _DockerFile_ é o seguinte: `EXPOSE 80/tcp`
 - Em _containers_, a decomposição de funções de uma aplicação resulta em microsserviços, independentes entre si e com fraco acoplamento.
 - 😱 Com a implantação do **Kubernetes**, é obtido um cluster com pelo menos um nó de trabalho (_worker node_); os nós de trabalho, por sua vez, hospedam vários componentes da carga de trabalho do aplicativo.
 - No **Kubernetes**, _kubelet_ é uma pequena aplicação localizada em um nó que se comunica com o plano de controle, assegurando que os _containers_ estejam em execução em um _pod_, que consiste no menor e mais simples objeto do **Kubernetes**.
@@ -101,11 +101,11 @@ O MetalLB é um controlador de balanceador de carga para Kubernetes que permite 
 ^1709919743727
 2. O que é Kubernetes?::Uma plataforma para manter e implantar um grupo de contêineres em tempo de execução.
 ^1709919743736
-3. Kubernetes é comumente usado com qual ferramenta?::Docker.
+3. Kubernetes é comumente usado com qual ferramenta?::[[Docker]].
 ^1709919743749
 4. O que é um contêiner?::Um conjunto de processos organizados isoladamente do sistema, com todos os arquivos necessários fornecidos por uma imagem distinta.
 ^1709919743755
-5. O que os contêineres Docker encapsulam?::A aplicação e o seu ambiente de execução.
+5. O que os contêineres [[Docker]] encapsulam?::A aplicação e o seu ambiente de execução.
 ^1709919743763
 6. O que um contêiner deve fornecer?::Um ambiente de hospedagem do lado do servidor gerenciado e um middleware que intercepte as chamadas recebidas.
 ^1709919743770
@@ -115,7 +115,7 @@ O MetalLB é um controlador de balanceador de carga para Kubernetes que permite 
 ^1709919743784
 9. O que os containers oferecem?::Um mecanismo de empacotamento lógico onde os aplicativos podem ser abstraídos pelo ambiente em que são executados.
 ^1709919743789
-10. Como informar ao Docker que um contêiner deve escutar na porta de rede 80 do TCP?::Usando o comando "EXPOSE 80/tcp" no DockerFile.
+10. Como informar ao [[Docker]] que um contêiner deve escutar na porta de rede 80 do TCP?::Usando o comando "EXPOSE 80/tcp" no DockerFile.
 11. O que resulta da decomposição de funções de uma aplicação em containers?::Microsserviços, independentes entre si e com fraco acoplamento.
 ^1709919743795
 12. O que se obtém com a implantação do Kubernetes?::Um cluster com pelo menos um nó de trabalho (worker node).
