@@ -4,54 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0bd8b8c0a6dd4d",
-        "type": "split",
+        "id": "5e83eb9f27982162",
+        "type": "tabs",
         "children": [
           {
-            "id": "5e83eb9f27982162",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e30df5b2e3bacc5a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "ebf3ff15dcbff437"
+            "id": "e30df5b2e3bacc5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infraestrutura/Kubernetes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "c896ecea74063782",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c3007c910fe34d74",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                },
-                "group": "ebf3ff15dcbff437"
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md"
+                "file": "Infraestrutura/Kubernetes.md"
               }
             }
           },
@@ -184,13 +153,21 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "c272bef4f3698caa",
+            "type": "leaf",
+            "state": {
+              "type": "crossbow-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 422.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,15 +188,16 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
-    "Engenharia de Software/DevOps.md",
+    "_Index_of_Bacen.md",
+    "Arquitetura de MicroServiços.canvas",
     "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+    "Engenharia de Software/DevOps.md",
     "Edital Vertical.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Ansible.md",
     "Discursivas Solução-Problema.md",
     "Engenharia de Software/DLT.md",
     "Edital.md",
-    "_Index_of_Bacen.md",
     "_Index_of_Bacen-OBS.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Kubernetes.md",
@@ -237,7 +215,6 @@
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
-    "Infraestrutura/_Index_of_Infraestrutura.md",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
