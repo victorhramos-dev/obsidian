@@ -49,7 +49,7 @@
 - **Tratamento:** operação realizada com os dados pessoais: coleta, produção, recepção, classificação, uso, acesso, transmissão, armazenamento, etc...
 - **Anonimização:** tratamento de dados pessoais para que se torne impossível a associação dos dados ao titular
 - **Órgão de pesquisa:** órgão ou entidade da administração publica direta/indireta ou PJ de direito privado sem fins lucrativos com missão de pesquisa básica ou de caráter histórico, científico, tecnológico ou estatístico.
-<!--SR:!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2024-03-09,1,230!2000-01-01,1,250-->
+<!--SR:!2024-03-12,4,270!2024-03-12,4,270!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2000-01-01,1,250!2024-03-09,1,230!2000-01-01,1,250-->
 
 ## Princípios
 - Deve sempre se observar a **BOA-FÉ**
