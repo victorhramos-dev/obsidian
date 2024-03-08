@@ -11,5 +11,6 @@
   "nlp",
   "graph-analysis",
   "map-of-content",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "auto-anki"
 ]

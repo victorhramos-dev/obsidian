@@ -6,7 +6,7 @@
     "flashcardTags": [
       "#flashcards"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
@@ -15,7 +15,7 @@
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
-    "convertHighlightsToClozes": true,
+    "convertHighlightsToClozes": false,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
     "singleLineCardSeparator": "::",
