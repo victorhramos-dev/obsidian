@@ -79,7 +79,7 @@ O Grafana é uma **plataforma de código aberto** para **visualização e análi
 - **Taxa de Erros:** Monitora a taxa de erros de aplicações web, APIs ou serviços.
 - **Solicitações por Segundo:** Monitora o número de solicitações por segundo que uma aplicação recebe.
 - **Fila de Tarefas:** Monitora o tamanho da fila de tarefas de uma aplicação.
-- **Cache:** Monitora a taxa de acertos e erros do cache de uma aplicação.
+- **[[Cache]]:** Monitora a taxa de acertos e erros do cache de uma aplicação.
 ### **Logs e Traces:**
 - **Logs de Aplicação:** Monitora os logs de suas aplicações para identificar erros ou problemas.
 - **Logs de Sistema:** Monitora os logs do sistema para identificar problemas de segurança ou desempenho.

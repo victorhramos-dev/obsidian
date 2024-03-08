@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "306f6e0f5e8c43cf",
+        "id": "e823ae33adf9d429",
         "type": "tabs",
         "children": [
           {
-            "id": "9216cd635dc8ea63",
+            "id": "fd1c7e878214afd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "DevOps.canvas",
+                "viewState": {
+                  "x": 750,
+                  "y": 2050,
+                  "zoom": -2.7725895038969277
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md",
+                "file": "DevOps.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md",
+                "file": "DevOps.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Monitoração/Nagios.md"
+                "file": "DevOps.canvas"
               }
             }
           },
@@ -186,8 +188,13 @@
       "crossbow:Crossbow": false
     }
   },
-  "active": "9216cd635dc8ea63",
+  "active": "fd1c7e878214afd4",
   "lastOpenFiles": [
+    "Edital.md",
+    "Edital Vertical.md",
+    "Edital Vertical.canvas",
+    "Infraestrutura/Monitoração/Grafana.md",
+    "Infraestrutura/Monitoração/Nagios.md",
     "Elasticsearch.canvas",
     "Infraestrutura/Monitoração/Elasticsearch.md",
     "Infraestrutura/Ansible.md",
@@ -213,9 +220,6 @@
     "Infraestrutura/Paas.md",
     "Infraestrutura/Iaas.md",
     "Engenharia de Software/DevSecOps.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura SOA.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/gRPC.md",
     "Arquitetura de MicroServiços.canvas",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
