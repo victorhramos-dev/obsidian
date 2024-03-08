@@ -4,22 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "5e83eb9f27982162",
-        "type": "tabs",
+        "id": "2c0bd8b8c0a6dd4d",
+        "type": "split",
         "children": [
           {
-            "id": "e30df5b2e3bacc5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engenharia de Software/DLT.md",
-                "mode": "source",
-                "source": false
+            "id": "5e83eb9f27982162",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e30df5b2e3bacc5a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Infraestrutura/Docker.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "ebf3ff15dcbff437"
               }
-            }
+            ]
+          },
+          {
+            "id": "c896ecea74063782",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3007c910fe34d74",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Infraestrutura/Docker.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "group": "ebf3ff15dcbff437"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,14 +117,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/DLT.md",
+                "file": "Infraestrutura/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/DLT.md",
+                "file": "Infraestrutura/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/DLT.md"
+                "file": "Infraestrutura/Docker.md"
               }
             }
           },
@@ -153,8 +185,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,12 +208,13 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "e30df5b2e3bacc5a",
+  "active": "c3007c910fe34d74",
   "lastOpenFiles": [
-    "Edital.md",
-    "Engenharia de Software/DLT.md",
-    "Edital Vertical.md",
+    "Infraestrutura/Ansible.md",
     "Discursivas Solução-Problema.md",
+    "Engenharia de Software/DLT.md",
+    "Edital.md",
+    "Edital Vertical.md",
     "_Index_of_Bacen.md",
     "_Index_of_Bacen-OBS.md",
     "Infraestrutura/Infraestrutura como código.md",
@@ -191,7 +223,6 @@
     "Gestão em TI/Kanban.md",
     "Gestão em TI/Itil 4.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
-    "Infraestrutura/Ansible.md",
     "Infraestrutura/Paas.md",
     "Infraestrutura/Puppet.md",
     "Infraestrutura/Saas.md",

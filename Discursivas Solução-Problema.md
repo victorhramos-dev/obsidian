@@ -1,26 +1,25 @@
 ## **Detecção de Fraudes Financeiras:**
 ### Proposta 1
 
-```yaml
-microservicos:
-  - nome: Ingestão de Dados
-    tecnologia: Kafka
-    
-  - nome: Processamento de Dados
-    tecnologia: Spark
-    
-  - nome: Modelos de ML
-    tecnologia: TensorFlow, PyTorch
-    modelos: Random Forest, XGBoost
-    
-  - nome: Monitoramento
-    tecnologia: [[Prometheus]]
-pipeline:
-  - ingestão
-  - processamento
-  - análise
-CI/CD: Jenkins
-```
+> microservicos:
+>   - nome: Ingestão de Dados
+>     tecnologia: Kafka
+>     
+>   - nome: Processamento de Dados
+>     tecnologia: Spark
+>     
+>   - nome: Modelos de ML
+>     tecnologia: TensorFlow, PyTorch
+>     modelos: Random Forest, XGBoost
+>     
+>   - nome: Monitoramento
+>     tecnologia: [[Prometheus]]
+> pipeline:
+>   - ingestão
+>   - processamento
+>   - análise
+> CI/CD: Jenkins
+
 
 O fluxo de operação começa com a ingestão de dados em tempo real usando o Kafka. Esses dados são então processados pelo Spark para limpeza e transformação. Os modelos de aprendizado de máquina, Random Forest e XGBoost, implementados no TensorFlow e PyTorch, são usados para identificar possíveis fraudes. O monitoramento contínuo é realizado usando o [[Prometheus]], garantindo que o sistema esteja sempre funcionando de maneira ideal.
 
