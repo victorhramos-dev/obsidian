@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Infraestrutura/Ansible.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Infraestrutura/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Infraestrutura/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/DevOps.md"
+                "file": "Infraestrutura/Ansible.md"
               }
             }
           },
@@ -230,7 +230,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Engenharia de Software/DevOps.md",
+                    "file": "Infraestrutura/Ansible.md",
                     "mode": "source",
                     "source": false
                   }
@@ -251,8 +251,8 @@
   },
   "active": "588e05f08700db7c",
   "lastOpenFiles": [
-    "Infraestrutura/Ansible.md",
     "Engenharia de Software/DevOps.md",
+    "Infraestrutura/Ansible.md",
     "_Index_of_Bacen-OBS.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
     "Edital.md",
