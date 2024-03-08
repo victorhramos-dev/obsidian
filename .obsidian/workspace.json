@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Engenharia de Software/Web Services.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Engenharia de Software/Web Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Engenharia de Software/Web Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/DevOps.md"
+                "file": "Engenharia de Software/Web Services.md"
               }
             }
           },
@@ -188,6 +188,14 @@
   },
   "active": "9216cd635dc8ea63",
   "lastOpenFiles": [
+    "Engenharia de Software/Transações Distribuídas.md",
+    "Engenharia de Software/Python.md",
+    "Engenharia de Software/Programação Assíncrona.md",
+    "Engenharia de Software/Práticas de UX UI.md",
+    "Engenharia de Software/Padrões de Projeto GoF, GRASP.md",
+    "Engenharia de Software/Git.md",
+    "DevOps.canvas",
+    "Engenharia de Software/DevOps.md",
     "Engenharia de Software/DLT.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Kubernetes.md",
@@ -200,7 +208,6 @@
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Ansible.md",
     "Engenharia de Software/DevSecOps.md",
-    "Engenharia de Software/DevOps.md",
     "Engenharia de Software/Web Services.md",
     "Engenharia de Software/Arquiteturas/Arquitetura SOA.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
@@ -209,13 +216,7 @@
     "Arquitetura de MicroServiços.canvas",
     "Edital Vertical.md",
     "Discursivas Solução-Problema.md",
-    "Edital.md",
-    "_Index_of_Bacen-OBS.md",
-    "Gestão em TI/Kanban.md",
-    "Gestão em TI/Itil 4.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "Pasted image 20240220140453.png",
-    "Devops por afirmações da Cebraspe.md",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"

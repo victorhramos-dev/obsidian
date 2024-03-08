@@ -11,7 +11,7 @@ O Grafana é uma **plataforma de código aberto** para **visualização e análi
 - **Desenvolvido** em **Go**
 - **Frontend**: Typescript
 - **Gráficos**: libraries javascript
-- **Plugins**: Python, Go, Javascript, Ruby e C#
+- **Plugins**: [[Python]], Go, Javascript, Ruby e C#
 - **Banco de Dados**: PostgreSQL (Default), mas permite MySQL, InfluxDB, [[Elasticsearch]]
 ## **Principais Features:**
 - **Consulta de Dados:**

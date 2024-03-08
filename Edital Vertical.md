@@ -84,13 +84,13 @@
 - [x] CI & CD 
 - [x] Web Services 
 - [x] Padrões de Projeto GoF, GRASP 
-- [x] Transações Distribuídas 
+- [x] [[Transações Distribuídas]] 
 - [x] Práticas de UX UI 
 - [ ] [[Desenvolvimento Seguro (SDL, OWASP, CLASP)]]
 - [ ] Programação Assíncrona
 - [x] Git
 - [ ] Java
-- [x] Python
+- [x] [[Python]]
 - [x] Testes de Software (_Index_of_Testes de Software) 
 	- [x] Testes Unitários
 	- [x] Testes de Integração

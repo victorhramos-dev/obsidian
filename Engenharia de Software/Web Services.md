@@ -7,7 +7,7 @@
 	- **Header**: contem informações adicionais como autenticação, transações e roteamento. Metadados.
 	- **Body** (obrigatorio): contém os dados reais encapsulados conforme o envelope a serem transmitidos entre os sistemas.
 	- **Fault**: se der erro, o código de erro vem no campo fault.
-- O Soap utiliza primariamente o protocolo **HTTP** como protocolo primário, porém pode utilizar também os protocolos **TCP** e **SMTP** dependendo das condições de implementação.
+- O Soap utiliza primariamente o protocolo **HTTP** como protocolo primário, porém pode utilizar também os protocolos **TCP** e **[[SMTP]]** dependendo das condições de implementação.
 - O SOAP é stateless por padrão, as mensagem não se correlacionam e nem são coordenadas.
 - O SOAP baseia-se no estilo de RPC (_remote procedure call_), determinando a necessidade de atender a outros protocolos para realizar a chamada a um serviço.
 > ==- **Estrutura da Mensagem:**==
