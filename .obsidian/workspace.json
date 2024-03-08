@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Docker.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Docker.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Docker.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Docker.md"
+                "file": "Gestão em TI/Itil 4.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
-    "Infraestrutura/Kubernetes.md",
+    "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Docker.md",
+    "Infraestrutura/Kubernetes.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "Infraestrutura/Ansible.md",
     "Infraestrutura/Paas.md",
@@ -190,7 +191,6 @@
     "Discursivas Solução-Problema.md",
     "Pasted image 20240220140453.png",
     "_Index_of_Bacen-OBS.md",
-    "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
     "Engenharia de Software/DevOps.md",

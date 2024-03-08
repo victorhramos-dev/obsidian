@@ -1,3 +1,7 @@
+---
+cards-deck: Gestão em TI
+---
+
 - Atualização da Itil v3, eliminando a gestão de processos e focando mais nas práticas.
 - Possui 4 dimensões para suportar a visão holística (visão geral e completa):
 	- Organizações e Pessoa
@@ -5,6 +9,7 @@
 	- Informação e Tecnologia
 	- Fluxo de Valor e Processos
 - Possui 7 ==princípios orientadores== (universais) que são compatíveis com os valores do manifesto ágil:
+^1709913365474
 	1. Foque em valor, tudo que é feito precisa criar valor.
 	2. Comece onde você está!
 	3. Progrida iterativa e com feedbacks
