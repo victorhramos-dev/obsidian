@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Ansible.md",
+                "file": "Infraestrutura/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Ansible.md",
+                "file": "Infraestrutura/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Ansible.md",
+                "file": "Infraestrutura/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Ansible.md"
+                "file": "Infraestrutura/Docker.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "Infraestrutura/Ansible.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Paas.md",
     "Infraestrutura/Puppet.md",
@@ -191,7 +192,6 @@
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
-    "Infraestrutura/Ansible.md",
     "Engenharia de Software/DevOps.md",
     "Devops por afirmações da Cebraspe.md",
     "Engenharia de Software/Devops - Cebraspe.md",
