@@ -81,7 +81,7 @@
 ## Engenharia de Software
 - [x] [[DevOps]] 
 - [x] [[DevSecOps]] 
-- [x] CI & CD 
+- [x] [[CI & CD]] 
 - [x] Web Services 
 - [x] Padrões de Projeto GoF, GRASP 
 - [x] [[Transações Distribuídas]] 
