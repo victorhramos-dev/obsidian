@@ -35,3 +35,11 @@
 - A partir dela a infraestrutura é tratada como uma etapa no desenvolvimento de software, incorporando automação e agilidade no processo.
 - Infraestrutura como código (em inglês: infrastructure as code, ou IaC) é o processo de gerenciamento e provisionamento de centros de processamentos dados usando arquivos de configuração ao invés de configurações físicas de hardware ou ferramentas de configuração interativas. 
 
+O que é infraestrutura como código (IaC)?::Automatização do provisionamento de infraestrutura. 
+Quais os benefícios da IaC?::Velocidade, menor risco, custo reduzido. 
+Quais elementos a IaC automatiza?::Servidores, sistemas operacionais, conexões de banco de dados, etc. 
+Por que a IaC é essencial?::Controle de custos, redução de riscos, resposta rápida. Como se relaciona com DevOps?::Prática-chave de DevOps. Benefícios da automação da IaC?::Velocidade e confiabilidade no fornecimento de infraestrutura. 
+O que é idempotência na IaC?::Resultado consistente de operações. 
+Como a IaC auxilia no desenvolvimento?::Teste em ambientes semelhantes ao de produção.
+Qual o objetivo da Infraestrutura como Código?::Automatizar e agilizar o processo de desenvolvimento de software. 
+Como funciona o processo da Infraestrutura como Código?::Gerenciamento por arquivos de configuração.
