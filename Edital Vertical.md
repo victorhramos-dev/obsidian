@@ -80,7 +80,7 @@
 
 ## Engenharia de Software
 - [x] [[DevOps]] 
-- [x] DevSecOps 
+- [x] [[DevSecOps]] 
 - [x] CI & CD 
 - [x] Web Services 
 - [x] Padrões de Projeto GoF, GRASP 
@@ -105,7 +105,7 @@
 	- [x] Arquitetura Serverless 
 	- [x] Arquitetura de Sistemas Web (_Index_of_Arquitetura de Sistemas Web) 
 		- [x] HTTP, HTTP2 
-		- [x] gRPC 
+		- [x] [[gRPC]] 
 		- [x] WebSockets 
 		- [ ] Proxy
 		- [ ] Cache

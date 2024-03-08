@@ -1,4 +1,4 @@
-1. Microsserviços são uma abordagem arquitetural para desenvolver uma aplicação como um conjunto de pequenos serviços, cada um executando em seu próprio processo e se comunicando com mecanismos leves, geralmente uma API HTTP.
+1. Microsserviços são uma abordagem arquitetural para desenvolver uma aplicação como um conjunto de pequenos serviços, cada um executando em seu próprio processo e se comunicando com mecanismos leves, geralmente uma API [[HTTP]].
    [Fonte: Microsoft - Azure Architecture Center](https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/microservices)
 
 2. O principal objetivo dos microsserviços é dividir uma aplicação complexa em partes menores e independentes, facilitando o desenvolvimento, implantação e manutenção.
@@ -7,13 +7,13 @@
 3. Cada microsserviço é responsável por uma única função de negócio e pode ser desenvolvido, implantado e escalado independentemente dos outros serviços.
    [Fonte: IBM - Microservices](https://www.ibm.com/cloud/learn/microservices)
 
-4. A comunicação entre os microsserviços geralmente é feita por meio de protocolos como HTTP/HTTPS, gRPC, AMQP, ou mesmo mensageria assíncrona.
+4. A comunicação entre os microsserviços geralmente é feita por meio de protocolos como HTTP/HTTPS, [[gRPC]], AMQP, ou mesmo mensageria assíncrona.
    [Fonte: AWS - What Are Microservices?](https://aws.amazon.com/microservices/)
 
 5. Um dos principais desafios dos microsserviços é a gestão de dados distribuídos, já que cada serviço pode ter seu próprio banco de dados.
    [Fonte: InfoQ - Microservices Guide](https://www.infoq.com/microservices/)
 
-6. O uso de contêineres, como Docker, é comum na implementação de microsserviços, pois fornecem isolamento, portabilidade e escalabilidade para cada serviço.
+6. O uso de contêineres, como [[Docker]], é comum na implementação de microsserviços, pois fornecem isolamento, portabilidade e escalabilidade para cada serviço.
    [Fonte: Docker - What is a Container?](https://www.docker.com/resources/what-container)
 
 7. Microsserviços promovem uma abordagem de desenvolvimento orientada por domínio, onde cada serviço é focado em uma área específica de negócio.
@@ -70,7 +70,7 @@
 24. Testes automatizados são cruciais para garantir a qualidade e a estabilidade dos microsserviços, incluindo testes de unidade, integração e aceitação.
     [Fonte: Testing Microservices](https://martinfowler.com/articles/microservice-testing/)
 
-25. Uma arquitetura de microsserviços pode facilitar a implementação de práticas de DevSecOps, integrando segurança desde o início do ciclo de vida do desenvolvimento.
+25. Uma arquitetura de microsserviços pode facilitar a implementação de práticas de [[DevSecOps]], integrando segurança desde o início do ciclo de vida do desenvolvimento.
     [Fonte: DevSecOps](https://www.redhat.com/pt/topics/devops/what-is-devsecops)
 
 26. Os microsserviços são mais adequados para aplicativos complexos e em constante evolução, onde a modularidade e a escalabilidade são requisitos importantes.
@@ -108,7 +108,7 @@
    - Fonte: [Caelum - Quando usar Microsserviços](https://www.caelum.com.br/2017/02/22/microsservicos-o-que-e-como-funciona-vantagens-e-desvantagens/)
 
 5. **Quais tecnologias são comumente usadas com microsserviços?**
-   - Tecnologias como Docker, [[Kubernetes]], Spring Boot, Node.js, e gRPC são comumente utilizadas no contexto de microsserviços para implementação, orquestração e comunicação entre os serviços.
+   - Tecnologias como [[Docker]], [[Kubernetes]], Spring Boot, Node.js, e [[gRPC]] são comumente utilizadas no contexto de microsserviços para implementação, orquestração e comunicação entre os serviços.
    - Fonte: [Blog da FullCycle - Tecnologias de Microsserviços](https://blog.fcamara.com.br/microsservicos-na-pratica/)
 
 6. **Qual é a diferença entre microsserviços e monolitos?**
@@ -167,6 +167,6 @@
    - Estratégias incluem fallbacks, retries, e circuit breakers para tratar falhas de comunicação e degradação de desempenho entre os microsserviços.
    - Fonte: [Nelio - Tratamento de Falhas em Microsserviços](https://blog.nelio.com.br/2019/07/16/tratamento-de-falhas-em-microservicos/)
 
-20. **Quais são as diferenças entre microsserviços e SOA (Arquitetura Orientada a Serviços)?**
+20. **Quais são as diferenças entre microsserviços e [[Web Services#SOA|SOA]] (Arquitetura Orientada a Serviços)?**
     - Microsserviços são mais granulares, independentes e utilizam comunicação leve, enquanto a SOA tende a ser mais monolítica e centralizada, com comunicação mais pesada.
     - Fonte: [DevMedia - Microsserviços vs SOA](https://www.devmedia.com.br/arquitetura-de-microservicos-vs-soa/37629)

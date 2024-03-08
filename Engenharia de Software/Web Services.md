@@ -1,4 +1,4 @@
-# SOA
+
 ## SOAP
 - ==Protocolo de comunicação== baseado em documentos (envelopes) ==XML==
 - Define um conjunto de regras de ==comunicação entre sistemas== distribuídos.
