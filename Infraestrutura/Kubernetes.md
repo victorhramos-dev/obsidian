@@ -1,0 +1,46 @@
+
+- Kubernetes é uma plataforma de orquestração de contêineres que automatiza o provisionamento, escalonamento e gerenciamento de aplicativos em contêineres.
+- Pods são a menor unidade em Kubernetes, consistindo em um ou mais contêineres que compartilham armazenamento, rede e especificações de ciclo de vida.
+- Um nó (node) em Kubernetes é uma máquina física ou virtual que faz parte do cluster e pode executar pods.
+- Services em Kubernetes são usados para expor aplicativos implantados dentro do cluster para outros aplicativos ou usuários.
+- Deployment é um recurso em Kubernetes usado para garantir que um conjunto especificado de pods esteja sempre em execução e atualizado para a versão mais recente do aplicativo.
+- O Kubectl é a principal ferramenta de linha de comando para interagir com clusters Kubernetes, permitindo o gerenciamento de recursos e a execução de comandos em pods.
+- O YAML é uma linguagem usada para escrever manifestos que descrevem os recursos do Kubernetes, como pods, serviços e deployments.
+- Um namespace Kubernetes é uma maneira de organizar e isolar recursos dentro de um cluster, permitindo a divisão lógica de recursos.
+- Helm é um gerenciador de pacotes para Kubernetes que simplifica o processo de implantação e gerenciamento de aplicativos usando modelos pré-configurados.
+- Ingress é um recurso em Kubernetes usado para controlar o acesso externo aos serviços dentro do cluster, permitindo o roteamento de solicitações HTTP e HTTPS.
+- StatefulSets são usados para aplicativos que exigem identidades persistentes e únicas, como bancos de dados, garantindo a ordem e a persistência dos pods.
+- Um DaemonSet em Kubernetes garante que todos (ou alguns) nós em um cluster executem uma cópia específica de um pod, como um agente de monitoramento.
+- O Horizontal Pod Autoscaler (HPA) ajusta automaticamente o número de réplicas de um aplicativo com base na utilização da CPU ou outras métricas definidas pelo usuário.
+- Um Secret em Kubernetes é um objeto usado para armazenar informações sensíveis, como senhas, chaves SSH ou tokens de API, de forma segura.
+- O NetworkPolicy é um recurso em Kubernetes usado para especificar como os pods podem se comunicar entre si e com outros recursos de rede dentro do cluster.
+- O Container Runtime Interface (CRI) é uma interface que permite a integração de runtimes de contêineres diferentes com Kubernetes, como Docker, containerd e CRI-O.
+- O Job Kubernetes cria uma ou mais tarefas independentes que executam até a conclusão com sucesso, como processamento em lote ou operações de backup.
+- Um Operator em Kubernetes é um método de empacotar, implantar e gerenciar um aplicativo Kubernetes, permitindo a automação de tarefas operacionais.
+- O Custom Resource Definition (CRD) é uma extensão do Kubernetes que permite aos usuários definir e usar recursos personalizados além dos tipos de recursos padrão.
+- Um cluster Kubernetes pode ser implantado em nuvens públicas, privadas ou híbridas, proporcionando flexibilidade de implantação.
+- O Taint é uma marcação aplicada a um nó Kubernetes para repelir pods, a menos que eles tenham uma tolerância correspondente, garantindo a segregação de carga de trabalho.
+- Um Label é uma chave/valor associada a recursos Kubernetes para identificação, organização e seleção de recursos.
+- Um ServiceAccount em Kubernetes é uma entidade que fornece uma identidade para os processos em execução em um pod, permitindo a autenticação e a autorização.
+- O Volume em Kubernetes é um mecanismo usado para fornecer armazenamento persistente para contêineres em um pod, como armazenamento em disco ou em nuvem.
+- O Role-Based Access Control (RBAC) é um recurso em Kubernetes usado para definir e gerenciar políticas de acesso baseadas em funções, limitando as ações que os usuários podem realizar.
+- O PersistentVolume é um recurso em Kubernetes que representa um volume de armazenamento persistente provisionado pelo administrador do cluster e disponível para os pods.
+- O Admission Controller em Kubernetes é um componente que intercepta solicitações de criação ou modificação de recursos e aplica regras de validação ou mutação antes de permitir que eles sejam admitidos no cluster.
+- O Service Mesh é uma abordagem em Kubernetes para gerenciar a comunicação entre serviços, oferecendo recursos como roteamento, descoberta de serviços, monitoramento e segurança.
+- O ConfigMap em Kubernetes é um recurso usado para armazenar configurações de aplicativos em um formato de chave/valor, permitindo a separação de configurações do código.
+- O Affinity e o anti-affinity são mecanismos em Kubernetes para influenciar o agendamento de pods em nós com base em afinidades ou aversões, permitindo controle sobre onde os pods são executados.
+- O PodSecurityPolicy é um recurso em Kubernetes usado para definir políticas de segurança para pods, restringindo as ações que eles podem realizar.
+- O CNI (Container Networking Interface) é uma especificação que define como contêineres se comunicam uns com os outros na mesma rede em Kubernetes, oferecendo flexibilidade na configuração da rede.
+- O Descheduler é uma ferramenta em Kubernetes que ajuda a balancear a carga entre os nós no cluster, evitando a sobrecarga de alguns nós enquanto outros estão subutilizados.
+- Um Static Pod em Kubernetes é um pod cuja configuração é gerenciada diretamente pelo kubelet, em vez de pelo API Server, útil para executar serviços essenciais no nó.
+- O Kubelet é um agente que roda em cada nó no cluster Kubernetes e garante que os containers estejam sendo executados em pods, além de relatar o status do nó para o restante do cluster.
+- O Heketi é uma interface de gerenciamento de volumes para o GlusterFS que pode ser integrado com Kubernetes para fornecer armazenamento persistente para aplicativos.
+- O Kata Containers é uma tecnologia que combina as vantagens de VMs e contêineres, oferecendo isolamento de segurança semelhante ao de VMs com a eficiência dos contêineres, suportado pelo Kubernetes.
+- O Multus é um plugin CNI em Kubernetes que permite que um pod tenha várias interfaces de rede, oferecendo flexibilidade na configuração da rede para aplicativos complexos.
+- O PodDisruptionBudget é um recurso em Kubernetes que permite limitar o número de pods que podem ser desligados simultaneamente para garantir a alta disponibilidade de aplicativos.
+- O Prometheus é uma ferramenta de monitoramento amplamente usada com Kubernetes, oferecendo métricas detalhadas sobre o desempenho e a saúde do cluster e dos aplicativos.
+- O Istio é uma plataforma de serviço de malha que pode ser integrada com Kubernetes para controle de tráfego e segurança, oferecendo recursos avançados de gerenciamento de tráfego e políticas de segurança.
+- O Contour é um controlador Ingress para Kubernetes projetado para desempenho e escalabilidade, oferecendo recursos avançados de roteamento de tráfego HTTP e HTTPS.
+- O MetalLB é um controlador de balanceador de carga para Kubernetes que permite a atribuição de endereços IP a serviços, facilitando a exposição de serviços externamente.
+- O Kube-proxy é um componente em Kubernetes que gerencia o tráfego de rede para serviços, oferecendo balanceamento de carga e encaminhamento de pacotes para os pods corretos.
+- O Fluentd é uma ferramenta de coleta e encaminhamento de logs que pode ser integrada com Kubernetes para centralizar logs, oferecendo insights sobre o comportamento e o desempenho dos aplicativos.
