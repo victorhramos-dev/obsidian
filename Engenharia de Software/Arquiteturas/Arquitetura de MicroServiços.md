@@ -87,3 +87,86 @@
 
 30. Os microsserviços podem ajudar a reduzir o tempo de colocação no mercado, permitindo que novas funcionalidades sejam desenvolvidas e implantadas rapidamente.
     [Fonte: Microservices Time to Market](https://www.parkar.consulting/microservices-speed-up-time-to-market/)
+
+
+### Microsserviços
+
+1. **O que são microsserviços?**
+   - Microsserviços são uma abordagem de arquitetura de software na qual um aplicativo é composto por muitos serviços pequenos e independentes, cada um executando um processo de negócio e se comunicando por meio de APIs.
+   - Fonte: [InfoQ - Microsserviços](https://www.infoq.com/br/microservices/)
+
+2. **Quais são as vantagens dos microsserviços?**
+   - As vantagens dos microsserviços incluem escalabilidade independente, facilidade de implementação de novas funcionalidades, melhor tolerância a falhas e maior flexibilidade tecnológica.
+   - Fonte: [DevMedia - Vantagens dos Microsserviços](https://www.devmedia.com.br/vantagens-e-desvantagens-de-usar-microsservicos/36141)
+
+3. **Quais são os desafios dos microsserviços?**
+   - Alguns desafios dos microsserviços são a complexidade na gestão de múltiplos serviços, o aumento da complexidade na infraestrutura e a necessidade de lidar com a consistência entre serviços.
+   - Fonte: [Alura - Desafios dos Microsserviços](https://www.alura.com.br/artigos/microsservicos-vantagens-e-desvantagens)
+
+4. **Quando utilizar microsserviços?**
+   - Microsserviços são mais adequados para aplicações complexas e de grande escala, onde a modularidade, escalabilidade e manutenção independente de componentes são essenciais.
+   - Fonte: [Caelum - Quando usar Microsserviços](https://www.caelum.com.br/2017/02/22/microsservicos-o-que-e-como-funciona-vantagens-e-desvantagens/)
+
+5. **Quais tecnologias são comumente usadas com microsserviços?**
+   - Tecnologias como Docker, Kubernetes, Spring Boot, Node.js, e gRPC são comumente utilizadas no contexto de microsserviços para implementação, orquestração e comunicação entre os serviços.
+   - Fonte: [Blog da FullCycle - Tecnologias de Microsserviços](https://blog.fcamara.com.br/microsservicos-na-pratica/)
+
+6. **Qual é a diferença entre microsserviços e monolitos?**
+   - Os monolitos são aplicativos construídos como uma única unidade, enquanto os microsserviços dividem a aplicação em componentes menores e independentes.
+   - Fonte: [Nelio - Microsserviços vs Monolitos](https://blog.nelio.com.br/2019/06/17/microservices-vs-monoliths/)
+
+7. **Quais são as melhores práticas para desenvolvimento de microsserviços?**
+   - Práticas como design baseado em domínio, isolamento de dados, automação de infraestrutura, e deploy contínuo são consideradas boas práticas no desenvolvimento de microsserviços.
+   - Fonte: [ThoughtWorks - Best Practices for Microservices](https://www.thoughtworks.com/insights/blog/best-practices-microservices)
+
+8. **Como garantir a segurança em microsserviços?**
+   - Para garantir a segurança em microsserviços, é importante implementar autenticação e autorização em nível de API, usar comunicação segura via HTTPS, e adotar práticas de segurança em cada serviço.
+   - Fonte: [InfoQ - Security in Microservices](https://www.infoq.com/br/articles/security-microservices/)
+
+9. **Quais são os princípios do design de microsserviços?**
+   - Os princípios do design de microsserviços incluem isolamento, autonomia, responsabilidade única, e comunicação via mecanismos bem definidos como APIs RESTful.
+   - Fonte: [Martin Fowler - Principles of Microservices](https://martinfowler.com/articles/microservices.html)
+
+10. **O que é decomposição de domínio em microsserviços?**
+   - A decomposição de domínio em microsserviços envolve a divisão de um sistema em serviços menores que refletem as fronteiras de domínio do negócio, permitindo maior coesão e baixo acoplamento.
+   - Fonte: [Código Fonte - Decomposição de Domínio em Microsserviços](https://www.codigofonte.com.br/artigos/decomposicao-de-dominio-em-microservicos)
+
+11. **Quais são as estratégias de comunicação entre microsserviços?**
+   - As estratégias de comunicação entre microsserviços incluem chamadas síncronas via HTTP/REST, chamadas assíncronas via mensageria, e eventos para notificação de mudanças de estado.
+   - Fonte: [Blog da FullCycle - Comunicação entre Microsserviços](https://blog.fcamara.com.br/microsservicos-na-pratica/)
+
+12. **Qual é a importância da automação de testes em microsserviços?**
+   - A automação de testes é fundamental em microsserviços para garantir a integridade e a qualidade do sistema, especialmente devido à complexidade e a dependência entre os serviços.
+   - Fonte: [DevMedia - Automação de Testes em Microsserviços](https://www.devmedia.com.br/automacao-de-testes-em-microsservicos/35931)
+
+13. **Quais são as estratégias de versionamento em microsserviços?**
+   - Estratégias de versionamento incluem versionamento semântico, versionamento de API, e suporte a múltiplas versões de interfaces para garantir a evolução controlada dos serviços.
+   - Fonte: [Red Hat - Versionamento em Microsserviços](https://www.redhat.com/pt-br/topics/microservices/what-is-microservices-versioning)
+
+14. **Como lidar com a consistência de dados em microsserviços?**
+   - A consistência de dados em microsserviços pode ser abordada utilizando padrões como consistência eventual, compensação de transações e eventos de integração para manter a integridade dos dados.
+   - Fonte: [Nelio - Consistência de Dados em Microsserviços](https://blog.nelio.com.br/2019/07/02/consistencia-de-dados-em-microservicos/)
+
+15. **Quais são as estratégias de monitoramento em microsserviços?**
+   - Estratégias de monitoramento em microsserviços incluem o uso de ferramentas de observabilidade, métricas de negócio, rastreamento distribuído e monitoramento proativo da saúde dos serviços.
+   - Fonte: [Alura - Monitoramento em Microsserviços](https://www.alura.com.br/artigos/microsservicos-vantagens-e-desvantagens)
+
+16. **Como escalar microsserviços?**
+   - Microsserviços podem ser escalados horizontalmente, adicionando instâncias de serviços conforme a demanda, e verticalmente, aumentando os recursos de cada instância.
+   - Fonte: [Blog da FullCycle - Escalabilidade em Microsserviços](https://blog.fcamara.com.br/microsservicos-na-pratica/)
+
+17. **Quais são os padrões de resiliência em microsserviços?**
+   - Para garantir resiliência, os microsserviços podem aplicar padrões como circuit breaker, fallback, e retry para lidar com falhas e degradação de desempenho.
+   - Fonte: [InfoQ - Resilience in Microservices](https://www.infoq.com/br/articles/resilience-microservices/)
+
+18. **Como realizar o deploy contínuo em microsserviços?**
+   - O deploy contínuo em microsserviços pode ser alcançado por meio de automação de pipelines de CI/CD, testes automatizados e estratégias de deployment incremental.
+   - Fonte: [ThoughtWorks - Continuous Delivery for Microservices](https://www.thoughtworks.com/insights/blog/continuous-delivery-microservices)
+
+19. **Quais são as estratégias de tratamento de falhas em microsserviços?**
+   - Estratégias incluem fallbacks, retries, e circuit breakers para tratar falhas de comunicação e degradação de desempenho entre os microsserviços.
+   - Fonte: [Nelio - Tratamento de Falhas em Microsserviços](https://blog.nelio.com.br/2019/07/16/tratamento-de-falhas-em-microservicos/)
+
+20. **Quais são as diferenças entre microsserviços e SOA (Arquitetura Orientada a Serviços)?**
+    - Microsserviços são mais granulares, independentes e utilizam comunicação leve, enquanto a SOA tende a ser mais monolítica e centralizada, com comunicação mais pesada.
+    - Fonte: [DevMedia - Microsserviços vs SOA](https://www.devmedia.com.br/arquitetura-de-microservicos-vs-soa/37629)
