@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Infraestrutura/Docker.md",
+                    "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                     "mode": "source",
                     "source": false
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Infraestrutura/Docker.md",
+                    "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Docker.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Docker.md",
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Docker.md"
+                "file": "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md"
               }
             }
           },
@@ -205,20 +205,23 @@
       "obsidian42-brat:BRAT": false,
       "map-of-content:Update Map of Content": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "crossbow:Crossbow": false
     }
   },
-  "active": "c3007c910fe34d74",
+  "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "Engenharia de Software/DevOps.md",
+    "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
+    "Edital Vertical.md",
+    "Infraestrutura/Docker.md",
     "Infraestrutura/Ansible.md",
     "Discursivas Solução-Problema.md",
     "Engenharia de Software/DLT.md",
     "Edital.md",
-    "Edital Vertical.md",
     "_Index_of_Bacen.md",
     "_Index_of_Bacen-OBS.md",
     "Infraestrutura/Infraestrutura como código.md",
-    "Infraestrutura/Docker.md",
     "Infraestrutura/Kubernetes.md",
     "Gestão em TI/Kanban.md",
     "Gestão em TI/Itil 4.md",
@@ -229,10 +232,8 @@
     "Pasted image 20240220140453.png",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
-    "Engenharia de Software/DevOps.md",
     "Devops por afirmações da Cebraspe.md",
     "Engenharia de Software/Devops - Cebraspe.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",

@@ -24,7 +24,7 @@
 ## Quando não usar?
 - Bem, assim como a cultura de [[DevOps]], a cultura do [[MLOps]] não possui restrições rígido para não ser utilizada porém é importante ressaltar que para ser instaurada na organização é necessário readequação e remodelação de processos e isso pode gerar algum esforço financeiro e profissional. Há que se considerar o fato de que a organização trabalhe apenas com um modelo muito específico de modelo de [[Machine Learning]] não crítico e em um caso assim não há a necessidade de se readequar à prática de [[MLOps]] embora houvessem mais benefícios.
 ## MLOps Reactor
-- Azure Devops
+- Azure [[Devops]]
 - Azure Machine Learning
 
 ## TensforFlow

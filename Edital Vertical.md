@@ -42,7 +42,7 @@
 ## Infraestrutura
 - [x] Puppet
 - [x] [[Ansible]]
-- [x] Docker
+- [x] [[Docker]]
 - [x] Kubernetes
 - [x] DNS
 - [x] DHCP
@@ -99,7 +99,7 @@
 - [x] Arquiteturas (_Index_of_Arquiteturas) 
 	- [x] Arquitetura em Camadas 
 	- [x] Arquitetura em Serviços 
-	- [x] Arquitetura de MicroServiços (Orquestração, Gateway) 
+	- [x] [[Arquitetura de MicroServiços]] (Orquestração, Gateway) 
 	- [x] Arquitetura Orientação a Eventos 
 	- [x] Arquitetura Cliente-Servidor 
 	- [x] Arquitetura Serverless 

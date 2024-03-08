@@ -4,7 +4,7 @@
 # Questões
 https://www.tecconcursos.com.br/s/Q3NdId
 
-```scss
+
 1. Fundamentos do DevOps (15%)
     1.1. Introdução ao DevOps (5%)
     1.2. Evolução do DevOps (5%)
@@ -16,7 +16,7 @@ https://www.tecconcursos.com.br/s/Q3NdId
     2.4. Implantação (5%)
 3. Ferramentas do DevOps (25%)
     3.1. Git (5%)
-    3.2. Docker (5%)
+    3.2. [[Docker]] (5%)
     3.3. Jenkins (5%)
     3.4. Puppet (5%)
     3.5. [[Ansible]] (5%)
@@ -30,14 +30,13 @@ https://www.tecconcursos.com.br/s/Q3NdId
     5.2. Automação (5%)
     5.3. Melhoria contínua (5%)
     5.4. Feedback e aprendizado (5%)
-```
 
 ## Devops por afirmações da Cebraspe
 - DevOps é um conceito pelo qual se busca entregar sistemas melhores, com menor custo, em menor tempo e com menor risco.
 - O DevOps, movimento profissional emergente que defende uma colaboração maior entre desenvolvimento e operações de TI, resulta em um fluxo rápido do trabalho planejado, que aumenta a confiabilidade, a estabilidade e a segurança do ambiente de produção.
 - O profissional especialista em DevOps deve atuar e conhecer as áreas de desenvolvimento (engenharia de software), operações e controle de qualidade, além de conhecer, também, de forma ampla, os processos de desenvolvimento ágil.
 - Em DevOps, além das ferramentas do ambiente de desenvolvimento integrado, são relevantes as ferramentas para gerenciamento de controle de fontes, trabalho colaborativo e planejamento de projetos.
-- As ferramentas DevOps incluem o Kubernetes, uma plataforma de orquestração de contêineres que permite gerenciar e escalonar aplicativos em contêineres em diferentes ambientes e pode ser integrada a outras ferramentas DevOps, como Docker e Jenkins.
+- As ferramentas DevOps incluem o Kubernetes, uma plataforma de orquestração de contêineres que permite gerenciar e escalonar aplicativos em contêineres em diferentes ambientes e pode ser integrada a outras ferramentas DevOps, como [[Docker]] e Jenkins.
 - A prática de database migration é fundamental em DevOps para garantir a consistência dos dados bem como sua disponibilidade e segurança.
 - A infraestrutura como código é uma prática DevOps caracterizada pela infraestrutura provisionada e gerenciada por meio de técnicas de desenvolvimento de código e de software, como, por exemplo, controle de versão e integração contínua.
 - A arquitetura de microsserviços decompõe a aplicação em serviços e pode ser criada e implantada de maneira independente, o que permite executar no DevOps o continuous integration / continuous delivery (CI/CD).

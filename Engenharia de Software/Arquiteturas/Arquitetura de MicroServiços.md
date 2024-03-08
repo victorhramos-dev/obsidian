@@ -37,8 +37,8 @@
 13. Monitoramento contínuo é crucial para garantir o desempenho e a confiabilidade dos microsserviços, identificando problemas rapidamente.
     [Fonte: Dynatrace - Microservices Monitoring](https://www.dynatrace.com/platform/microservices-monitoring/)
 
-14. Uma arquitetura de microsserviços bem-sucedida requer uma forte cultura DevOps, onde equipes de desenvolvimento e operações trabalham de forma colaborativa e automatizada.
-    [Fonte: Atlassian - DevOps Culture](https://www.atlassian.com/devops)
+14. Uma arquitetura de microsserviços bem-sucedida requer uma forte cultura [[DevOps]], onde equipes de desenvolvimento e operações trabalham de forma colaborativa e automatizada.
+    [Fonte: Atlassian - [[DevOps]] Culture](https://www.atlassian.com/devops)
 
 15. A composição de microsserviços em uma aplicação maior pode ser gerenciada por um gateway de API, que roteia e controla as chamadas entre serviços.
     [Fonte: API Gateway Pattern](https://microservices.io/patterns/apigateway.html)
