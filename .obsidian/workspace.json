@@ -231,8 +231,8 @@
                   "type": "markdown",
                   "state": {
                     "file": "Infraestrutura/Ansible.md",
-                    "mode": "preview",
-                    "source": true
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
