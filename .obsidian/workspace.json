@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Ansible.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md"
+                "file": "Infraestrutura/Ansible.md"
               }
             }
           },
@@ -179,32 +179,31 @@
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
     "Infraestrutura/Docker.md",
+    "Infraestrutura/Paas.md",
+    "Infraestrutura/Puppet.md",
+    "Infraestrutura/Saas.md",
+    "_Index_of_Bacen.md",
+    "Edital.md",
+    "Discursivas Solução-Problema.md",
+    "Pasted image 20240220140453.png",
+    "_Index_of_Bacen-OBS.md",
+    "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
-    "Infraestrutura/Saas.md",
-    "Infraestrutura/Puppet.md",
-    "Infraestrutura/Paas.md",
-    "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Ansible.md",
     "Engenharia de Software/DevOps.md",
     "Devops por afirmações da Cebraspe.md",
     "Engenharia de Software/Devops - Cebraspe.md",
-    "_Index_of_Bacen.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
-    "_Index_of_Bacen-OBS.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
-    "Edital.md",
     "Edital Vertical.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
-    "Discursivas Solução-Problema.md",
     "Infraestrutura/Monitoração/Nagios.md",
     "Infraestrutura/Monitoração/Logstash.md",
-    "Banco de Dados/Modelagem de Dados Multidimensional.md",
-    "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
