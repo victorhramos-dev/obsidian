@@ -4,6 +4,7 @@
 - Armazena elementos ==sem repetição== e sem ordem específica. Utiliza uma tabela de hashes pra garantir que os dados não se repetirão.
 #### TreeSet
 - Armazena elementos ==sem repetição== e em ==**ordem** **crescente**==. Utiliza uma árvore binária auto-balanceada para garantir a ordenação e busca eficiente.
+<!--SR:!2024-03-12,4,270!2000-01-01,1,250!2000-01-01,1,250-->
 
 ### Map (mapas)
 
