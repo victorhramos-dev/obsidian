@@ -4,7 +4,7 @@
 - Armazena elementos ==sem repetição== e sem ordem específica. Utiliza uma tabela de hashes pra garantir que os dados não se repetirão.
 #### TreeSet
 - Armazena elementos ==sem repetição== e em ==**ordem** **crescente**==. Utiliza uma árvore binária auto-balanceada para garantir a ordenação e busca eficiente.
-<!--SR:!2024-03-12,4,270!2000-01-01,1,250!2000-01-01,1,250-->
+<!--SR:!2024-03-12,4,270!2024-03-12,4,270!2000-01-01,1,250-->
 
 ### Map (mapas)
 
@@ -12,6 +12,7 @@
 - Mapa hash por ==**chave-valor**== sem ordenação.
 #### TreeMap
 - Mapa hash por ==**chave-valor**== porém em ordem ==crescente== utilizando uma árvore vermelha preta
+<!--SR:!2024-03-11,3,250!2000-01-01,1,250!2024-03-12,4,270-->
 
 ### List (listas)
 #### ArrayList
