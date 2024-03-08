@@ -28,3 +28,7 @@
 28. O Docker API é uma interface que permite interagir com o Docker Engine remotamente.
 29. O Docker CLI (Command Line Interface) é uma ferramenta de linha de comando para interagir com o Docker Engine.
 30. O Docker Logging Drivers permite que os logs dos contêineres sejam roteados e persistidos em diferentes destinos.
+
+## Visão Cebraspe
+- O **Docker** é uma ferramenta _open source_ que permite a criação de ambientes virtuais por meio de **Linux Containers**, sendo uma das vantagens dos contêineres Docker fornecer uma virtualização em nível de sistema operacional, o que isola as aplicações em execução e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
+- A adoção de tecnologias de conteinerização, como o Docker, permite à equipe orquestrar vários contêineres em conjunto, por exemplo, um contêiner para a aplicação Node.js e outro, para o banco de dados MongoDB.
