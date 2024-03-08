@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Infraestrutura como código.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Infraestrutura como código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md",
+                "file": "Infraestrutura/Infraestrutura como código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Kubernetes.md"
+                "file": "Infraestrutura/Infraestrutura como código.md"
               }
             }
           },

@@ -85,19 +85,12 @@ cards-deck: Infraestrutura
 22. Por que a idempotência é importante na IaC?::Garante resultados consistentes em operações.
 ^1709919143356
 23. Qual a relação entre IaC e DevOps?::IaC é uma prática essencial do DevOps.
-^1709919143361
 24. O que é provisionamento de infraestrutura na nuvem?::Criação dinâmica de recursos na nuvem.
-^1709919143365
 25. Como a IaC promove a escalabilidade?::Automatização do provisionamento conforme demanda.
-^1709919143368
 26. O que é DevOps?::Metodologia de integração entre desenvolvimento e operações.
-^1709919143372
 27. Qual o objetivo da entrega contínua?::Automatizar o processo de entrega de software.
-^1709919143377
 28. O que são ambientes de produção?::Ambientes onde o software é executado para uso real.
-^1709919143381
 29. Qual a importância da consistência na IaC?::Garante ambientes uniformes e previsíveis.
-^1709919143386
 30. O que são arquivos de configuração na IaC?::Documentos que definem a infraestrutura de forma programática.
-^1709919143390
+
 
