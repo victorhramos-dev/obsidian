@@ -90,3 +90,5 @@ O MetalLB é um controlador de balanceador de carga para Kubernetes que permite 
 - Caso seja necessário informar ao _Docker_ que um container deve escutar na porta de rede 80 do TCP, o comando correto no DockerFile é o seguinte: EXPOSE 80/tcp
 - Em _containers_, a decomposição de funções de uma aplicação resulta em microsserviços, independentes entre si e com fraco acoplamento.
 - Com a implantação do Kubernetes, é obtido um cluster com pelo menos um nó de trabalho _(worker node)_; os nós de trabalho, por sua vez, hospedam vários componentes da carga de trabalho do aplicativo.
+- No Kubernetes, kubelet é uma pequena aplicação localizada em um nó que se comunica com o plano de controle, assegurando que os _containers_ estejam em execução em um _pod,_ que consiste no menor e mais simples objeto do Kubernetes.
+- O Docker é uma ferramenta _open source_ que permite a criação de ambientes virtuais por meio de Linux Containers, sendo uma das vantagens dos contêineres Docker fornecer uma virtualização em nível de sistema operacional, o que isola as aplicações em execução e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
