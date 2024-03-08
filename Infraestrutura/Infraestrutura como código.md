@@ -35,18 +35,3 @@
 - A partir dela a infraestrutura é tratada como uma etapa no desenvolvimento de software, incorporando automação e agilidade no processo.
 - Infraestrutura como código (em inglês: infrastructure as code, ou IaC) é o processo de gerenciamento e provisionamento de centros de processamentos dados usando arquivos de configuração ao invés de configurações físicas de hardware ou ferramentas de configuração interativas. 
 
-1. {{c1:O que a infraestrutura como código (IaC) automatiza?}} - Automatiza o provisionamento da infraestrutura.
-2. {{c2::Quais são os benefícios de usar IaC para desenvolver aplicativos em cloud?}} - Permite desenvolver, implementar e dimensionar aplicativos com maior velocidade, menos riscos e custos reduzidos.
-3. {{c3::O que IaC utiliza para automatizar o fornecimento de infraestrutura de TI?}} - Usa uma linguagem de programação descritiva de alto nível.
-4. {{c4::Quais elementos de infraestrutura a automação da IaC evita que os desenvolvedores precisem provisionar e gerenciar?}} - Servidores, sistemas operacionais, conexões de banco de dados, armazenamento, entre outros.
-5. {{c5::Por que IaC é essencial?}} - É essencial para controlar custos, reduzir riscos e responder rapidamente a novas oportunidades de negócios e ameaças competitivas.
-6. {{c6::Qual é a importância de IaC no contexto de DevOps?}} - IaC é uma prática essencial de DevOps.
-7. {{c7::O que IaC possibilita às equipes DevOps?}} - Possibilita que equipes DevOps criem infraestruturas rapidamente.
-8. {{c8::Qual é a finalidade principal de IaC?}} - É a etapa final para permitir que os desenvolvedores 'encomendem', de maneira eficiente, infraestrutura totalmente documentada e com controle de versão por meio da execução de um script.
-9. {{c9::Para quais etapas do processo de fornecimento de infraestrutura a automação da IaC acelera drasticamente?}} - Desenvolvimento, teste e produção.
-10. {{c10::Quais metodologias e técnicas IaC utiliza para definir e implantar a infraestrutura?}} - Usa a metodologia de DevOps e o controle de versão com um modelo descritivo.
-11. {{c11::O que acontece sempre que um modelo IaC é implantado?}} - Gera o mesmo ambiente.
-12. {{c12::Qual é a relação entre IaC e DevOps?}} - IaC é uma prática-chave de DevOps e um componente de entrega contínua.
-13. {{c13::Como a IaC ajuda as equipes de DevOps a fornecer aplicativos e infraestrutura de suporte?}} - Permite que trabalhem com um conjunto unificado de práticas e ferramentas de forma rápida e confiável em escala.
-14. {{c14::Qual problema a IaC evoluiu para resolver nos pipelines de lançamento?}} - Descompasso de ambiente.
-15. {{c15::Por que as implantações de infraestrutura com IaC são repetíveis e evitam problemas de tempo de execução?}} - Porque evitam descompasso de configuração ou dependências ausentes.
