@@ -31,3 +31,5 @@ https://www.tecconcursos.com.br/s/Q3NdId
     5.3. Melhoria contínua (5%)
     5.4. Feedback e aprendizado (5%)
 ```
+
+## Devops por afirmações da Cebraspe
