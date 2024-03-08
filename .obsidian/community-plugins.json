@@ -12,5 +12,6 @@
   "nlp",
   "graph-analysis",
   "map-of-content",
-  "flashcards-obsidian"
+  "flashcards-obsidian",
+  "obsidian-to-anki-plugin"
 ]

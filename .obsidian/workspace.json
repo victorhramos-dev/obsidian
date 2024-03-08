@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Infraestrutura como código.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Infraestrutura como código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Infraestrutura como código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestão em TI/Itil 4.md"
+                "file": "Infraestrutura/Infraestrutura como código.md"
               }
             }
           },
@@ -173,11 +173,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "Gestão em TI/Kanban.md",
+    "Gestão em TI/Itil 4.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Kubernetes.md",
@@ -203,7 +206,6 @@
     "Edital Vertical.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
     "Infraestrutura/Monitoração/Nagios.md",
-    "Infraestrutura/Monitoração/Logstash.md",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
