@@ -1,3 +1,7 @@
+---
+cards-deck: Infraestrutura
+---
+
 
 ## Afirmações
 - Kubernetes é uma plataforma de orquestração de contêineres que automatiza o provisionamento, escalonamento e gerenciamento de aplicativos em contêineres.
@@ -91,3 +95,36 @@ O MetalLB é um controlador de balanceador de carga para Kubernetes que permite 
 - Em _containers_, a decomposição de funções de uma aplicação resulta em microsserviços, independentes entre si e com fraco acoplamento.
 - 😱 Com a implantação do **Kubernetes**, é obtido um cluster com pelo menos um nó de trabalho (_worker node_); os nós de trabalho, por sua vez, hospedam vários componentes da carga de trabalho do aplicativo.
 - No **Kubernetes**, _kubelet_ é uma pequena aplicação localizada em um nó que se comunica com o plano de controle, assegurando que os _containers_ estejam em execução em um _pod_, que consiste no menor e mais simples objeto do **Kubernetes**.
+
+#cards 
+1. O que é um aplicativo conteinerizado?::Um aplicativo que pode ser testado como uma unidade e implantado como instância de uma imagem de contêiner no sistema operacional hospedeiro.
+^1709919423607
+2. O que é Kubernetes?::Uma plataforma para manter e implantar um grupo de contêineres em tempo de execução.
+^1709919423632
+3. Kubernetes é comumente usado com qual ferramenta?::Docker.
+^1709919423636
+4. O que é um contêiner?::Um conjunto de processos organizados isoladamente do sistema, com todos os arquivos necessários fornecidos por uma imagem distinta.
+^1709919423640
+5. O que os contêineres Docker encapsulam?::A aplicação e o seu ambiente de execução.
+^1709919423644
+6. O que um contêiner deve fornecer?::Um ambiente de hospedagem do lado do servidor gerenciado e um middleware que intercepte as chamadas recebidas.
+^1709919423648
+7. O que o Kubernetes faz no caso de falha de uma aplicação?::Faz o escalonamento e a recuperação.
+^1709919423652
+8. O que acontece ao conteinerizar uma aplicação?::Ela passa a ser executada de forma independente do sistema operacional e isolada de outras aplicações.
+^1709919423656
+9. O que os containers oferecem?::Um mecanismo de empacotamento lógico onde os aplicativos podem ser abstraídos pelo ambiente em que são executados.
+^1709919423661
+10. Como informar ao Docker que um contêiner deve escutar na porta de rede 80 do TCP?::Usando o comando `EXPOSE 80/tcp` no DockerFile.
+11. O que resulta da decomposição de funções de uma aplicação em containers?::Microsserviços, independentes entre si e com fraco acoplamento.
+^1709919423665
+12. O que se obtém com a implantação do Kubernetes?::Um cluster com pelo menos um nó de trabalho (worker node).
+^1709919423670
+13. O que os nós de trabalho hospedam no Kubernetes?::Vários componentes da carga de trabalho do aplicativo.
+^1709919423675
+14. O que é kubelet no Kubernetes?::Uma pequena aplicação em um nó que se comunica com o plano de controle.
+^1709919423680
+15. O que o kubelet assegura no Kubernetes?::Que os containers estejam em execução em um pod.
+^1709919423685
+16. O que é um pod no Kubernetes?::O menor e mais simples objeto do Kubernetes.
+^1709919423689
