@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "_Index_of_Bacen.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "_Index_of_Bacen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "_Index_of_Bacen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital Vertical.md"
+                "file": "_Index_of_Bacen.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "_Index_of_Bacen-OBS.md",
+    "_Index_of_Bacen.md",
+    "Edital Vertical.md",
     "Edital.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Docker.md",
@@ -199,10 +202,8 @@
     "Infraestrutura/Paas.md",
     "Infraestrutura/Puppet.md",
     "Infraestrutura/Saas.md",
-    "_Index_of_Bacen.md",
     "Discursivas Solução-Problema.md",
     "Pasted image 20240220140453.png",
-    "_Index_of_Bacen-OBS.md",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
     "Engenharia de Software/DevOps.md",
@@ -212,7 +213,6 @@
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
-    "Edital Vertical.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
     "Infraestrutura/Monitoração/Nagios.md",
     "Ciência de Dados/Sem título.canvas",

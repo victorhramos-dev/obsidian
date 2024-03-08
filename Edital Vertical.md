@@ -1,28 +1,28 @@
 
 ## Ciência de Dados (_Index_of_Ciência de Dados)
-- [ ] Governança e Ética na IA
-- [ ] Machine Learning
-- [ ] Tipos de Aprendizado
-- [ ] [[Big Data]]
+- [x] Governança e Ética na IA
+- [x] Machine Learning
+- [x] Tipos de Aprendizado
+- [x] [[Big Data]]
 - [ ] Deep Learning
 - [ ] Redes Neurais
-- [ ] PNL
+- [x] PNL
 - [ ] Qualidade de Dados
 - [ ] Grandes Modelos LLM
 - [ ] IA Generativa
-- [ ] MLOps
-	- [ ] Gestão de Código
-	- [ ] Treinamento
-	- [ ] Implantação 
-	- [ ] Monitoramento
-	- [ ] Automação
-	- [ ] Versionamento
+- [x] MLOps
+	- [x] Gestão de Código
+	- [x] Treinamento
+	- [x] Implantação
+	- [x] Monitoramento
+	- [x] Automação
+	- [x] Versionamento
 
 
 ## Gestão em TI
 - [x] Kanban
 - [x] Scrum
-- [ ] Governança de Dados
+- [x] Governança de Dados
 - [ ] Itil 4
 
 ## Banco de Dados
@@ -49,7 +49,7 @@
 - [x] Radius
 - [x] Autenticação
 - [x] Certificados
-- [ ] Active Directiory (AD)
+- [x] Active Directiory (AD)
 - [x] Monitoração (_Index_of_Monitoração)
 	- [x] [[Grafana]]
 	- [x] [[Prometheus]]
@@ -70,16 +70,13 @@
 	- [x] HTTP
 	- [x] HTTPS
 	- [x] SSL TLS
-	- [ ] LDAP
-	- [ ] NFS
-	- [ ] SMB
+	- [x] LDAP
+	- [x] NFS
+	- [x] SMB
 - [x] LAN
 - [x] WAN
-- [ ] SDN
-- [ ] Windows Server e Linux
-
-## Desenvolvimento de Software
-
+- [x] SDN
+- [x] Windows Server e Linux
 
 ## Engenharia de Software
 - [x] [[DevOps]] 
@@ -98,7 +95,7 @@
 	- [x] Testes Unitários
 	- [x] Testes de Integração
 	- [x] TDD
-	- [ ] BDD
+	- [x] BDD
 - [x] Arquiteturas (_Index_of_Arquiteturas) 
 	- [x] Arquitetura em Camadas 
 	- [x] Arquitetura em Serviços 
@@ -113,7 +110,7 @@
 		- [ ] Proxy
 		- [ ] Cache
 		- [ ] LoadBalancer
-		- [ ] Estabilidade em Sistemas Web
+		- [x] Estabilidade em Sistemas Web
 
 
 ## Segurança da Informação
@@ -131,7 +128,7 @@
 	- [x] Firewall 
 	- [x] IDS 
 	- [x] IPS 
-	- [ ] Security 35 SIEM
+	- [x] Security 35 SIEM
 	- [x] Proxy
 	- [ ] IAM
 	- [ ] PAM
@@ -140,7 +137,7 @@
 - [ ] Frameworks:
 	- [x] MITRE ATT&CK
 	- [ ] CIS Controls
-	- [ ] NIST CSF
+	- [x] NIST CSF
 	- [x] CyBok
 - [x] Tratamento de Incidentes
 - [x] Assinatura & Certificados Digitais
