@@ -21,7 +21,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md"
+                "file": "Infraestrutura/Kubernetes.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "bed4c9c4b8e5152b",
   "lastOpenFiles": [
+    "Infraestrutura/Infraestrutura como código.md",
     "Engenharia de Software/DevOps.md",
     "Devops por afirmações da Cebraspe.md",
     "Engenharia de Software/Devops - Cebraspe.md",
@@ -238,7 +239,6 @@
     "Engenharia de Software/DevSecOps.md",
     "Engenharia de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
     "Engenharia de Software/Padrões de Projeto GoF, GRASP.md",
-    "Engenharia de Software/Java.md",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
