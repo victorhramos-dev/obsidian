@@ -1,35 +1,35 @@
 ### Muito Importante
-1. Ansible é uma ferramenta de automação de TI open-source usada para automatizar tarefas de configuração, gerenciamento e implantação.
-2. Ele é baseado em YAML para descrever as configurações e tarefas a serem executadas, o que o torna fácil de entender e escrever.
-3. Ansible utiliza um modelo de comunicação sem agente, o que significa que não requer nenhum software adicional nos nós que estão sendo gerenciados.
-4. O conceito fundamental do Ansible é o playbook, que é um arquivo YAML que define uma série de tarefas a serem executadas em hosts específicos.
-5. Ele suporta uma arquitetura de mestre e escravo, onde o mestre controla os hosts e executa as tarefas conforme especificado nos playbooks.
-6. Ansible permite a automação de várias camadas da infraestrutura de TI, incluindo provisionamento de máquinas, configuração de serviços e implantação de aplicativos.
-7. Os playbooks do Ansible são altamente reutilizáveis e podem ser compartilhados entre equipes ou comunidades.
-8. Ansible facilita a orquestração de tarefas em vários servidores, permitindo a execução de comandos de forma simultânea e sequencial.
-9. Ele suporta integração com outras ferramentas de automação e sistemas de controle de versão, como Git, Jenkins e Docker.
-10. Ansible oferece uma vasta coleção de módulos que podem ser usados para realizar uma variedade de tarefas de automação em diferentes ambientes.
+1. Ansible é uma ferramenta de automação de TI de código aberto usada para provisionamento, configuração e gerenciamento de sistemas. (100%)
+2. As configurações em Ansible são escritas em YAML (YAML Ain't Markup Language), um formato fácil de ler e escrever. (95%)
+3. O Ansible utiliza SSH para se conectar e executar comandos em hosts remotos. (95%)
+4. Playbooks em Ansible são arquivos YAML que definem uma série de tarefas a serem executadas em hosts remotos. (90%)
+5. Os roles em Ansible são coleções de playbooks e outros recursos relacionados que ajudam a organizar e reutilizar código. (90%)
+6. O Ansible utiliza módulos para interagir com sistemas remotos, como instalar pacotes, criar usuários e gerenciar serviços. (90%)
+7. Inventory em Ansible é um arquivo que lista os hosts gerenciados e pode ser estático ou dinâmico. (85%)
+8. Ansible Tower (ou AWX, a versão de código aberto) é uma interface gráfica e plataforma de automação que torna mais fácil a gestão de playbooks, inventários e agendamento de tarefas. (85%)
+9. O Ansible Galaxy é um repositório online de roles, playbooks e outros recursos compartilhados pela comunidade. (80%)
+10. O comando `ansible-playbook` é usado para executar playbooks em hosts remotos. (80%)
 
 ### Média Importância
-1. O Ansible é escalável e pode lidar com um grande número de nós de forma eficiente.
-2. Ele oferece suporte a plugins, o que permite estender sua funcionalidade de várias maneiras.
-3. Ansible pode ser usado para gerenciar infraestruturas físicas, virtuais e em nuvem.
-4. É possível realizar verificações de estado nos nós gerenciados para garantir que eles estejam configurados conforme desejado.
-5. Ansible oferece recursos avançados de gerenciamento de inventário para organizar e agrupar hosts de forma eficaz.
-6. Ele suporta a execução de comandos ad hoc para tarefas pontuais de administração.
-7. Ansible tem uma comunidade ativa e uma ampla documentação disponível online.
-8. Ele é compatível com várias plataformas e sistemas operacionais, incluindo Linux, Windows e macOS.
-9. Ansible permite a configuração de agendamento para executar tarefas em momentos específicos.
-10. Ele fornece suporte para criptografia de dados sensíveis, como senhas e chaves SSH.
+11. O Ansible permite a execução de tarefas de forma paralela em vários hosts, o que aumenta a eficiência. (75%)
+12. Os handlers em Ansible são tarefas que são executadas apenas se outras tarefas em um playbook as chamarem. (75%)
+13. Variáveis em Ansible são usadas para tornar os playbooks mais flexíveis e reutilizáveis, permitindo a parametrização de valores. (70%)
+14. O Ansible permite a organização de hosts em grupos no inventário, facilitando a gestão de diferentes ambientes. (70%)
+15. O Ansible permite a integração com sistemas de controle de versão como Git para o gerenciamento de código. (70%)
+16. O comando `ansible` pode ser usado para executar tarefas ad hoc em hosts remotos sem a necessidade de um playbook. (65%)
+17. Os fact gathering em Ansible são módulos que coletam informações sobre os hosts, como hardware, sistema operacional e rede. (65%)
+18. É possível estender as funcionalidades do Ansible escrevendo módulos personalizados em Python. (60%)
+19. Ansible permite o uso de condições e loops em playbooks para controle de fluxo de execução. (60%)
+20. O Ansible permite a criação de roles personalizadas para encapsular funcionalidades específicas de uma aplicação ou serviço. (60%)
 
 ### Baixa Importância
-1. Ansible possui um modo de operação seguro que evita a execução acidental de comandos perigosos.
-2. Ele oferece a capacidade de integrar fluxos de trabalho de desenvolvimento e operações (DevOps) de forma eficiente.
-3. Ansible Galaxy é um repositório online onde os usuários podem compartilhar e baixar papéis e coleções Ansible.
-4. É possível configurar notificações e alertas para acompanhar o status das operações executadas pelo Ansible.
-5. Ansible suporta a execução de tarefas em paralelo em vários hosts para melhorar o desempenho.
-6. Ele oferece suporte a variáveis e templates para parametrizar os playbooks e torná-los mais flexíveis.
-7. Ansible possui uma arquitetura modular que permite adicionar novos recursos e funcionalidades facilmente.
-8. Ele pode ser integrado a ferramentas de monitoramento e gerenciamento de logs para análise de desempenho.
-9. Ansible permite a configuração de políticas de controle de acesso para restringir o acesso a determinados recursos.
-10. Ele oferece suporte a testes de regressão para garantir que as configurações não sejam alteradas inadvertidamente.
+21. Ansible utiliza um sistema de controle de versão interno chamado Ansible Vault para criptografar e proteger informações sensíveis, como senhas e chaves SSH. (55%)
+22. O Ansible suporta a execução de comandos em hosts Windows, além de sistemas baseados em Unix/Linux. (50%)
+23. O Ansible permite a execução de tarefas em contêineres Docker usando módulos específicos. (50%)
+24. É possível agendar a execução de playbooks em intervalos regulares usando ferramentas de agendamento do sistema operacional ou Ansible Tower. (45%)
+25. O Ansible permite a criação de inventários dinâmicos usando scripts ou APIs para descoberta de hosts. (40%)
+26. O Ansible suporta conexões via Kerberos para autenticação em hosts Windows e Unix/Linux. (40%)
+27. O Ansible permite a execução de tarefas em nuvens públicas como AWS, Azure e Google Cloud Platform usando módulos específicos. (35%)
+28. É possível gerenciar configurações de rede usando módulos específicos do Ansible para dispositivos de rede compatíveis. (30%)
+29. Ansible permite a execução de tarefas em hosts macOS usando módulos específicos. (25%)
+30. Ansible fornece ferramentas para análise e relatórios sobre o estado e as alterações aplicadas nos sistemas gerenciados. (20%)
