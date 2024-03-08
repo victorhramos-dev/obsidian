@@ -1,3 +1,7 @@
+---
+cards-deck: Infraestrutura
+---
+
 
 - A infraestrutura como código (IaC) automatiza o provisionamento da infraestrutura.
 - IaC permite que sua organização desenvolva, implemente e dimensione aplicativos em cloud com maior velocidade, menos riscos e custos reduzidos.
@@ -37,33 +41,63 @@
 
 #cards
 1. O que é Infraestrutura como Código (IaC)?::Automatização do provisionamento da infraestrutura por meio de código.
+^1709919143255
 2. Quais são os benefícios da IaC?::Velocidade, redução de riscos e custos.
+^1709919143279
 3. Quais elementos a IaC automatiza?::Servidores, sistemas operacionais, conexões de banco de dados, etc.
+^1709919143283
 4. Por que a IaC é considerada essencial?::Para controle de custos, redução de riscos e resposta rápida.
+^1709919143286
 5. Como a IaC se relaciona com DevOps?::É uma prática essencial do DevOps.
+^1709919143290
 6. Quais são os benefícios da automação da IaC?::Velocidade e confiabilidade no fornecimento de infraestrutura.
+^1709919143294
 7. O que é idempotência na IaC?::Capacidade de uma operação produzir sempre o mesmo resultado.
+^1709919143299
 8. Como a IaC auxilia no desenvolvimento de aplicativos?::Permite testar em ambientes semelhantes ao de produção.
+^1709919143302
 9. Qual é o objetivo principal da Infraestrutura como Código?::Automatizar o provisionamento de infraestrutura.
+^1709919143306
 10. Como funciona o processo da Infraestrutura como Código?::Gerenciamento por arquivos de configuração.
+^1709919143309
 11. Como a IaC beneficia o desenvolvimento ágil?::Provisionamento rápido e confiável de ambientes.
+^1709919143313
 12. Qual a relação entre IaC e entrega contínua?::Componente essencial da entrega contínua.
+^1709919143317
 13. Como a IaC resolve o problema de descompasso de ambiente?::Implantações repetíveis e consistentes.
+^1709919143322
 14. Quais os formatos de código utilizados na IaC?::JSON, YAML, etc.
+^1709919143325
 15. Por que a nuvem é importante na IaC?::Provisionamento dinâmico de ambientes.
+^1709919143330
 16. Quais são os benefícios da IaC?::Automação, consistência, escalabilidade.
+^1709919143334
 17. O que é IaC em poucas palavras?::Gerenciamento automatizado de infraestrutura.
+^1709919143337
 18. Como a IaC contribui para o ciclo de vida do software?::Integração da infraestrutura ao desenvolvimento.
+^1709919143342
 19. Quais são os resultados esperados da aplicação de IaC?::Ambientes confiáveis e consistentes.
+^1709919143345
 20. Qual a principal vantagem da IaC em relação à configuração manual?::Evita erros e garante consistência.
+^1709919143349
 21. Como a IaC impacta a gestão de custos?::Redução de gastos com provisionamento otimizado.
+^1709919143353
 22. Por que a idempotência é importante na IaC?::Garante resultados consistentes em operações.
+^1709919143356
 23. Qual a relação entre IaC e DevOps?::IaC é uma prática essencial do DevOps.
+^1709919143361
 24. O que é provisionamento de infraestrutura na nuvem?::Criação dinâmica de recursos na nuvem.
+^1709919143365
 25. Como a IaC promove a escalabilidade?::Automatização do provisionamento conforme demanda.
+^1709919143368
 26. O que é DevOps?::Metodologia de integração entre desenvolvimento e operações.
+^1709919143372
 27. Qual o objetivo da entrega contínua?::Automatizar o processo de entrega de software.
+^1709919143377
 28. O que são ambientes de produção?::Ambientes onde o software é executado para uso real.
+^1709919143381
 29. Qual a importância da consistência na IaC?::Garante ambientes uniformes e previsíveis.
+^1709919143386
 30. O que são arquivos de configuração na IaC?::Documentos que definem a infraestrutura de forma programática.
+^1709919143390
 

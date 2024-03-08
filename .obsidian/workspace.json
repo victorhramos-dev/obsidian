@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md"
+                "file": "Infraestrutura/Kubernetes.md"
               }
             }
           },
@@ -182,14 +182,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "map-of-content:Update Map of Content": false,
-      "obsidian-spaced-repetition:Revisar flashcards": false
+      "obsidian-spaced-repetition:Revisar flashcards": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
+    "Infraestrutura/Infraestrutura como código.md",
     "Gestão em TI/Kanban.md",
     "Gestão em TI/Itil 4.md",
-    "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Kubernetes.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Orientação a Eventos.md",
