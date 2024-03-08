@@ -16,54 +16,19 @@
             }
           },
           {
-            "id": "706395295c972768",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000007,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "bed4c9c4b8e5152b",
+            "id": "e30df5b2e3bacc5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Infraestrutura como código.md"
+                "file": "Infraestrutura/Kubernetes.md"
               }
             }
           },
@@ -211,17 +176,23 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "bed4c9c4b8e5152b",
+  "active": "e30df5b2e3bacc5a",
   "lastOpenFiles": [
-    "Infraestrutura/Kubernetes.md",
+    "Infraestrutura/Docker.md",
     "Infraestrutura/Infraestrutura como código.md",
+    "Infraestrutura/Iaas.md",
+    "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
+    "Infraestrutura/Saas.md",
+    "Infraestrutura/Puppet.md",
+    "Infraestrutura/Paas.md",
+    "Infraestrutura/Kubernetes.md",
+    "Infraestrutura/Ansible.md",
     "Engenharia de Software/DevOps.md",
     "Devops por afirmações da Cebraspe.md",
     "Engenharia de Software/Devops - Cebraspe.md",
     "_Index_of_Bacen.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de MicroServiços.md",
     "Engenharia de Software/Arquiteturas/Arquitetura Serverless.md",
-    "Infraestrutura/Ansible.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "_Index_of_Bacen-OBS.md",
     "Engenharia de Software/_Index_of_Engenharia de Software.md",
@@ -233,12 +204,6 @@
     "Infraestrutura/Monitoração/Nagios.md",
     "Infraestrutura/Monitoração/Logstash.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
-    "Infraestrutura/Monitoração/Prometheus.md",
-    "Infraestrutura/Monitoração/Grafana.md",
-    "Infraestrutura/Monitoração/Elasticsearch.md",
-    "Infraestrutura/Redes/WAN.md",
-    "Engenharia de Software/DevSecOps.md",
-    "Engenharia de Software/Desenvolvimento Seguro (SDL, OWASP, CLASP).md",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
