@@ -108,7 +108,7 @@
    - Fonte: [Caelum - Quando usar Microsserviços](https://www.caelum.com.br/2017/02/22/microsservicos-o-que-e-como-funciona-vantagens-e-desvantagens/)
 
 5. **Quais tecnologias são comumente usadas com microsserviços?**
-   - Tecnologias como Docker, Kubernetes, Spring Boot, Node.js, e gRPC são comumente utilizadas no contexto de microsserviços para implementação, orquestração e comunicação entre os serviços.
+   - Tecnologias como Docker, [[Kubernetes]], Spring Boot, Node.js, e gRPC são comumente utilizadas no contexto de microsserviços para implementação, orquestração e comunicação entre os serviços.
    - Fonte: [Blog da FullCycle - Tecnologias de Microsserviços](https://blog.fcamara.com.br/microsservicos-na-pratica/)
 
 6. **Qual é a diferença entre microsserviços e monolitos?**

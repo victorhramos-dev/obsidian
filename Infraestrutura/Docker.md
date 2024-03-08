@@ -9,7 +9,7 @@
 9. O Docker Compose é uma ferramenta para definir e gerenciar aplicativos Docker compostos por vários contêineres.
 10. Os volumes Docker permitem que os dados sejam persistidos e compartilhados entre contêineres.
 11. O Docker Swarm é uma ferramenta de orquestração que permite gerenciar clusters de contêineres Docker em um ambiente distribuído.
-12. O Kubernetes é uma plataforma de orquestração de contêineres que suporta Docker e outros tipos de contêineres.
+12. O [[Kubernetes]] é uma plataforma de orquestração de contêineres que suporta Docker e outros tipos de contêineres.
 13. O Docker Desktop é uma ferramenta que simplifica o desenvolvimento de aplicativos Docker em ambientes Windows e macOS.
 14. Os plugins Docker permitem estender a funcionalidade do Docker Engine com recursos adicionais.
 15. O Docker Security Scanning é uma ferramenta que identifica vulnerabilidades em imagens Docker.

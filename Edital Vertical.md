@@ -43,7 +43,7 @@
 - [x] Puppet
 - [x] [[Ansible]]
 - [x] [[Docker]]
-- [x] Kubernetes
+- [x] [[Kubernetes]]
 - [x] DNS
 - [x] DHCP
 - [x] Radius
