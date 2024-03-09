@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discursivas Solução-Problema.md",
+                "file": "DevOps.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discursivas Solução-Problema.md",
+                "file": "DevOps.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discursivas Solução-Problema.md"
+                "file": "DevOps.canvas"
               }
             }
           },
@@ -234,15 +234,15 @@
       }
     ]
   },
-  "active": "3fc04c0b9275a1e3",
+  "active": "fd1c7e878214afd4",
   "lastOpenFiles": [
+    "Discursivas Solução-Problema.md",
     "DevOps.canvas",
     "Engenharia de Software/DevOps.md",
     "Ciência de Dados/PNL.md",
     "Ciência de Dados/Redes Neurais.md",
     "Ciência de Dados/Governança e Ética na IA.md",
     "Ciência de Dados/Big Data.md",
-    "Discursivas Solução-Problema.md",
     "MLOps.canvas",
     "Ciência de Dados/MLOps.md",
     "Infraestrutura/Docker.md",
