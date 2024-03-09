@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e823ae33adf9d429",
+        "id": "e4e2cdcb3c2504a4",
         "type": "tabs",
         "children": [
           {
-            "id": "fd1c7e878214afd4",
+            "id": "3fc04c0b9275a1e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discursivas Solução-Problema.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -190,16 +185,60 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "15be3568ae9a45f5",
+  "floating": {
+    "id": "a6c00cb41d4bd9ef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "87b262a794ff3aee",
+        "type": "window",
+        "children": [
+          {
+            "id": "b1b3a1635ed71ebc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd1c7e878214afd4",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "DevOps.canvas",
+                    "viewState": {
+                      "x": 868.5900568559002,
+                      "y": 2302.1078753452753,
+                      "zoom": -2.4228026966465745
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 398,
+        "y": 17,
+        "width": 600,
+        "height": 698,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
-    "Discursivas Solução-Problema.md",
+    "DevOps.canvas",
+    "Engenharia de Software/DevOps.md",
     "Ciência de Dados/PNL.md",
     "Ciência de Dados/Redes Neurais.md",
+    "Ciência de Dados/Governança e Ética na IA.md",
+    "Ciência de Dados/Big Data.md",
+    "Discursivas Solução-Problema.md",
+    "MLOps.canvas",
     "Ciência de Dados/MLOps.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Iaas.md",
     "DevOps.png",
-    "DevOps.canvas",
     "Edital.md",
     "Edital Vertical.md",
     "Edital Vertical.canvas",
@@ -218,11 +257,7 @@
     "Engenharia de Software/Práticas de UX UI.md",
     "Engenharia de Software/Padrões de Projeto GoF, GRASP.md",
     "Engenharia de Software/Git.md",
-    "Engenharia de Software/DevOps.md",
     "Engenharia de Software/DLT.md",
-    "Infraestrutura/Infraestrutura como código.md",
-    "Infraestrutura/Virtualização.md",
-    "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
     "Arquitetura de MicroServiços.canvas",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
