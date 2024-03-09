@@ -8,36 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aa118dacea8fc19",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          },
-          {
             "id": "fd1c7e878214afd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/MLOps.md",
+                "file": "Discursivas Solução-Problema.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "15be3568ae9a45f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +81,14 @@
         "id": "dafe29acd30c7b6c",
         "type": "tabs",
         "children": [
+          {
+            "id": "15be3568ae9a45f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
           {
             "id": "b6686b466e0ae7f8",
             "type": "leaf",
@@ -176,12 +167,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 672.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +192,9 @@
   },
   "active": "15be3568ae9a45f5",
   "lastOpenFiles": [
+    "Discursivas Solução-Problema.md",
+    "Ciência de Dados/PNL.md",
+    "Ciência de Dados/Redes Neurais.md",
     "Ciência de Dados/MLOps.md",
     "Infraestrutura/Docker.md",
     "Infraestrutura/Iaas.md",
@@ -230,9 +223,6 @@
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Virtualização.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
-    "Infraestrutura/Saas.md",
-    "Infraestrutura/Puppet.md",
-    "Infraestrutura/Paas.md",
     "Arquitetura de MicroServiços.canvas",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
