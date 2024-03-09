@@ -8,18 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2aa118dacea8fc19",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          },
+          {
             "id": "fd1c7e878214afd4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DevOps.canvas",
-                "viewState": {
-                  "x": 750,
-                  "y": 2050,
-                  "zoom": -2.7725895038969277
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -72,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -88,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DevOps.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -165,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,15 +180,18 @@
       "markdown-importer:Abrir importador Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "map-of-content:Update Map of Content": false,
       "obsidian-spaced-repetition:Revisar flashcards": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "crossbow:Crossbow": false
+      "crossbow:Crossbow": false,
+      "map-of-content:Update Map of Content": false
     }
   },
-  "active": "fd1c7e878214afd4",
+  "active": "2aa118dacea8fc19",
   "lastOpenFiles": [
+    "Infraestrutura/Docker.md",
+    "Infraestrutura/Iaas.md",
     "DevOps.png",
+    "DevOps.canvas",
     "Edital.md",
     "Edital Vertical.md",
     "Edital Vertical.canvas",
@@ -201,7 +202,6 @@
     "Infraestrutura/Ansible.md",
     "Kubernetes.canvas",
     "Infraestrutura/Kubernetes.md",
-    "DevOps.canvas",
     "Engenharia de Software/CI & CD.md",
     "Engenharia de Software/Web Services.md",
     "Engenharia de Software/Transações Distribuídas.md",
@@ -212,14 +212,12 @@
     "Engenharia de Software/Git.md",
     "Engenharia de Software/DevOps.md",
     "Engenharia de Software/DLT.md",
-    "Infraestrutura/Docker.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Virtualização.md",
     "Infraestrutura/Tolerancia a falhas, Continuidade de Operação.md",
     "Infraestrutura/Saas.md",
     "Infraestrutura/Puppet.md",
     "Infraestrutura/Paas.md",
-    "Infraestrutura/Iaas.md",
     "Arquitetura de MicroServiços.canvas",
     "Pasted image 20240220140453.png",
     "Ciência de Dados/Sem título.canvas",
