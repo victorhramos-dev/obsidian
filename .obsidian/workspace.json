@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discursivas Solução-Problema.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps.canvas",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps.canvas",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps.canvas"
+                "file": "Segurança/Segurança em Cloud Computing.md"
               }
             }
           },
@@ -194,47 +194,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "floating": {
-    "id": "a6c00cb41d4bd9ef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "87b262a794ff3aee",
-        "type": "window",
-        "children": [
-          {
-            "id": "b1b3a1635ed71ebc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fd1c7e878214afd4",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "DevOps.canvas",
-                    "viewState": {
-                      "x": 868.5900568559002,
-                      "y": 2302.1078753452753,
-                      "zoom": -2.4228026966465745
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 398,
-        "y": 17,
-        "width": 600,
-        "height": 698,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fd1c7e878214afd4",
+  "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
     "Discursivas Solução-Problema.md",
     "DevOps.canvas",

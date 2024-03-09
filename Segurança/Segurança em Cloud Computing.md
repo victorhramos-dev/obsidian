@@ -1,4 +1,4 @@
-
+https://www.akamai.com/pt/glossary/what-is-enterprise-cloud-security
 
 
 - **Segurança de dados:** Refere-se à proteção de dados armazenados na nuvem contra acessos não autorizados, perda ou vazamento. Inclui a criptografia de dados, tanto em repouso quanto em trânsito, e outras técnicas de proteção.
