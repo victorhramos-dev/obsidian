@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Infraestrutura/Iaas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Infraestrutura/Iaas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital Vertical.md",
+                "file": "Infraestrutura/Iaas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital Vertical.md"
+                "file": "Infraestrutura/Iaas.md"
               }
             }
           },
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5
+    "width": 672.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +210,7 @@
   },
   "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
+    "Edital Vertical.md",
     "Edital.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Discursivas Solução-Problema.md",
@@ -223,7 +225,6 @@
     "Infraestrutura/Docker.md",
     "Infraestrutura/Iaas.md",
     "DevOps.png",
-    "Edital Vertical.md",
     "Edital Vertical.canvas",
     "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Nagios.md",
