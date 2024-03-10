@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md",
+                "file": "Edital Vertical.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md",
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md",
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Segurança em Cloud Computing.md"
+                "file": "Edital Vertical.md"
               }
             }
           },
@@ -208,8 +207,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "cc6796e3ac223406",
+  "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
+    "Edital.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Discursivas Solução-Problema.md",
     "DevOps.canvas",
@@ -223,7 +223,6 @@
     "Infraestrutura/Docker.md",
     "Infraestrutura/Iaas.md",
     "DevOps.png",
-    "Edital.md",
     "Edital Vertical.md",
     "Edital Vertical.canvas",
     "Infraestrutura/Monitoração/Grafana.md",
