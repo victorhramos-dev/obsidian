@@ -172,6 +172,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "b84aa87300850931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc6796e3ac223406",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +208,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3fc04c0b9275a1e3",
+  "active": "cc6796e3ac223406",
   "lastOpenFiles": [
+    "Segurança/Segurança em Cloud Computing.md",
     "Discursivas Solução-Problema.md",
     "DevOps.canvas",
     "Engenharia de Software/DevOps.md",
