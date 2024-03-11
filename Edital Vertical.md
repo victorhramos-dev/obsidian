@@ -89,20 +89,19 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Saas]]
 - [x] [[Tolerancia a falhas, Continuidade de Operação]]
 - [x] [[Virtualização]]
-
-## Redes
 - [x] Protocolos (_Index_of_Protocolos)
 	- [x] [[SMTP]]
 	- [x] [[HTTP]]
-	- [x] HTTPS
-	- [x] SSL TLS
-	- [x] LDAP
-	- [x] NFS
+	- [x] [[HTTPS]]
+	- [x] [[SSL]] 
+	- [ ] [[TLS]]
+	- [x] [[LDAP]]
+	- [x] [[NFS]]
 	- [x] [[SMB]]
-- [x] LAN
+- [x] [[LAN]]
 - [x] [[WAN]]
-- [x] SDN
-- [x] Windows Server e Linux
+- [x] [[SDN]]
+- [x] [[Windows Server]] e [[Linux]]
 
 ## Engenharia de Software
 - [x] [[DevOps]] 
