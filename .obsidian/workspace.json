@@ -11,8 +11,13 @@
             "id": "2e004540e0f534f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Edital Vertical.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edital Vertical.md"
+              }
             }
           },
           {
@@ -202,6 +211,12 @@
   },
   "active": "2e004540e0f534f1",
   "lastOpenFiles": [
+    "Edital.md",
+    "Discursivas Solução-Problema.md",
+    "DevOps.canvas",
+    "Elasticsearch.canvas",
+    "Kubernetes.canvas",
+    "MLOps.canvas",
     "Edital Vertical.md",
     "Engenharia de Software/Testes de Software/TDD.md",
     "Economia/Multiplicador monetário.md",
@@ -217,29 +232,22 @@
     "Pasted image 20240220140453.png",
     "Pasted image 20240311005352.png",
     "Infraestrutura/Ansible.md",
-    "Edital.md",
     "Segurança/Segurança em Cloud Computing.md",
-    "Discursivas Solução-Problema.md",
-    "DevOps.canvas",
     "Engenharia de Software/DevOps.md",
     "Ciência de Dados/PNL.md",
     "Ciência de Dados/Redes Neurais.md",
     "Ciência de Dados/Governança e Ética na IA.md",
     "Ciência de Dados/Big Data.md",
-    "MLOps.canvas",
     "Ciência de Dados/MLOps.md",
     "Infraestrutura/Docker.md",
     "DevOps.png",
     "Edital Vertical.canvas",
     "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Nagios.md",
-    "Elasticsearch.canvas",
     "Infraestrutura/Monitoração/Elasticsearch.md",
-    "Kubernetes.canvas",
     "Infraestrutura/Kubernetes.md",
     "Engenharia de Software/CI & CD.md",
     "Engenharia de Software/Web Services.md",
-    "Engenharia de Software/Transações Distribuídas.md",
     "Arquitetura de MicroServiços.canvas",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
