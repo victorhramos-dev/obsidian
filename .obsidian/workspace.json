@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/Webservices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5971e1867768e129",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Web/Pasted image 20240220140453.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/Webservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/Webservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Engenharia de Software/Webservices.md"
               }
             }
           },
@@ -204,46 +193,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3defd73e2245df8a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "15b6a941a18f12ed",
-        "type": "window",
-        "children": [
-          {
-            "id": "7241bafa8f0c1e71",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0fbc554ae61c4aba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Edital.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 350,
-        "y": 370,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0fbc554ae61c4aba",
+  "active": "38c9fc7f8e3cab48",
   "lastOpenFiles": [
+    "Engenharia de Software/Transações Distribuídas.md",
+    "Engenharia de Software/Python.md",
+    "Engenharia de Software/Programação Assíncrona.md",
+    "Engenharia de Software/Práticas de UX UI.md",
+    "Engenharia de Software/CI & CD.md",
+    "Gestão em TI/Governança de Dados.md",
+    "Gestão em TI/Scrum.md",
+    "Gestão em TI/Kanban.md",
+    "Gestão em TI/Itil 4.md",
+    "Edital.md",
+    "Web/Pasted image 20240220140453.png",
     "Discursivas Solução-Problema.md",
     "Segurança/Tratamento de Incidentes.md",
     "Segurança/Segurança em Cloud Computing.md",
@@ -260,17 +222,6 @@
     "Segurança/Gestão de Identidades de Acesso/Autenticação e Autorização.md",
     "Segurança/Frameworks/NIST CSF.md",
     "Segurança/Frameworks/MITRE ATT&CK.md",
-    "Segurança/Frameworks/CIS Controls.md",
-    "Segurança/Ferramentas de Segurança/SIEM.md",
-    "Segurança/Ferramentas de Segurança/Proxy.md",
-    "Segurança/Ferramentas de Segurança/PAM.md",
-    "Segurança/Ferramentas de Segurança/IPS.md",
-    "Segurança/Ferramentas de Segurança/IDs.md",
-    "Segurança/Ferramentas de Segurança/IAM.md",
-    "Segurança/Ferramentas de Segurança/Firewall.md",
-    "Segurança/Ferramentas de Segurança/Antivirus.md",
-    "Segurança/Ferramentas de Segurança/Antispam.md",
-    "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
