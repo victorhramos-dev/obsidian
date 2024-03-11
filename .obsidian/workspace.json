@@ -24,8 +24,10 @@
             "id": "5971e1867768e129",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Web/Pasted image 20240220140453.png"
+              }
             }
           }
         ],
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edital.md"
+              }
             }
           },
           {
@@ -194,38 +200,93 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "crossbow:Crossbow": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5971e1867768e129",
+  "floating": {
+    "id": "3defd73e2245df8a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "15b6a941a18f12ed",
+        "type": "window",
+        "children": [
+          {
+            "id": "7241bafa8f0c1e71",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0fbc554ae61c4aba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Edital.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 350,
+        "y": 370,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0fbc554ae61c4aba",
   "lastOpenFiles": [
-    "Edital.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/HTTP, HTTP2.md",
-    "Engenharia de Software/Testes de Software/Teste de Caixa-Preta.md",
-    "Engenharia de Software/Testes de Software/Testes de Integração.md",
-    "Engenharia de Software/Testes de Software/TDD.md",
-    "Engenharia de Software/Testes de Software/Niveis de Testes.png",
-    "Infraestrutura/Ansible.md",
-    "Engenharia de Software/DevOps.md",
-    "Engenharia de Software/Testes de Software/Teste de Caixa-Branca.md",
-    "Infraestrutura/Infraestrutura como código.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura SOA.md",
-    "Banco de Dados/Business Inteligence/Business Inteligence.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/Proxy.md",
-    "Ciência de Dados/IA Generativa.md",
-    "Engenharia de Software/Webservices.md",
-    "Direito Administrativo/Princípios da Administração Pública.md",
-    "Infraestrutura/Certificados.md",
-    "Segurança/Ataques e Vulnerabilidades.md",
+    "Discursivas Solução-Problema.md",
+    "Segurança/Tratamento de Incidentes.md",
     "Segurança/Segurança em Cloud Computing.md",
-    "Infraestrutura/Linux.md",
-    "Infraestrutura/Windows Server.md",
-    "Infraestrutura/Active Directiory (AD).md",
-    "Infraestrutura/Protocolos/SSL.md",
-    "Infraestrutura/Protocolos/TLS.md",
-    "Banco de Dados/Modelagem de Dados Multidimensional.md",
-    "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/_Index_of_Arquitetura de Sistemas Web.md",
-    "Engenharia de Software/Testes de Software/_Index_of_Testes de Software.md",
+    "Segurança/Privacidade e Segurança por padrão.md",
+    "Segurança/MFA.md",
+    "Segurança/Criptografia e Proteção de Dados.md",
+    "Segurança/Controle e Testes de Segurança em sistemas web e web services.md",
+    "Segurança/Ataques e Vulnerabilidades.md",
+    "Segurança/Assinatura & Certificados Digitais.md",
+    "Segurança/Gestão de Identidades de Acesso/SSO.md",
+    "Segurança/Gestão de Identidades de Acesso/SAML.md",
+    "Segurança/Gestão de Identidades de Acesso/OpenId Connect.md",
+    "Segurança/Gestão de Identidades de Acesso/OAuth2.md",
+    "Segurança/Gestão de Identidades de Acesso/Autenticação e Autorização.md",
+    "Segurança/Frameworks/NIST CSF.md",
+    "Segurança/Frameworks/MITRE ATT&CK.md",
+    "Segurança/Frameworks/CIS Controls.md",
+    "Segurança/Ferramentas de Segurança/SIEM.md",
+    "Segurança/Ferramentas de Segurança/Proxy.md",
+    "Segurança/Ferramentas de Segurança/PAM.md",
+    "Segurança/Ferramentas de Segurança/IPS.md",
+    "Segurança/Ferramentas de Segurança/IDs.md",
+    "Segurança/Ferramentas de Segurança/IAM.md",
+    "Segurança/Ferramentas de Segurança/Firewall.md",
+    "Segurança/Ferramentas de Segurança/Antivirus.md",
+    "Segurança/Ferramentas de Segurança/Antispam.md",
+    "Web/Pasted image 20240220140453.png",
+    "Web/Direito Administrativo/Pasted image 20240303233617.png",
+    "Web/lib/metadata.json",
+    "Web/lib/media/874d8b8e340f75575caa.svg",
+    "Web/lib/media",
+    "Web/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "Web/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "Web/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "Web/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "Web/lib/fonts/94f2f163d4b698242fef.otf",
+    "Web/lib/fonts/72505e6a122c6acd5471.woff2",
+    "Web/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "Web/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "Web/Infraestrutura/Pasted image 20240311005347.png",
+    "Web/Engenharia de Software/Testes de Software/Niveis de Testes.png",
+    "Web/Engenharia de Software/ci_cd_pipeline.png",
+    "Engenharia de Software/Testes de Software/Niveis de Testes.png",
     "DevOps.png",
     "Pasted image 20240220140453.png",
     "Infraestrutura/Pasted image 20240311005347.png",
@@ -233,14 +294,9 @@
     "Elasticsearch.canvas",
     "Kubernetes.canvas",
     "MLOps.canvas",
-    "Economia",
-    "Pasted image 20240311005137.png",
-    "Pasted image 20240311005400.png",
-    "Pasted image 20240311005352.png",
     "Edital Vertical.canvas",
     "Arquitetura de MicroServiços.canvas",
     "Ciência de Dados/Sem título.canvas",
-    "Direito Administrativo/Pasted image 20240303233617.png",
     "Sem título.canvas"
   ]
 }
