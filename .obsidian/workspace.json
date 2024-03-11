@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
-    "collapsed": true
+    "width": 284.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -200,8 +199,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3fc04c0b9275a1e3",
+  "active": "a016cba18a74e872",
   "lastOpenFiles": [
+    "Sem título",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Paas.md",
     "Infraestrutura/Saas.md",
