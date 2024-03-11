@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/Webservices.md",
+                "file": "Engenharia de Software/DLT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Webservices.md",
+                "file": "Engenharia de Software/DLT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Webservices.md",
+                "file": "Engenharia de Software/DLT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Webservices.md"
+                "file": "Engenharia de Software/DLT.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   "active": "38c9fc7f8e3cab48",
   "lastOpenFiles": [
     "Engenharia de Software/Transações Distribuídas.md",
+    "Engenharia de Software/Webservices.md",
     "Engenharia de Software/Python.md",
     "Engenharia de Software/Programação Assíncrona.md",
     "Engenharia de Software/Práticas de UX UI.md",
@@ -221,7 +222,6 @@
     "Segurança/Gestão de Identidades de Acesso/OAuth2.md",
     "Segurança/Gestão de Identidades de Acesso/Autenticação e Autorização.md",
     "Segurança/Frameworks/NIST CSF.md",
-    "Segurança/Frameworks/MITRE ATT&CK.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
