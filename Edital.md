@@ -117,7 +117,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] Arquiteturas
 	- [x] [[Arquitetura em Camadas ]]
 	- [x] [[Arquitetura de MicroServiços]]
-	- [x] [[Arquitetura de MicroServiços]]
+	- [x] [[Arquitetura SOA]]
 	- [x] [[Arquitetura Orientação a Eventos ]]
 	- [x] [[Arquitetura Cliente-Servidor ]]
 	- [x] [[Arquitetura Serverless ]]
