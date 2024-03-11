@@ -1,5 +1,4 @@
 [
-  "zoottelkeeper-obsidian-plugin",
   "table-editor-obsidian",
   "editing-toolbar",
   "obsidian-tasks-plugin",
@@ -11,9 +10,6 @@
   "nlp",
   "graph-analysis",
   "map-of-content",
-  "obsidian-spaced-repetition",
-  "auto-anki",
-  "flashcards-obsidian",
   "crossbow",
   "link-exploder"
 ]
