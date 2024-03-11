@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Iaas.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Iaas.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Iaas.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Iaas.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
+    "Infraestrutura/Iaas.md",
     "Edital Vertical.md",
     "Edital.md",
     "Segurança/Segurança em Cloud Computing.md",
@@ -223,7 +224,6 @@
     "MLOps.canvas",
     "Ciência de Dados/MLOps.md",
     "Infraestrutura/Docker.md",
-    "Infraestrutura/Iaas.md",
     "DevOps.png",
     "Edital Vertical.canvas",
     "Infraestrutura/Monitoração/Grafana.md",
