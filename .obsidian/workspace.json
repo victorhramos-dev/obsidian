@@ -198,11 +198,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a016cba18a74e872",
+  "active": "6f99ff5b1ecc63bd",
   "lastOpenFiles": [
+    "Infraestrutura/Certificados.md",
+    "Edital Vertical.md",
+    "Segurança/Ataques e Vulnerabilidades.md",
+    "Segurança/Segurança em Cloud Computing.md",
     "Infraestrutura/Linux.md",
     "Infraestrutura/Windows Server.md",
-    "Edital Vertical.md",
     "Infraestrutura/Active Directiory (AD).md",
     "Infraestrutura/Protocolos/SSL.md",
     "Infraestrutura/Protocolos/TLS.md",
@@ -234,9 +237,6 @@
     "Pasted image 20240311005137.png",
     "Pasted image 20240311005400.png",
     "Pasted image 20240311005352.png",
-    "Infraestrutura/Ansible.md",
-    "Segurança/Segurança em Cloud Computing.md",
-    "Engenharia de Software/DevOps.md",
     "Edital Vertical.canvas",
     "Arquitetura de MicroServiços.canvas",
     "Ciência de Dados/Sem título.canvas",

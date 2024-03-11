@@ -82,7 +82,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [x] [[Elasticsearch]]
 	- [x] [[Kibana]]
 	- [x] [[Logstash]]
-	- [x] Application Performance Monitoring (APM)
+	- [x] [[Application Performance Monitoring (APM)]]
 - [x] [[Iaas]]
 - [x] [[Paas]]
 - [x] [[Saas]]
@@ -121,10 +121,10 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [x] [[TDD]]
 	- [x] [[BDD]]
 - [x] Arquiteturas
-	- [x] Arquitetura em Camadas 
-	- [x] Arquitetura em Serviços 
-	- [x] [[Arquitetura de MicroServiços]] (Orquestração, Gateway) 
-	- [x] Arquitetura Orientação a Eventos 
+	- [x] [[Arquitetura em Camadas ]]
+	- [x] [[Arquitetura de MicroServiços]]
+	- [x] [[Arquitetura de MicroServiços]]
+	- [x] [[Arquitetura Orientação a Eventos ]]
 	- [x] [[Arquitetura Cliente-Servidor ]]
 	- [x] [[Arquitetura Serverless ]]
 	- [x] Arquitetura de Sistemas Web
@@ -138,36 +138,33 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 
 ## Segurança da Informação
 - [x] Gestão de Identidades de Acesso: 
-	- [x] Autenticação e Autorização 
+	- [x] [[Autenticação e Autorização ]]
 	- [x] [[SSO]] 
-	- [x] SAML 
-	- [x] OAuth2 
-	- [x] OpenId Connect 
-- [x] Privacidade e Segurança por padrão
-- [x] Ataques e Vulnerabilidades (CyBok) 
-- [x] MFA 
-- [x] Controle e Testes de Segurança em sistemas web e web services 
+	- [x] [[SAML]] 
+	- [x] [[OAuth2]] 
+	- [x] [[OpenId Connect ]]
+- [x] [[Privacidade e Segurança por padrão]]
+- [x] [[Ataques e Vulnerabilidades]]
+- [x] [[MFA]] 
+- [x] [[Controle e Testes de Segurança em sistemas web e web services ]]
 - [x] Ferramentas de Segurança: 
 	- [x] [[Firewall]] 
-	- [x] IDS 
+	- [x] [[IDS]] 
 	- [x] [[IPS]] 
-	- [x] Security 35 SIEM
-	- [x] Proxy
+	- [x] [[SIEM]]
+	- [x] [[Proxy]]
 	- [ ] [[IAM]]
-	- [ ] PAM
+	- [ ] [[PAM]]
 	- [x] [[Antivirus]] 
 	- [x] [[Antispam]]
 - [ ] Frameworks:
-	- [x] MITRE ATT&CK
-	- [ ] CIS Controls
-	- [x] NIST CSF
-	- [x] CyBok
-- [x] Tratamento de Incidentes
-- [x] Assinatura & [[Certificados]] Digitais
-- [x] Criptografia e Proteção de Dados
-- [x] Segurança em Cloud Computing
-
-
+	- [x] [[MITRE ATT&CK]]
+	- [ ] [[CIS Controls]]
+	- [x] [[NIST CSF]]
+- [x] [[Tratamento de Incidentes]]
+- [x] [[Assinatura & Certificados Digitais]]
+- [x] [[Criptografia e Proteção de Dados]]
+- [x] [[Segurança em Cloud Computing]]
 ## Macroeconomia
 - [ ] Contas nacionais. 
 - [ ] [[Agregados monetários]]. 
