@@ -11,5 +11,6 @@
   "graph-analysis",
   "map-of-content",
   "crossbow",
-  "link-exploder"
+  "link-exploder",
+  "webpage-html-export"
 ]
