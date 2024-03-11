@@ -147,8 +147,8 @@
 
 ## Macroeconomia
 - [ ] Contas nacionais. 
-- [ ] Agregados monetários. 
-- [ ] Multiplicador monetário, criação e destruição de moeda. 
+- [ ] [[Agregados monetários]]. 
+- [ ] [[Multiplicador monetário]], criação e destruição de moeda. 
 - [ ] Contas do sistema monetário. 
 - [ ] Balanço de pagamentos.
 

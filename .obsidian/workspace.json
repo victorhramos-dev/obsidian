@@ -199,9 +199,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a016cba18a74e872",
+  "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
-    "Sem título",
+    "Economia/Multiplicador monetário.md",
+    "Economia/Agregados Monetários.md",
+    "Edital Vertical.md",
+    "Economia/_Index_of_Economia.md",
+    "Economia",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Paas.md",
     "Infraestrutura/Saas.md",
@@ -212,7 +216,6 @@
     "Pasted image 20240311005352.png",
     "Infraestrutura/Ansible.md",
     "Edital.md",
-    "Edital Vertical.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Discursivas Solução-Problema.md",
     "DevOps.canvas",
@@ -236,8 +239,6 @@
     "Engenharia de Software/Web Services.md",
     "Engenharia de Software/Transações Distribuídas.md",
     "Engenharia de Software/Python.md",
-    "Engenharia de Software/Programação Assíncrona.md",
-    "Engenharia de Software/Práticas de UX UI.md",
     "Arquitetura de MicroServiços.canvas",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",
