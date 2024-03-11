@@ -11,8 +11,13 @@
             "id": "6f99ff5b1ecc63bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Edital Vertical.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edital Vertical.md"
+              }
             }
           },
           {
@@ -189,14 +198,14 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "6f99ff5b1ecc63bd",
+  "active": "a016cba18a74e872",
   "lastOpenFiles": [
-    "Infraestrutura/Redes/Linux.md",
-    "Infraestrutura/Redes/Windows Server.md",
+    "Infraestrutura/Linux.md",
+    "Infraestrutura/Windows Server.md",
     "Edital Vertical.md",
-    "Infraestrutura/Redes/Active Directiory (AD).md",
-    "Infraestrutura/Redes/Protocolos/SSL.md",
-    "Infraestrutura/Redes/Protocolos/TLS.md",
+    "Infraestrutura/Active Directiory (AD).md",
+    "Infraestrutura/Protocolos/SSL.md",
+    "Infraestrutura/Protocolos/TLS.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/_Index_of_Arquitetura de Sistemas Web.md",
     "Engenharia de Software/Testes de Software/_Index_of_Testes de Software.md",

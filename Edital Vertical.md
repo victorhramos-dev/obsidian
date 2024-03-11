@@ -64,7 +64,6 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [x] [[DataLake]]
 	- [x] [[DataMesh]]
 
-
 ## Infraestrutura
 - [x] [[Puppet]]
 - [x] [[Ansible]]
@@ -76,12 +75,12 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Autenticação]]
 - [x] [[Certificados]]
 - [x] [[Active Directiory (AD)]]
-- [x] Monitoração (_Index_of_Monitoração)
+- [x] Monitoração
 	- [x] [[Grafana]]
 	- [x] [[Prometheus]]
 	- [x] [[Nagios]]
 	- [x] [[Elasticsearch]]
-	- [x] Kibana
+	- [x] [[Kibana]]
 	- [x] [[Logstash]]
 	- [x] Application Performance Monitoring (APM)
 - [x] [[Iaas]]
@@ -89,7 +88,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Saas]]
 - [x] [[Tolerancia a falhas, Continuidade de Operação]]
 - [x] [[Virtualização]]
-- [x] Protocolos (_Index_of_Protocolos)
+- [x] Protocolos
 	- [x] [[SMTP]]
 	- [x] [[HTTP]]
 	- [x] [[HTTPS]]
@@ -107,35 +106,34 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[DevOps]] 
 - [x] [[DevSecOps]] 
 - [x] [[CI & CD]] 
-- [x] Web Services 
-- [x] Padrões de Projeto GoF, [[Padrões de Projeto GoF, GRASP|GRASP]] 
+- [x] [[Webservices]] 
+- [x]  [[Padrões de Projeto GoF, GRASP|Padrões de Projeto GoF,GRASP]] 
 - [x] [[Transações Distribuídas]] 
-- [x] Práticas de UX UI 
+- [x] [[Práticas de UX UI ]]
 - [ ] [[Desenvolvimento Seguro (SDL, OWASP, CLASP)]]
-- [ ] Programação Assíncrona
+- [ ] [[Programação Assíncrona]]
 - [x] [[Git]]
-- [ ] Java
+- [ ] [[Java]]
 - [x] [[Python]]
-- [x] Testes de Software (_Index_of_Testes de Software) 
-	- [x] Testes Unitários
-	- [x] Testes de Integração
+- [x] Testes de Software
+	- [x] [[Testes Unitários]]
+	- [x] [[Testes de Integração]]
 	- [x] [[TDD]]
 	- [x] [[BDD]]
-- [x] Arquiteturas (_Index_of_Arquiteturas) 
+- [x] Arquiteturas
 	- [x] Arquitetura em Camadas 
 	- [x] Arquitetura em Serviços 
 	- [x] [[Arquitetura de MicroServiços]] (Orquestração, Gateway) 
 	- [x] Arquitetura Orientação a Eventos 
-	- [x] Arquitetura Cliente-Servidor 
-	- [x] Arquitetura Serverless 
-	- [x] Arquitetura de Sistemas Web (_Index_of_Arquitetura de Sistemas Web) 
-		- [x] HTTP, [[HTTP|HTTP2]] 
+	- [x] [[Arquitetura Cliente-Servidor ]]
+	- [x] [[Arquitetura Serverless ]]
+	- [x] Arquitetura de Sistemas Web
 		- [x] [[gRPC]] 
 		- [x] [[WebSockets]] 
-		- [ ] Proxy
-		- [ ] Cache
-		- [ ] LoadBalancer
-		- [x] Estabilidade em Sistemas Web
+		- [ ] [[Proxy]]
+		- [ ] [[Cache]]
+		- [ ] [[LoadBalancer]]
+		- [x] [[Estabilidade em Sistemas Web]]
 
 
 ## Segurança da Informação
