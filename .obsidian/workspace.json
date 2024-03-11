@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e2cdcb3c2504a4",
+        "id": "c72221e0b7f6dea5",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc04c0b9275a1e3",
+            "id": "2e004540e0f534f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Edital Vertical.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edital Vertical.md"
+              }
             }
           },
           {
@@ -179,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5,
-    "collapsed": true
+    "width": 672.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +207,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3fc04c0b9275a1e3",
+  "active": "2e004540e0f534f1",
   "lastOpenFiles": [
+    "Engenharia de Software/Testes de Software/TDD.md",
+    "Edital Vertical.md",
     "Economia/Multiplicador monetário.md",
     "Economia/Agregados Monetários.md",
-    "Edital Vertical.md",
     "Economia/_Index_of_Economia.md",
     "Economia",
     "Infraestrutura/Iaas.md",
@@ -238,7 +247,6 @@
     "Engenharia de Software/CI & CD.md",
     "Engenharia de Software/Web Services.md",
     "Engenharia de Software/Transações Distribuídas.md",
-    "Engenharia de Software/Python.md",
     "Arquitetura de MicroServiços.canvas",
     "Ciência de Dados/Sem título.canvas",
     "Direito Administrativo/Pasted image 20240303233617.png",

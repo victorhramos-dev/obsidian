@@ -94,8 +94,8 @@
 - [x] Testes de Software (_Index_of_Testes de Software) 
 	- [x] Testes Unitários
 	- [x] Testes de Integração
-	- [x] TDD
-	- [x] BDD
+	- [x] [[TDD]]
+	- [x] [[BDD]]
 - [x] Arquiteturas (_Index_of_Arquiteturas) 
 	- [x] Arquitetura em Camadas 
 	- [x] Arquitetura em Serviços 
