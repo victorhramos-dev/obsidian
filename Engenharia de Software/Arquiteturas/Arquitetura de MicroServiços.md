@@ -167,6 +167,6 @@
    - Estratégias incluem fallbacks, retries, e circuit breakers para tratar falhas de comunicação e degradação de desempenho entre os microsserviços.
    - Fonte: [Nelio - Tratamento de Falhas em Microsserviços](https://blog.nelio.com.br/2019/07/16/tratamento-de-falhas-em-microservicos/)
 
-20. **Quais são as diferenças entre microsserviços e [[Web Services#SOA|SOA]] (Arquitetura Orientada a Serviços)?**
+20. **Quais são as diferenças entre microsserviços e [[Webservices#SOA|SOA]] (Arquitetura Orientada a Serviços)?**
     - Microsserviços são mais granulares, independentes e utilizam comunicação leve, enquanto a SOA tende a ser mais monolítica e centralizada, com comunicação mais pesada.
     - Fonte: [DevMedia - Microsserviços vs SOA](https://www.devmedia.com.br/arquitetura-de-microservicos-vs-soa/37629)

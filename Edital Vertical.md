@@ -18,7 +18,7 @@
 P3 - Atualidades (ND)
 d) será calculada, então, a nota da questão dissertativa (ND) pela fórmula ND = NC - 6 × NE ÷ TL, em que TL corresponde ao número de linhas efetivamente escritas pelo candidato;
 
-P4 - Especifica (NSP)
+P4 - Especifica (NSP) [[Discursivas Solução-Problema]]
 d) será calculada, então, a nota da questão dissertativa sobre situação problema (NSP) pela fórmula NSP = NC - 5 × NE ÷ TL, em que TL corresponde ao número de linhas efetivamente escritas pelo candidato;
 
 ==***ESCREVER O MÁXIMO POSSÍVEL***==
@@ -179,8 +179,8 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [ ] Elasticidade da demanda.
 
 ## Direito Administrativo
-- [x] Administração pública: princípios básicos. 
-	- [ ] Administração direta e indireta. 
+- [x] [[Princípios da Administração Pública|Administração pública: princípios básicos. ]]
+- [ ] Administração direta e indireta. 
 - [ ] Poderes administrativos. 
 	- [ ] Espécies de poder: hierárquico, disciplinar, regulamentar, de polícia e normativo. 
 	- [ ] Uso e abuso do poder. 
@@ -204,7 +204,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [ ] Código de Conduta da Alta Administração Federal. 
 - [ ] Lei de conflito de interesses (Lei nº 11.813/2013). 
 - [ ] Lei de Acesso à Informação (Lei nº 12.527/2011). 
-- [ ] Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais). 🛫 2024-03-03 
+- [ ] [[LGPD|Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais)]]
 
 
 ## Lógica e Estatística

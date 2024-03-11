@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital Vertical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,12 +105,19 @@
             }
           },
           {
+            "id": "cc6796e3ac223406",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          },
+          {
             "id": "97d58b2c1ec368e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital Vertical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Edital Vertical.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,26 +166,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "b84aa87300850931",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc6796e3ac223406",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {}
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 551.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +187,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "6f99ff5b1ecc63bd",
+  "active": "15be3568ae9a45f5",
   "lastOpenFiles": [
     "Edital Vertical.md",
+    "Engenharia de Software/Webservices.md",
+    "Direito Administrativo/Princípios da Administração Pública.md",
     "Infraestrutura/Certificados.md",
     "Segurança/Ataques e Vulnerabilidades.md",
     "Segurança/Segurança em Cloud Computing.md",
@@ -232,8 +223,6 @@
     "Economia/Agregados Monetários.md",
     "Economia/_Index_of_Economia.md",
     "Economia",
-    "Infraestrutura/Iaas.md",
-    "Infraestrutura/Saas.md",
     "Pasted image 20240311005137.png",
     "Pasted image 20240311005400.png",
     "Pasted image 20240311005352.png",
