@@ -1,5 +1,4 @@
-
-![[Pasted image 20240311005137.png]]
+![[Pasted image 20240311005347.png]]
 
 
 ## Cebraspe
