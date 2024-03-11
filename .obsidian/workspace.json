@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Infraestrutura/Ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Infraestrutura/Ansible.md"
               }
             }
           },
@@ -210,9 +210,9 @@
   },
   "active": "3fc04c0b9275a1e3",
   "lastOpenFiles": [
+    "Edital.md",
     "Infraestrutura/Iaas.md",
     "Edital Vertical.md",
-    "Edital.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Discursivas Solução-Problema.md",
     "DevOps.canvas",
