@@ -5,7 +5,7 @@ Nagios é um sistema **opensource** (*Nagios Core*) de monitoração de infraest
 ## Quando usar?
 - **Servidores e dispositivos de rede**: É o cenário mais ideal para uso do Nagios, monitora com excelencia redes linux e windows com suporte a firewall, switches e roteadores, impressoras e discos de rede.
 - **Aplicações Críticas**: Processos de negócio crítico não podem falhar pois momentos de indisponíbilidade acarretam em prejuízos expressivos e o Nagios oferece suporte de monitoramento para identificar problemas na infraestrutura com agilidade permitindo ações antes que afetem processos críticos.
-- **[[Edital Vertical#Infraestrutura|Infraestrutura]] complexa**: suporta ambientes heterogeneos com uma gama ampla de dispositivos e inclusivo em grandes quantidades.
+- **|Infraestrutura complexa**: suporta ambientes heterogeneos com uma gama ampla de dispositivos e inclusivo em grandes quantidades.
 - **Flexibilidade necessária**: Nagios é extensivel via plugins e addons. Quando um hardware não possui suporte nativo é possível desenvolver um [[#Plugins|plugin]] para embarcar o monitoramento do hardware com o Nagios. 
 
 ## Quando não usar?
