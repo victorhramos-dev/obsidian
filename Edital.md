@@ -35,7 +35,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[PNL]]
 - [ ] [[Qualidade de Dados]]
 - [ ] [[Grandes Modelos LLM]]
-- [ ][[ IA Generativa]]
+- [ ] [[IA Generativa]]
 - [x] [[MLOps|MLOps: Gestão de Código, Treinamento, Implantação, Monitoramento, Automação, Versionamento]]
 
 
@@ -52,7 +52,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Modelagem de Dados Multidimensional]]
 - [x] [[Modelagem de Dados NoSQL]]
 - [x] [[PL & SQL]]
-- [x] Business Inteligence
+- [x] [[Business Inteligence]]
 	- [x] [[DataWarehouse]]
 	- [x] [[DataMart]]
 	- [x] [[DataLake]]
