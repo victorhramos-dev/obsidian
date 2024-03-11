@@ -13,55 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/Modelagem de Dados Multidimensional.md",
+                "file": "Infraestrutura/Redes/Active Directiory (AD).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "42af04ee3aebc27e"
-          }
-        ]
-      },
-      {
-        "id": "1e5e34b5464bb2fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbc934add8433bb5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Banco de Dados/Modelagem de Dados Multidimensional.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224427,
-                  "close": false
-                }
-              }
-            },
-            "group": "42af04ee3aebc27e"
+            }
           }
         ]
       }
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/Modelagem de Dados Multidimensional.md",
+                "file": "Infraestrutura/Redes/Active Directiory (AD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/Modelagem de Dados Multidimensional.md",
+                "file": "Infraestrutura/Redes/Active Directiory (AD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/Modelagem de Dados Multidimensional.md"
+                "file": "Infraestrutura/Redes/Active Directiory (AD).md"
               }
             }
           },
@@ -224,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5,
-    "collapsed": true
+    "width": 672.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,17 +198,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a016cba18a74e872",
+  "active": "2e004540e0f534f1",
   "lastOpenFiles": [
+    "Edital Vertical.md",
+    "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Engenharia de Software/Arquiteturas/Arquitetura de Sistemas Web/_Index_of_Arquitetura de Sistemas Web.md",
     "Engenharia de Software/Testes de Software/_Index_of_Testes de Software.md",
     "Gestão em TI/_Index_of_Gestão em TI.md",
-    "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "DevOps.png.md",
     "_Index_of_Bacen.md",
     "Infraestrutura/_Index_of_Infraestrutura.md",
     "DevOps.png",
-    "Edital Vertical.md",
     "Pasted image 20240220140453.png",
     "Infraestrutura/Paas.md",
     "Infraestrutura/Pasted image 20240311005347.png",

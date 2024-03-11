@@ -46,23 +46,23 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 
 
 ## Gestão em TI
-- [x] Kanban
-- [x] Scrum
-- [x] Governança de Dados
-- [ ] Itil 4
+- [x] [[Kanban]]
+- [x] [[Scrum]]
+- [x] [[Governança de Dados]]
+- [ ] [[Itil 4]]
 
 ## Banco de Dados
-- [x] SGBD SQL
-- [x] SGBD NoSQL
-- [x] Modelagem de Dados Relacional
+- [x] [[SGBD SQL]]
+- [x] [[SGBD NoSQL]]
+- [x] [[Modelagem de Dados Relacional]]
 - [x] [[Modelagem de Dados Multidimensional]]
-- [x] Modelagem de Dados NoSQL
-- [x] PL & SQL
+- [x] [[Modelagem de Dados NoSQL]]
+- [x] [[PL & SQL]]
 - [x] Business Inteligence
-	- [x] DataWarehouse
-	- [x] DataMart
-	- [x] DataLake
-	- [x] DataMesh
+	- [x] [[DataWarehouse]]
+	- [x] [[DataMart]]
+	- [x] [[DataLake]]
+	- [x] [[DataMesh]]
 
 
 ## Infraestrutura
@@ -70,12 +70,12 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Ansible]]
 - [x] [[Docker]]
 - [x] [[Kubernetes]]
-- [x] DNS
-- [x] DHCP
-- [x] Radius
-- [x] Autenticação
+- [x] [[DNS]]
+- [x] [[DHCP]]
+- [x] [[Radius]]
+- [x] [[Autenticação]]
 - [x] [[Certificados]]
-- [x] Active Directiory (AD)
+- [x] [[Active Directiory (AD)]]
 - [x] Monitoração (_Index_of_Monitoração)
 	- [x] [[Grafana]]
 	- [x] [[Prometheus]]
