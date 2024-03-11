@@ -25,24 +25,18 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 ==**ELIMINAÇÃO: 0 EM ALGUMA OU A SOMA DAS 2 MENOR QUE 40==
 
 # Conteúdo
-## Ciência de Dados (_Index_of_Ciência de Dados)
-- [x] Governança e Ética na IA
-- [x] Machine Learning
-- [x] Tipos de Aprendizado
+## Ciência de Dados
+- [x] [[Governança e Ética na IA]]
+- [x] [[Machine Learning]]
+- [x] [[Tipos de Aprendizado]]
 - [x] [[Big Data]]
-- [ ] Deep Learning
-- [ ] Redes Neurais
+- [ ] [[Deep Learning]]
+- [ ] [[Redes Neurais]]
 - [x] [[PNL]]
-- [ ] Qualidade de Dados
-- [ ] Grandes Modelos LLM
-- [ ] IA Generativa
-- [x] MLOps
-	- [x] Gestão de Código
-	- [x] Treinamento
-	- [x] Implantação
-	- [x] Monitoramento
-	- [x] Automação
-	- [x] Versionamento
+- [ ] [[Qualidade de Dados]]
+- [ ] [[Grandes Modelos LLM]]
+- [ ][[ IA Generativa]]
+- [x] [[MLOps|MLOps: Gestão de Código, Treinamento, Implantação, Monitoramento, Automação, Versionamento]]
 
 
 ## Gestão em TI
@@ -168,7 +162,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 ## Macroeconomia
 - [ ] Contas nacionais. 
 - [ ] [[Agregados monetários]]. 
-- [ ] [[Multiplicador monetário]], criação e destruição de moeda. 
+- [ ] [[Multiplicador monetário|Multiplicador monetário, criação e destruição de moeda.]]
 - [ ] Contas do sistema monetário. 
 - [ ] Balanço de pagamentos.
 

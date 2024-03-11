@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 672.5
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +200,8 @@
   },
   "active": "6f99ff5b1ecc63bd",
   "lastOpenFiles": [
-    "Infraestrutura/Certificados.md",
     "Edital Vertical.md",
+    "Infraestrutura/Certificados.md",
     "Segurança/Ataques e Vulnerabilidades.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Infraestrutura/Linux.md",
