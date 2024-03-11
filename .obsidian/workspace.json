@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engenharia de Software/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engenharia de Software/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Engenharia de Software/DevOps.md"
+              }
             }
           },
           {
@@ -197,8 +200,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "5971e1867768e129",
+  "active": "38c9fc7f8e3cab48",
   "lastOpenFiles": [
+    "Infraestrutura/Ansible.md",
+    "Engenharia de Software/DevOps.md",
+    "Engenharia de Software/Testes de Software/Teste de Caixa-Branca.md",
     "Edital.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Engenharia de Software/Arquiteturas/Arquitetura SOA.md",
@@ -224,10 +230,7 @@
     "Infraestrutura/_Index_of_Infraestrutura.md",
     "DevOps.png",
     "Pasted image 20240220140453.png",
-    "Infraestrutura/Paas.md",
     "Infraestrutura/Pasted image 20240311005347.png",
-    "Infraestrutura/Monitoração/Nagios.md",
-    "Discursivas Solução-Problema.md",
     "DevOps.canvas",
     "Elasticsearch.canvas",
     "Kubernetes.canvas",

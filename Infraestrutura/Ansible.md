@@ -2,7 +2,7 @@
 https://medium.com/@thiago.mourao.dev/dominando-o-ansible-um-guia-passo-a-passo-simplificado-83bf5c3341c0
 
 ### Muito Importante (80% - 100%)
-1. Ansible é uma ferramenta de automação de TI usada para provisionamento, configuração e gerenciamento de infraestrutura. (100%)
+1. Ansible é uma ferramenta de automação de TI ([[Infraestrutura como código|iaac]]) usada para provisionamento, configuração e gerenciamento de infraestrutura. (100%)
 2. Playbooks no Ansible são arquivos YAML que descrevem configurações e tarefas a serem executadas nos hosts remotos. (95%)
 3. Ansible utiliza uma arquitetura cliente-servidor para gerenciar hosts remotos usando SSH. (90%)
 4. Módulos no Ansible são unidades de código executáveis para realizar tarefas específicas nos hosts remotos. (85%)
