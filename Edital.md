@@ -97,6 +97,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Windows Server]] e [[Linux]]
 
 ## Engenharia de Software
+- [ ] [[Infraestrutura como código]]
 - [x] [[DevOps]] 
 - [x] [[DevSecOps]] 
 - [x] [[CI & CD]] 
@@ -128,8 +129,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 		- [ ] [[Cache]]
 		- [ ] [[LoadBalancer]]
 		- [x] [[Estabilidade em Sistemas Web]]
-
-
+- [ ] [[DLT]]
 ## Segurança da Informação
 - [x] Gestão de Identidades de Acesso: 
 	- [x] [[Autenticação e Autorização ]]
