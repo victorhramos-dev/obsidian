@@ -1,1 +1,2 @@
-- Escopo: intervalo 
+- Escopo: intervalo consecutivo de endereços ip disponíveis
+- Pool de endereços: endereços ip remanescentes
