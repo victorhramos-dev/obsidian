@@ -1,2 +1,4 @@
-- Escopo: intervalo consecutivo de endereços ip disponíveis
-- Pool de endereços: endereços ip remanescentes
+- **Superescopo**: grupo de escopos.
+- **Escopo**: intervalo consecutivo de endereços ip disponíveis.
+- **Intervalo de exclusão**: endereços ips que não podem ser atribuídos automaticamente.
+- **Pool de endereços**: grupo de endereços ip disponíveis dentro de um escopo.
