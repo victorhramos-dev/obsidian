@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economia/Agregados Monetários.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economia/Agregados Monetários.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economia/Agregados Monetários.md",
+                "file": "Ciência de Dados/Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economia/Agregados Monetários.md"
+                "file": "Ciência de Dados/Big Data.md"
               }
             }
           },
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 551.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +209,7 @@
   },
   "active": "1ed68dc359d31a22",
   "lastOpenFiles": [
+    "Economia/Agregados Monetários.md",
     "Edital.md",
     "Engenharia de Software/DLT.md",
     "Engenharia de Software/Transações Distribuídas.md",
@@ -235,7 +236,6 @@
     "Segurança/Gestão de Identidades de Acesso/SAML.md",
     "Segurança/Gestão de Identidades de Acesso/OpenId Connect.md",
     "Segurança/Gestão de Identidades de Acesso/OAuth2.md",
-    "Segurança/Gestão de Identidades de Acesso/Autenticação e Autorização.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
