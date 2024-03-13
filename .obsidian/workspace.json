@@ -24,12 +24,9 @@
             "id": "1ed68dc359d31a22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Infraestrutura/DHCP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Pasted image 20240220140453.png"
               }
             }
           }
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/DHCP.md",
+                "file": "Pasted image 20240220140453.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/DHCP.md",
+                "file": "Pasted image 20240220140453.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/DHCP.md"
+                "file": "Pasted image 20240220140453.png"
               }
             }
           },
@@ -209,9 +206,10 @@
   },
   "active": "1ed68dc359d31a22",
   "lastOpenFiles": [
+    "Edital.md",
+    "Infraestrutura/DHCP.md",
     "Ciência de Dados/Big Data.md",
     "Economia/Agregados Monetários.md",
-    "Edital.md",
     "Engenharia de Software/DLT.md",
     "Engenharia de Software/Transações Distribuídas.md",
     "Engenharia de Software/Webservices.md",
@@ -235,7 +233,6 @@
     "Segurança/Assinatura & Certificados Digitais.md",
     "Segurança/Gestão de Identidades de Acesso/SSO.md",
     "Segurança/Gestão de Identidades de Acesso/SAML.md",
-    "Segurança/Gestão de Identidades de Acesso/OpenId Connect.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
