@@ -1,6 +1,6 @@
 {
   "accentColor": "#3dcb15",
-  "cssTheme": "Minimal",
+  "cssTheme": "Spectrum",
   "theme": "moonstone",
   "interfaceFontFamily": "Choco cooky,Fira Code",
   "textFontFamily": "Choco cooky,Fira Code Retina",
@@ -13,6 +13,7 @@
     "rainbow ident",
     "title center",
     "www",
-    "Colorized Folders V1"
+    "Colorized Folders V1",
+    "icons"
   ]
 }
