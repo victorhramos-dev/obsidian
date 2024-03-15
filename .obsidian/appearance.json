@@ -1,19 +1,16 @@
 {
   "accentColor": "#3dcb15",
-  "cssTheme": "Spectrum",
-  "theme": "moonstone",
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
   "interfaceFontFamily": "Choco cooky,Fira Code",
   "textFontFamily": "Choco cooky,Fira Code Retina",
   "monospaceFontFamily": "Fira Code",
   "baseFontSize": 16,
   "nativeMenus": true,
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "snipet1",
-    "rainbow ident",
-    "title center",
-    "www",
-    "Colorized Folders V1",
-    "icons"
+    "icons",
+    "www"
   ]
 }
