@@ -1,5 +1,14 @@
 {
   "accentColor": "#3dcb15",
   "cssTheme": "Minimal",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "Choco cooky,Fira Code",
+  "textFontFamily": "Choco cooky,Fira Code Retina",
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 16,
+  "nativeMenus": true,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "snipet1"
+  ]
 }
