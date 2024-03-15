@@ -24,9 +24,12 @@
             "id": "1ed68dc359d31a22",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240220140453.png"
+                "file": "Ciência de Dados/MLOps.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240220140453.png",
+                "file": "Ciência de Dados/MLOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240220140453.png",
+                "file": "Ciência de Dados/MLOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240220140453.png"
+                "file": "Ciência de Dados/MLOps.md"
               }
             }
           },
@@ -200,12 +203,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "crossbow:Crossbow": false,
-      "map-of-content:Update Map of Content": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "1ed68dc359d31a22",
   "lastOpenFiles": [
+    "Pasted image 20240220140453.png",
     "Edital.md",
     "Infraestrutura/DHCP.md",
     "Ciência de Dados/Big Data.md",
@@ -232,7 +236,6 @@
     "Segurança/Ataques e Vulnerabilidades.md",
     "Segurança/Assinatura & Certificados Digitais.md",
     "Segurança/Gestão de Identidades de Acesso/SSO.md",
-    "Segurança/Gestão de Identidades de Acesso/SAML.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
@@ -250,7 +253,6 @@
     "Web/Engenharia de Software/ci_cd_pipeline.png",
     "Engenharia de Software/Testes de Software/Niveis de Testes.png",
     "DevOps.png",
-    "Pasted image 20240220140453.png",
     "Infraestrutura/Pasted image 20240311005347.png",
     "DevOps.canvas",
     "Elasticsearch.canvas",
