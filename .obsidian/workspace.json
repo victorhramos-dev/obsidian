@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/MLOps.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/MLOps.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/MLOps.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência de Dados/MLOps.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -209,8 +209,10 @@
   },
   "active": "1ed68dc359d31a22",
   "lastOpenFiles": [
-    "Pasted image 20240220140453.png",
+    "Direito Administrativo/LGPD.md",
     "Edital.md",
+    "Ciência de Dados/MLOps.md",
+    "Pasted image 20240220140453.png",
     "Infraestrutura/DHCP.md",
     "Ciência de Dados/Big Data.md",
     "Economia/Agregados Monetários.md",
@@ -235,7 +237,6 @@
     "Segurança/Controle e Testes de Segurança em sistemas web e web services.md",
     "Segurança/Ataques e Vulnerabilidades.md",
     "Segurança/Assinatura & Certificados Digitais.md",
-    "Segurança/Gestão de Identidades de Acesso/SSO.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",

@@ -9,6 +9,9 @@
   "nativeMenus": true,
   "translucency": true,
   "enabledCssSnippets": [
-    "snipet1"
+    "snipet1",
+    "rainbow ident",
+    "title center",
+    "www"
   ]
 }
