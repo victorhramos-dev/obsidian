@@ -12,5 +12,6 @@
   "map-of-content",
   "crossbow",
   "link-exploder",
-  "webpage-html-export"
+  "webpage-html-export",
+  "breadcrumbs"
 ]
