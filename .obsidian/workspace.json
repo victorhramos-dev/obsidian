@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc1abada935c645",
+        "id": "d1f9d23321fbb439",
         "type": "tabs",
         "children": [
           {
-            "id": "38c9fc7f8e3cab48",
+            "id": "6d990d78fdf97a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/Big Data.md",
+                "file": "Infraestrutura/Kubernetes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 204.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/Big Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/Big Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ciência de Dados/Big Data.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,18 +181,26 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "38c9fc7f8e3cab48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 640.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
@@ -212,6 +216,10 @@
   },
   "active": "38c9fc7f8e3cab48",
   "lastOpenFiles": [
+    "Infraestrutura/Kubernetes.md",
+    "Infraestrutura/Infraestrutura como código.md",
+    "Infraestrutura/Ansible.md",
+    "Ciência de Dados/Big Data.md",
     "Segurança/Criptografia e Proteção de Dados.md",
     "Segurança/MFA.md",
     "Segurança/Controle e Testes de Segurança em sistemas web e web services.md",
@@ -222,7 +230,6 @@
     "Direito Administrativo/LGPD.md",
     "Pasted image 20240220140453.png",
     "Infraestrutura/DHCP.md",
-    "Ciência de Dados/Big Data.md",
     "Economia/Agregados Monetários.md",
     "Engenharia de Software/DLT.md",
     "Engenharia de Software/Transações Distribuídas.md",
@@ -237,9 +244,6 @@
     "Gestão em TI/Itil 4.md",
     "Web/Pasted image 20240220140453.png",
     "Discursivas Solução-Problema.md",
-    "Segurança/Tratamento de Incidentes.md",
-    "Segurança/Segurança em Cloud Computing.md",
-    "Segurança/Privacidade e Segurança por padrão.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
