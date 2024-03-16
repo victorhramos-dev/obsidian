@@ -206,8 +206,8 @@
       "obsidian42-brat:BRAT": false,
       "crossbow:Crossbow": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "map-of-content:Update Map of Content": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "38c9fc7f8e3cab48",
