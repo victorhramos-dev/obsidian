@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Ciência de Dados/PNL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "09a6ffef27a22653",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestão em TI/Itil 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,14 +189,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "09a6ffef27a22653",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
-    "width": 937.5,
-    "collapsed": true
+    "width": 937.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,18 +224,26 @@
   },
   "active": "09a6ffef27a22653",
   "lastOpenFiles": [
+    "Ciência de Dados/PNL.md",
+    "Ciência de Dados/MLOps.md",
+    "Ciência de Dados/Big Data.md",
+    "Ciência de Dados/Deep Learning.md",
+    "Ciência de Dados/Governança e Ética na IA.md",
+    "Ciência de Dados/IA Generativa.md",
+    "Ciência de Dados/Grandes Modelos LLM.md",
+    "Ciência de Dados/Tipos de Aprendizado.md",
+    "Ciência de Dados/Redes Neurais.md",
+    "Ciência de Dados/Machine Learning.md",
     "Gestão em TI/Itil 4.md",
     "Infraestrutura/WAN.md",
     "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Ansible.md",
-    "Ciência de Dados/Big Data.md",
     "Segurança/Criptografia e Proteção de Dados.md",
     "Segurança/MFA.md",
     "Segurança/Controle e Testes de Segurança em sistemas web e web services.md",
     "Segurança/Ataques e Vulnerabilidades.md",
     "Segurança/Assinatura & Certificados Digitais.md",
-    "Ciência de Dados/MLOps.md",
     "Edital.md",
     "Direito Administrativo/LGPD.md",
     "Pasted image 20240220140453.png",
@@ -251,14 +251,6 @@
     "Economia/Agregados Monetários.md",
     "Engenharia de Software/DLT.md",
     "Engenharia de Software/Transações Distribuídas.md",
-    "Engenharia de Software/Webservices.md",
-    "Engenharia de Software/Python.md",
-    "Engenharia de Software/Programação Assíncrona.md",
-    "Engenharia de Software/Práticas de UX UI.md",
-    "Engenharia de Software/CI & CD.md",
-    "Gestão em TI/Governança de Dados.md",
-    "Gestão em TI/Scrum.md",
-    "Gestão em TI/Kanban.md",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
