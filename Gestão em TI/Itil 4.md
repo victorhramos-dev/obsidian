@@ -33,3 +33,7 @@ cards-deck: Gestão em TI
 	- Práticas - Geral (14)
 	- Práticas - Gerenciamento de Serviço (17)
 	- Práticas - Gerenciamento Técnico (3)
+
+## Visão Cebraspe
+- O processo de gestão financeira para serviços de TI é voltado para a definição de custos e também de orçamento dos serviços de TI.
+- 
