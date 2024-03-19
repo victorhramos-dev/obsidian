@@ -43,3 +43,4 @@ cards-deck: Gestão em TI
 - Os acordos de nível operacional são necessários para garantir que os objetivos do acordo de nível de serviços, firmado entre o cliente e o provedor, sejam cumpridos na prática.
 - As quatro dimensões do ITIL v4 estão agregadas por um elo central chamado valor, que se refere à entrega de valor dos produtos e serviços ao cliente.
 - A prática de gerenciamento de projetos da ITIL visa garantir que eles sejam entregues da forma esperada.
+- Conforme um dos princípios orientadores do ITIL v4, ao se fazer o design de um novo serviço ou processo, o recomendado é sempre analisar o que já está implementado.
