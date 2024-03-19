@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/WAN.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 937.5
+    "width": 937.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +217,8 @@
   },
   "active": "38c9fc7f8e3cab48",
   "lastOpenFiles": [
-    "Infraestrutura/WAN.md",
     "Gestão em TI/Itil 4.md",
+    "Infraestrutura/WAN.md",
     "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Ansible.md",
