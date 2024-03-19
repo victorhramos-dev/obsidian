@@ -32,3 +32,4 @@ cards-deck: Gestão em TI
 - O processo de gestão financeira para serviços de TI é voltado para a definição de custos e também de orçamento dos serviços de TI.
 - Cadeia de valor de serviço, práticas, princípios orientadores, governança e melhoria contínua são os principais componentes do sistema de valores de serviço da ITIL 4.
 - As quatro dimensões de gerenciamento de serviço definidas pela ITIL 4 são: organizações e pessoas; informação e tecnologia; parceiros e fornecedores; e fluxos de valor e processos.
+- O ITIL v4 possui prática específica para gerir risco, visando garantir que a organização entenda e lide com os riscos de forma eficaz, pois a gestão de riscos é essencial para o sistema de valor de serviço da organização.
