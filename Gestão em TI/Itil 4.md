@@ -42,3 +42,4 @@ cards-deck: Gestão em TI
 - O risco é um possível evento capaz de causar dados ou perdas, bem como dificultar o alcance dos objetivos da organização; o risco pode, também, ser utilizado para medir a probabilidade de resultados positivos.
 - Os acordos de nível operacional são necessários para garantir que os objetivos do acordo de nível de serviços, firmado entre o cliente e o provedor, sejam cumpridos na prática.
 - As quatro dimensões do ITIL v4 estão agregadas por um elo central chamado valor, que se refere à entrega de valor dos produtos e serviços ao cliente.
+- A prática de gerenciamento de projetos da ITIL visa garantir que eles sejam entregues da forma esperada.
