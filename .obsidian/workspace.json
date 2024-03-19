@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09a6ffef27a22653",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestão em TI/Itil 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestão em TI/Itil 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestão em TI/Itil 4.md"
+              }
             }
           },
           {
@@ -215,7 +230,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "38c9fc7f8e3cab48",
+  "active": "09a6ffef27a22653",
   "lastOpenFiles": [
     "Gestão em TI/Itil 4.md",
     "Infraestrutura/WAN.md",
