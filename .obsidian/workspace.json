@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/PNL.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gestão em TI/Itil 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gestão em TI/Itil 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gestão em TI/Itil 4.md"
+              }
             }
           },
           {
@@ -203,7 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 937.5
+    "width": 686.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +226,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "09a6ffef27a22653",
+  "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Gestão em TI/Itil 4.md",
     "Ciência de Dados/PNL.md",
     "Ciência de Dados/MLOps.md",
     "Ciência de Dados/Big Data.md",
@@ -234,7 +239,6 @@
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Ciência de Dados/Redes Neurais.md",
     "Ciência de Dados/Machine Learning.md",
-    "Gestão em TI/Itil 4.md",
     "Infraestrutura/WAN.md",
     "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",

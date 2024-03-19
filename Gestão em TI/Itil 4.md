@@ -36,3 +36,5 @@ cards-deck: Gestão em TI
 - O gerenciamento da capacidade garante que a provisão das capacidades de processamento e de armazenamento da TI acompanhe as crescentes demandas do negócio de forma efetiva e no prazo adequado.
 - Durante as etapas de planejamento, construção, teste e implementação, o gerenciamento de mudanças deve ser integrado com o gerenciamento de grandes projetos e programas empresariais.
 - Serviço, na ITIL 4, é um meio de permitir a cocriação de valor, a fim de facilitar os resultados que o cliente deseja alcançar, sem que ele tenha de gerenciar custos e riscos específicos.
+- Desenvolvimento e gerenciamento de software é uma d as práticas de gerenciamento técnico do ITIL v4.
+- No ITIL 4, o processo de habilitar mudança faz parte do sistema de valor de serviço.
