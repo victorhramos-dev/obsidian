@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/WAN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 278.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 916.5
+    "width": 937.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +216,7 @@
   },
   "active": "38c9fc7f8e3cab48",
   "lastOpenFiles": [
+    "Infraestrutura/WAN.md",
     "Gestão em TI/Itil 4.md",
     "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
@@ -243,7 +244,6 @@
     "Gestão em TI/Scrum.md",
     "Gestão em TI/Kanban.md",
     "Web/Pasted image 20240220140453.png",
-    "Discursivas Solução-Problema.md",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
     "Web/lib/media/874d8b8e340f75575caa.svg",
