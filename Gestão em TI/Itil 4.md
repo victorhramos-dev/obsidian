@@ -28,12 +28,7 @@ cards-deck: Gestão em TI
 	- Melhoria Continua
 	- Cadeia de valor de serviço
 
-## Práticas de Gerenciamento (34):
-- Classificadas em:
-	- Práticas - Geral (14)
-	- Práticas - Gerenciamento de Serviço (17)
-	- Práticas - Gerenciamento Técnico (3)
-
 ## Visão Cebraspe
 - O processo de gestão financeira para serviços de TI é voltado para a definição de custos e também de orçamento dos serviços de TI.
-- 
+- Cadeia de valor de serviço, práticas, princípios orientadores, governança e melhoria contínua são os principais componentes do sistema de valores de serviço da ITIL 4.
+- As quatro dimensões de gerenciamento de serviço definidas pela ITIL 4 são: organizações e pessoas; informação e tecnologia; parceiros e fornecedores; e fluxos de valor e processos.
