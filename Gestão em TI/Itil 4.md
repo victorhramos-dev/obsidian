@@ -46,3 +46,6 @@ cards-deck: Gestão em TI
 - Conforme um dos princípios orientadores do ITIL v4, ao se fazer o design de um novo serviço ou processo, o recomendado é sempre analisar o que já está implementado.
 - O sistema de valor do serviço (SVS) é um modelo que representa o modo como todos os componentes e as atividades de uma organização funcionam em conjunto para facilitar a criação de valor.
 - As quatro dimensões do gerenciamento de serviço descrevem perspectivas críticas para a promoção eficaz de valor para os clientes, na forma de produtos e serviços.
+- O elemento central do sistema de valor de serviços (SVS) do ITIL é a cadeia de valor de serviço.
+- As práticas ITIL, os princípios orientadores da ITIL e a governança são componentes do sistema de valor do serviço (SVS) da ITIL.
+- 
