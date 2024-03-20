@@ -19,19 +19,24 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "424fb4779fe4734c",
+        "type": "tabs",
+        "children": [
           {
             "id": "3b88cb196a16474e",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://prometheus.io/docs/prometheus/latest/command-line/promtool/#promtool-help"
+                "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?stored_filter_id=17849439&my_questions=not_resolved&examining_board_ids%5B%5D=2&publication_year%5B%5D=2024&scholarity_ids%5B%5D=3&discipline_ids%5B%5D=94&discipline_ids%5B%5D=95&discipline_ids%5B%5D=96&discipline_ids%5B%5D=97&discipline_ids%5B%5D=98&discipline_ids%5B%5D=100&discipline_ids%5B%5D=238&discipline_ids%5B%5D=499&discipline_ids%5B%5D=503&exclude_nullified=true"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "8eb669789834f1c1",
