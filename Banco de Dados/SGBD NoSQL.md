@@ -1,0 +1,1 @@
+https://www.devmedia.com.br/introducao-ao-banco-de-dados-nosql-cassandra/30533

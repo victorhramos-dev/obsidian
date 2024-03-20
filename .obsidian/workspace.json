@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Monitoração/Prometheus.md",
+                "file": "Banco de Dados/SGBD NoSQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,33 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "424fb4779fe4734c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b88cb196a16474e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=94&discipline_ids%5B%5D=95&discipline_ids%5B%5D=96&discipline_ids%5B%5D=97&discipline_ids%5B%5D=98&discipline_ids%5B%5D=100&discipline_ids%5B%5D=238&discipline_ids%5B%5D=499&discipline_ids%5B%5D=503&examining_board_ids%5B%5D=2&exclude_nullified=true&my_questions=not_resolved&q=grafana&scholarity_ids%5B%5D=3"
-              }
-            }
-          },
-          {
-            "id": "5f43a54e0978aa01",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.devmedia.com.br/introducao-ao-banco-de-dados-nosql-cassandra/30533"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Banco de Dados/SGBD NoSQL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Banco de Dados/SGBD NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Banco de Dados/SGBD NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Banco de Dados/SGBD NoSQL.md"
+              }
             }
           },
           {
@@ -252,8 +230,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5f43a54e0978aa01",
+  "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Banco de Dados/SGBD NoSQL.md",
     "Infraestrutura/Monitoração/Prometheus.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Infraestrutura/Monitoração/Nagios.md",
@@ -279,7 +258,6 @@
     "Infraestrutura/WAN.md",
     "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
-    "Infraestrutura/Ansible.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
