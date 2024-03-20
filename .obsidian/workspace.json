@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/SGBD NoSQL.md",
+                "file": "Ciência de Dados/IA Generativa.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Banco de Dados/SGBD NoSQL.md",
+                "file": "Ciência de Dados/IA Generativa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banco de Dados/SGBD NoSQL.md",
+                "file": "Ciência de Dados/IA Generativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banco de Dados/SGBD NoSQL.md",
+                "file": "Ciência de Dados/IA Generativa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banco de Dados/SGBD NoSQL.md"
+                "file": "Ciência de Dados/IA Generativa.md"
               }
             }
           },

@@ -1,0 +1,1 @@
+Na inteligência artificial, a representação completa de determinado assunto constitui uma ontologia.
