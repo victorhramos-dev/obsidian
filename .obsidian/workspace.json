@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/IA Generativa.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ciência de Dados/IA Generativa.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/IA Generativa.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/IA Generativa.md",
+                "file": "Gestão em TI/Itil 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência de Dados/IA Generativa.md"
+                "file": "Gestão em TI/Itil 4.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Ciência de Dados/IA Generativa.md",
     "Banco de Dados/SGBD NoSQL.md",
     "Infraestrutura/Monitoração/Prometheus.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
@@ -249,7 +250,6 @@
     "Ciência de Dados/MLOps.md",
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Deep Learning.md",
-    "Ciência de Dados/IA Generativa.md",
     "Ciência de Dados/Grandes Modelos LLM.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Ciência de Dados/Redes Neurais.md",
