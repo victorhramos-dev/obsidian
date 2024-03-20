@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Puppet.md",
-                "mode": "preview",
+                "file": "Engenharia de Software/DevOps.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infraestrutura/Puppet.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Puppet.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Puppet.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Puppet.md"
+                "file": "Engenharia de Software/DevOps.md"
               }
             }
           },

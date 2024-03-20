@@ -32,6 +32,9 @@ https://www.tecconcursos.com.br/s/Q3NdId
     5.4. Feedback e aprendizado (5%)
 
 ## Devops por afirmações da Cebraspe
+- O Jenkins é uma ferramenta de integração contínua de código aberto que pode ser instalada e configurada em qualquer servidor, enquanto o Travis CI é uma ferramenta de integração contínua hospedada na nuvem que se integra com o GitHub.
+- O conceito de DevOps envolve a automatização de processos e colaboração entre equipes.
+- Em DevOps, a análise estática de código e geração de documentação fazem parte do processo de _build_ d e uma aplicação.
 - DevOps é um conceito pelo qual se busca entregar sistemas melhores, com menor custo, em menor tempo e com menor risco.
 - O DevOps, movimento profissional emergente que defende uma colaboração maior entre desenvolvimento e operações de TI, resulta em um fluxo rápido do trabalho planejado, que aumenta a confiabilidade, a estabilidade e a segurança do ambiente de produção.
 - O profissional especialista em DevOps deve atuar e conhecer as áreas de desenvolvimento (engenharia de software), operações e controle de qualidade, além de conhecer, também, de forma ampla, os processos de desenvolvimento ágil.
