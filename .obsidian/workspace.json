@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 553.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,13 +223,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "crossbow:Crossbow": false,
-      "map-of-content:Update Map of Content": false
+      "map-of-content:Update Map of Content": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
-    "Infraestrutura/Monitoração/Nagios.md",
+    "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Infraestrutura/Monitoração/Prometheus.md",
+    "Infraestrutura/Monitoração/Nagios.md",
     "Discursivas Solução-Problema.md",
     "Edital.md",
     "Gestão em TI/Itil 4.md",
@@ -252,7 +257,6 @@
     "Infraestrutura/Kubernetes.md",
     "Infraestrutura/Infraestrutura como código.md",
     "Infraestrutura/Ansible.md",
-    "Segurança/Criptografia e Proteção de Dados.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
