@@ -68,7 +68,8 @@ cards-deck: Gestão em TI
                      ├── 📱 Gestão de Aplicações
                      └── 📡 Gestão de Monitoração e Eventos
 
-
+## Certificação
+https://www.examtopics.com/exams/itil/itilfnd-v4/view/
 ## Visão Cebraspe
 - O processo de gestão financeira para serviços de TI é voltado para a definição de custos e também de orçamento dos serviços de TI.
 - Cadeia de valor de serviço, práticas, princípios orientadores, governança e melhoria contínua são os principais componentes do sistema de valores de serviço da ITIL 4.
