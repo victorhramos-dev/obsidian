@@ -1,0 +1,16 @@
+{
+  "ignoredWordsCaseSensisitve": [
+    "image",
+    "the",
+    "always",
+    "some"
+  ],
+  "suggestInSameFile": true,
+  "ignoreSuggestionsWhichStartWithLowercaseLetter": true,
+  "ignoreOccurrencesWhichStartWithLowercaseLetter": false,
+  "minimumSuggestionWordLength": 3,
+  "useLogging": false,
+  "useAutoRefresh": true,
+  "autoRefreshDelayMs": 2600,
+  "ignoreVaultFolders": []
+}
