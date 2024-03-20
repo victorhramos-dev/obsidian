@@ -1,32 +1,73 @@
 ---
 cards-deck: Gestão em TI
 ---
+🌟 ITIL 4 🌟
+     |
+	├── 📚 Princípios Orientadores
+     |       ├── 🔄 Comece onde está
+     |       ├── 🎯 Foque no valor
+     |       ├── 🚀 Progrida iterativamente com feedback
+     |       ├── 🤝 Colabore e promova visibilidade
+     |       ├── 🧠 Pense e trabalhe holisticamente
+     |       ├── 🧩 Mantenha-o simples e prático
+     |       └── 👥 Otimize e automatize
+     |
+     ├── 🌐 Sistema de Valor de Serviço (SVS)
+     |       ├── 🎨 Princípios Orientadores
+     |       ├── 🛠️ Governança
+     |       ├── 📈 Cadeia de Valor de Serviço
+     |       ├── 📋 Práticas
+     |       └── 🔄 Melhoria Contínua
+     |
+     ├── 🔗 Cadeia de Valor de Serviço
+     |       ├── 🤝 Planejar
+     |       ├── 🚀 Melhorar
+     |       ├── 🏃‍♂️ Engajar
+     |       ├── 🎨 Desenhar e Transicionar
+     |       ├── 🛠️ Obter/Construir
+     |       └── 📦 Entregar e Suportar
+     |
+     └── 🛠️ Práticas
+             ├── 📚 Práticas de Gerenciamento Geral (14)
+             |       ├── 🏛️ Gestão de Arquitetura
+             |       ├── 🔄 Melhoria Contínua
+             |       ├── 🔒 Gestão de Segurança da Informação
+             |       ├── 🧠 Gestão do Conhecimento
+             |       ├── 📊 Medição e Relatórios
+             |       ├── 🔄 Gestão de Mudanças Organizacionais
+             |       ├── 📈 Gestão de Portfólio
+             |       ├── 🤝 Gestão de Relacionamento
+             |       ├── 📦 Gestão de Fornecedor
+             |       ├── 📋 Gestão de Demanda
+             |       ├── 🛠️ Gestão de Recursos Humanos
+             |       ├── 💼 Gestão Financeira
+             |       ├── 📚 Gestão de Projetos
+             |       └── 🔧 Gestão de Riscos
+             |
+             ├── 🛠️ Práticas de Gerenciamento de Serviço (17)
+             |       ├── 📈 Gestão de Incidentes
+             |       ├── 🔄 Gestão de Problemas
+             |       ├── 📊 Gestão de Mudanças
+             |       ├── 📋 Gestão de Níveis de Serviço
+             |       ├── 📚 Gestão de Conhecimento
+             |       ├── 🛡️ Gestão de Segurança da Informação
+             |       ├── 📦 Gestão de Fornecedor
+             |       ├── 📈 Gestão de Continuidade de Serviço
+             |       ├── 📊 Gestão de Desempenho e Capacidade
+             |       ├── 🔄 Gestão de Liberação
+             |       ├── 🛠️ Gestão de Infraestrutura e Plataformas
+             |       ├── 📱 Gestão de Aplicações
+             |       ├── 📡 Gestão de Monitoração e Eventos
+             |       ├── 📋 Gestão de Configuração de Serviço
+             |       ├── 📞 Central de Serviço
+             |       ├── 📝 Gestão de Requisição de Serviço
+             |       └── 📈 Gestão de Nível de Serviço
+             |
+             └── 🛠️ Práticas de Gerenciamento Técnico (3)
+                     ├── 🛠️ Gestão de Infraestrutura e Plataformas
+                     ├── 📱 Gestão de Aplicações
+                     └── 📡 Gestão de Monitoração e Eventos
 
-- Atualização da Itil v3, eliminando a gestão de processos e focando mais nas práticas.
-- Possui 4 dimensões para suportar a visão holística (visão geral e completa):
-	- Organizações e Pessoa
-	- Parceiros e Fornecedores
-	- Informação e Tecnologia
-	- Fluxo de Valor e Processos
-- Possui 7 ==princípios orientadores== (universais) que são compatíveis com os valores do manifesto ágil:
-^1709913365474
-	1. Foque em valor, tudo que é feito precisa criar valor.
-	2. Comece onde você está!
-	3. Progrida iterativa e com feedbacks
-	4. Promova a visibilidade, colabore. Trabalhe em parceria, transparente
-	5. Pense e trabalhe de forma holística
-	6. Mantenha a simplicidade, keep it simple!
-	7. Otimize e automatize! Elimine disperdício de tempo e recursos.
-
-## Sistema de Valor de Serviços (SVS)
-- Coração da Itil 4
-- Funciona em cima de Oportunidade e Demanda para criar valor
-- Componentes:
-	- Governança
-	- Prinicipios orientadores
-	- Praticas de Gerenciamento
-	- Melhoria Continua
-	- Cadeia de valor de serviço
 
 ## Visão Cebraspe
 - O processo de gestão financeira para serviços de TI é voltado para a definição de custos e também de orçamento dos serviços de TI.
