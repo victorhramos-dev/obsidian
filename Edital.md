@@ -223,3 +223,5 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [ ] Medidas de dispersão absoluta e relativa. 
 	- [ ] Probabilidade condicional, independência. 
 	- [ ] Variável aleatória e funções de distribuição.
+
+https://www.tecconcursos.com.br/estatisticas

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/CI & CD.md",
+                "file": "Infraestrutura/Monitoração/Prometheus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,10 +67,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "72ed5cbb30578edd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15be3568ae9a45f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 340.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -81,20 +95,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15be3568ae9a45f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "b6686b466e0ae7f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/CI & CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +124,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/CI & CD.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -141,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Engenharia de Software/CI & CD.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,25 +187,8 @@
               "type": "BC-tree",
               "state": {}
             }
-          },
-          {
-            "id": "38c9fc7f8e3cab48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "09a6ffef27a22653",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,19 +211,23 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "b6686b466e0ae7f8",
+  "active": "15be3568ae9a45f5",
   "lastOpenFiles": [
-    "Direito Administrativo/LGPD.md",
+    "Infraestrutura/Monitoração/Prometheus.md",
+    "Discursivas Solução-Problema.md",
     "Edital.md",
+    "Gestão em TI/Itil 4.md",
+    "Ciência de Dados/Governança e Ética na IA.md",
+    "Infraestrutura/Protocolos/TLS.md",
+    "Engenharia de Software/CI & CD.md",
+    "Direito Administrativo/LGPD.md",
     "Economia/Multiplicador monetário.md",
     "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
-    "Gestão em TI/Itil 4.md",
     "Ciência de Dados/PNL.md",
     "Ciência de Dados/MLOps.md",
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Deep Learning.md",
-    "Ciência de Dados/Governança e Ética na IA.md",
     "Ciência de Dados/IA Generativa.md",
     "Ciência de Dados/Grandes Modelos LLM.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
@@ -250,11 +239,7 @@
     "Infraestrutura/Ansible.md",
     "Segurança/Criptografia e Proteção de Dados.md",
     "Segurança/MFA.md",
-    "Segurança/Controle e Testes de Segurança em sistemas web e web services.md",
-    "Segurança/Ataques e Vulnerabilidades.md",
-    "Segurança/Assinatura & Certificados Digitais.md",
     "Pasted image 20240220140453.png",
-    "Infraestrutura/DHCP.md",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
