@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Infraestrutura/Monitoração/Elasticsearch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,8 +223,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a016cba18a74e872",
+  "active": "09a6ffef27a22653",
   "lastOpenFiles": [
+    "Infraestrutura/Monitoração/Elasticsearch.md",
     "Gestão em TI/Itil 4.md",
     "Ciência de Dados/PNL.md",
     "Ciência de Dados/MLOps.md",
@@ -255,7 +252,6 @@
     "Infraestrutura/DHCP.md",
     "Economia/Agregados Monetários.md",
     "Engenharia de Software/DLT.md",
-    "Engenharia de Software/Transações Distribuídas.md",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
