@@ -1,2 +1,1 @@
 https://www.tecconcursos.com.br/questoes/2775842
-[]()

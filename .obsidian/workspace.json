@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Infraestrutura/Puppet.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -231,6 +231,7 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Infraestrutura/Puppet.md",
     "Gestão em TI/Itil 4.md",
     "Ciência de Dados/IA Generativa.md",
     "Banco de Dados/SGBD NoSQL.md",
@@ -256,7 +257,6 @@
     "Ciência de Dados/Machine Learning.md",
     "Infraestrutura/WAN.md",
     "Infraestrutura/Kubernetes.md",
-    "Infraestrutura/Infraestrutura como código.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
