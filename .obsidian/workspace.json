@@ -32,7 +32,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?stored_filter_id=17849439&my_questions=not_resolved&examining_board_ids%5B%5D=2&publication_year%5B%5D=2024&scholarity_ids%5B%5D=3&discipline_ids%5B%5D=94&discipline_ids%5B%5D=95&discipline_ids%5B%5D=96&discipline_ids%5B%5D=97&discipline_ids%5B%5D=98&discipline_ids%5B%5D=100&discipline_ids%5B%5D=238&discipline_ids%5B%5D=499&discipline_ids%5B%5D=503&exclude_nullified=true"
+                "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=94&discipline_ids%5B%5D=95&discipline_ids%5B%5D=96&discipline_ids%5B%5D=97&discipline_ids%5B%5D=98&discipline_ids%5B%5D=100&discipline_ids%5B%5D=238&discipline_ids%5B%5D=499&discipline_ids%5B%5D=503&examining_board_ids%5B%5D=2&exclude_nullified=true&my_questions=not_resolved&q=grafana&scholarity_ids%5B%5D=3"
               }
             }
           }
