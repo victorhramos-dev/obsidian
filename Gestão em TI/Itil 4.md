@@ -48,4 +48,6 @@ cards-deck: Gestão em TI
 - As quatro dimensões do gerenciamento de serviço descrevem perspectivas críticas para a promoção eficaz de valor para os clientes, na forma de produtos e serviços.
 - O elemento central do sistema de valor de serviços (SVS) do ITIL é a cadeia de valor de serviço.
 - As práticas ITIL, os princípios orientadores da ITIL e a governança são componentes do sistema de valor do serviço (SVS) da ITIL.
+- O processo de gerenciamento de portfólio de serviços faz parte da estratégia de serviços do ciclo de vida.
+- O objetivo do tempo de recuperação (OTR) descreve o tempo máximo aceitável que pode decorrer após a interrupção do serviço até que a sua falta cause impacto na organização. 
 - 
