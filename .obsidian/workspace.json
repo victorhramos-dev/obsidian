@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Puppet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Puppet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Puppet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Infraestrutura/Puppet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestão em TI/Itil 4.md"
+                "file": "Infraestrutura/Puppet.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Gestão em TI/Itil 4.md",
     "Ciência de Dados/IA Generativa.md",
     "Banco de Dados/SGBD NoSQL.md",
     "Infraestrutura/Monitoração/Prometheus.md",
@@ -238,7 +239,6 @@
     "Infraestrutura/Monitoração/Nagios.md",
     "Discursivas Solução-Problema.md",
     "Edital.md",
-    "Gestão em TI/Itil 4.md",
     "Ciência de Dados/Governança e Ética na IA.md",
     "Infraestrutura/Protocolos/TLS.md",
     "Engenharia de Software/CI & CD.md",
