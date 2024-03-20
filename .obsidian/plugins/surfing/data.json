@@ -57,6 +57,17 @@
         "fileSize": "",
         "icon": {}
       }
+    },
+    {
+      "id": "5f43a54e0978aa01",
+      "parent": 0,
+      "droppable": true,
+      "text": "Introdução ao banco de dados NoSQL Cassandra",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
     }
   ],
   "enableHtmlPreview": true

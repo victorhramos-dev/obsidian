@@ -35,8 +35,19 @@
                 "url": "https://www.qconcursos.com/questoes-de-concursos/questoes?discipline_ids%5B%5D=94&discipline_ids%5B%5D=95&discipline_ids%5B%5D=96&discipline_ids%5B%5D=97&discipline_ids%5B%5D=98&discipline_ids%5B%5D=100&discipline_ids%5B%5D=238&discipline_ids%5B%5D=499&discipline_ids%5B%5D=503&examining_board_ids%5B%5D=2&exclude_nullified=true&my_questions=not_resolved&q=grafana&scholarity_ids%5B%5D=3"
               }
             }
+          },
+          {
+            "id": "5f43a54e0978aa01",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.devmedia.com.br/introducao-ao-banco-de-dados-nosql-cassandra/30533"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +252,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3b88cb196a16474e",
+  "active": "5f43a54e0978aa01",
   "lastOpenFiles": [
     "Infraestrutura/Monitoração/Prometheus.md",
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
