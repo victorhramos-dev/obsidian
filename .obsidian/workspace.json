@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/CI & CD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,14 +94,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/CI & CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Engenharia de Software/CI & CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Engenharia de Software/CI & CD.md"
               }
             }
           },
@@ -203,12 +203,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 916.5,
-    "collapsed": true
+    "width": 553.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,8 +226,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "6d990d78fdf97a39",
+  "active": "b6686b466e0ae7f8",
   "lastOpenFiles": [
+    "Direito Administrativo/LGPD.md",
+    "Edital.md",
+    "Economia/Multiplicador monetário.md",
     "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
     "Gestão em TI/Itil 4.md",
@@ -251,11 +253,8 @@
     "Segurança/Controle e Testes de Segurança em sistemas web e web services.md",
     "Segurança/Ataques e Vulnerabilidades.md",
     "Segurança/Assinatura & Certificados Digitais.md",
-    "Edital.md",
-    "Direito Administrativo/LGPD.md",
     "Pasted image 20240220140453.png",
     "Infraestrutura/DHCP.md",
-    "Economia/Agregados Monetários.md",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",
