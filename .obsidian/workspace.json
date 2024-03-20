@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Monitoração/Grafana.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "8eb669789834f1c1",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Monitoração/Grafana.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Monitoração/Grafana.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Monitoração/Grafana.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -204,11 +203,12 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 916.5
+    "width": 916.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,6 +229,7 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
     "Gestão em TI/Itil 4.md",
     "Ciência de Dados/PNL.md",
@@ -255,7 +256,6 @@
     "Pasted image 20240220140453.png",
     "Infraestrutura/DHCP.md",
     "Economia/Agregados Monetários.md",
-    "Engenharia de Software/DLT.md",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
     "Web/lib/metadata.json",

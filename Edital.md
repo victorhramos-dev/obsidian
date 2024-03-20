@@ -30,12 +30,12 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Machine Learning]]
 - [x] [[Tipos de Aprendizado]]
 - [x] [[Big Data]]
-- [ ] [[Deep Learning]]
-- [ ] [[Redes Neurais]]
+- [x] [[Deep Learning]]
+- [x] [[Redes Neurais]]
 - [x] [[PNL]]
-- [ ] [[Qualidade de Dados]]
-- [ ] [[Grandes Modelos LLM]]
-- [ ] [[IA Generativa]]
+- [x] [[Qualidade de Dados]]
+- [x] [[Grandes Modelos LLM]]
+- [x] [[IA Generativa]]
 - [x] [[MLOps|MLOps: Gestão de Código, Treinamento, Implantação, Monitoramento, Automação, Versionamento]]
 
 
@@ -43,7 +43,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Kanban]]
 - [x] [[Scrum]]
 - [x] [[Governança de Dados]]
-- [ ] [[Itil 4]]
+- [x] [[Itil 4]]
 
 ## Banco de Dados
 - [x] [[SGBD SQL]]
@@ -97,7 +97,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Windows Server]] e [[Linux]]
 
 ## Engenharia de Software
-- [ ] [[Infraestrutura como código]]
+- [x] [[Infraestrutura como código]]
 - [x] [[DevOps]] 
 - [x] [[DevSecOps]] 
 - [x] [[CI & CD]] 
@@ -106,9 +106,9 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 - [x] [[Transações Distribuídas]] 
 - [x] [[Práticas de UX UI ]]
 - [ ] [[Desenvolvimento Seguro (SDL, OWASP, CLASP)]]
-- [ ] [[Programação Assíncrona]]
+- [x] [[Programação Assíncrona]]
 - [x] [[Git]]
-- [ ] [[Java]]
+- [x] [[Java]]
 - [x] [[Python]]
 - [x] Testes de Software
 	- [x] [[Testes Unitários]]
@@ -125,9 +125,9 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [x] Arquitetura de Sistemas Web
 		- [x] [[gRPC]] 
 		- [x] [[WebSockets]] 
-		- [ ] [[Proxy]]
-		- [ ] [[Cache]]
-		- [ ] [[LoadBalancer]]
+		- [x] [[Proxy]]
+		- [x] [[Cache]]
+		- [x] [[LoadBalancer]]
 		- [x] [[Estabilidade em Sistemas Web]]
 - [ ] [[DLT]]
 ## Segurança da Informação
@@ -147,8 +147,8 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 	- [x] [[IPS]] 
 	- [x] [[SIEM]]
 	- [x] [[Proxy]]
-	- [ ] [[IAM]]
-	- [ ] [[PAM]]
+	- [x] [[IAM]]
+	- [x] [[PAM]]
 	- [x] [[Antivirus]] 
 	- [x] [[Antispam]]
 - [ ] Frameworks:
@@ -180,13 +180,13 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 
 ## Direito Administrativo
 - [x] [[Princípios da Administração Pública|Administração pública: princípios básicos. ]]
-- [ ] Administração direta e indireta. 
-- [ ] Poderes administrativos. 
-	- [ ] Espécies de poder: hierárquico, disciplinar, regulamentar, de polícia e normativo. 
-	- [ ] Uso e abuso do poder. 
-- [ ] Organização administrativa brasileira. 
-	- [ ] Serviços públicos: conceito e princípios. 
-	- [ ] Autarquias, agências reguladoras, agências executivas, fundações públicas, empresas públicas, sociedades de economia mista. 
+- [x] Administração direta e indireta.
+- [x] Poderes administrativos.
+	- [x] Espécies de poder: hierárquico, disciplinar, regulamentar, de polícia e normativo.
+	- [x] Uso e abuso do poder.
+- [x] Organização administrativa brasileira.
+	- [x] Serviços públicos: conceito e princípios.
+	- [x] Autarquias, agências reguladoras, agências executivas, fundações públicas, empresas públicas, sociedades de economia mista.
 - [x] Ato administrativo. 
 	- [x] Conceito, requisitos e atributos. 
 	- [x] Comunicação dos atos administrativos. 
@@ -200,11 +200,11 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 		- [x] Seguridade social do servidor: aposentadoria e pensão civil. 
 		- [x] Processo administrativo disciplinar. 
 - [x] Improbidade administrativa.
-- [ ] Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994).
-- [ ] Código de Conduta da Alta Administração Federal. 
-- [ ] Lei de conflito de interesses (Lei nº 11.813/2013). 
-- [ ] Lei de Acesso à Informação (Lei nº 12.527/2011). 
-- [ ] [[LGPD|Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais)]]
+- [x] Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto nº 1.171/1994).
+- [x] Código de Conduta da Alta Administração Federal.
+- [x] Lei de conflito de interesses (Lei nº 11.813/2013).
+- [x] Lei de Acesso à Informação (Lei nº 12.527/2011).
+- [x] [[LGPD|Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais)]]
 
 
 ## Lógica e Estatística
@@ -216,7 +216,7 @@ d) será calculada, então, a nota da questão dissertativa sobre situação pro
 		- [x] Tabelas-verdade. 
 		- [x] Equivalências. 
 		- [x] Leis de Morgan; problemas. 
-- [ ] Noções de estatística. 
+- [ ] Noções de estatística.
 	- [ ] População e amostra. 
 	- [ ] Histogramas e curvas de frequência. 
 	- [ ] Medidas de posição: média, moda, mediana e separatrizes. 
