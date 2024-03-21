@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/Machine Learning.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ciência de Dados/Machine Learning.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/Machine Learning.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/Machine Learning.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência de Dados/Machine Learning.md"
+                "file": "Ciência de Dados/Tipos de Aprendizado.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "122e143625eaf08c",
   "lastOpenFiles": [
+    "Ciência de Dados/Machine Learning.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Infraestrutura/Linux.md",
     "Engenharia de Software/Testes de Software/BDD.md",
@@ -270,7 +271,6 @@
     "Economia/Multiplicador monetário.md",
     "Infraestrutura/Monitoração/Grafana.md",
     "Infraestrutura/Monitoração/Elasticsearch.md",
-    "Ciência de Dados/PNL.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",

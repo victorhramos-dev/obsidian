@@ -32,3 +32,4 @@
 - O algoritmo de classificação KNN (K Nearest Neighbors) é utilizado na inteligência artificial para reconhecimento de padrões.
 - Em uma rede regida pelo aprendizado Hebbiano se dois neurônios são ativados simultaneamente, então a força da conexão entre eles é aumentada.
 - Em uma rede regida pelo aprendizado competitivo apenas um neurônio de saída é disparado.
+- A regressão é um tipo de aprendizado supervisionado cujo objetivo é entender a relação entre variáveis dependentes e independentes.
