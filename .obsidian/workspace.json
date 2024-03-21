@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/Proxy.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,6 +79,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2bc7b57ef6496dc9",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ]
       },
@@ -100,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/Proxy.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/Proxy.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/Proxy.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/Proxy.md"
+                "file": "Engenharia de Software/DevOps.md"
               }
             }
           },
@@ -237,14 +245,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "crossbow:Crossbow": false,
-      "map-of-content:Update Map of Content": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "map-of-content:Update Map of Content": false
     }
   },
   "active": "122e143625eaf08c",
   "lastOpenFiles": [
+    "Segurança/Ferramentas de Segurança/Proxy.md",
     "Gestão em TI/Scrum.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Ciência de Dados/Machine Learning.md",
@@ -270,7 +279,6 @@
     "Engenharia de Software/CI & CD.md",
     "Direito Administrativo/LGPD.md",
     "Economia/Multiplicador monetário.md",
-    "Infraestrutura/Monitoração/Grafana.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
