@@ -36,3 +36,4 @@
 - Naive bayes é um algoritmo de machine learning supervisionado que realiza classificação com base no princípio da independência condicional de classe a partir do teorema de Bayes, em que o algoritmo avalia o quanto ele contribuiu para classificar a instância como boa ou ruim, construindo uma tabela de probabilidades.
 - Clustering é uma técnica de mineração de dados que agrupa dados não rotulados com base em suas semelhanças ou diferenças; os algoritmos de cluster podem ser categorizados em sobrepostos, hierárquicos ou probabilísticos.
 - Os algoritmos SVM (_support vector machines_) realizam tarefas de regressão e classificação.
+- O SVM é um sistema de classificação supervisionado, não paramétrico, que tem suas raízes na teoria de aprendizado estatístico (“statistical learning theory”)
