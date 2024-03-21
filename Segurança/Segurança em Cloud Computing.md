@@ -10,6 +10,7 @@ https://www.akamai.com/pt/glossary/what-is-enterprise-cloud-security
 ## Visao Cebraspe
 - As equipes de segurança têm visibilidade limitada das cargas de trabalho executadas em ofertas de serviços de nuvem publica, o que dificulta garantir a proteção.
 - A segurança da nuvem, em sua base, é composta das seguintes categorias: segurança de dados; gerenciamento de acesso e identidade; governança; retenção de dados e planejamento de continuidade de negócios; e _compliance_ jurídico.
+- A segurança da nuvem é compartilhada entre os provedores de serviço e os clientes, e as competências de cada um variam de acordo com o tipo de serviço oferecido; na plataforma como serviço (PaaS), por exemplo, os clientes são responsáveis por proteger tudo que está relacionado ao sistema operacional.
 ## Questões
 https://www.tecconcursos.com.br/questoes/2781038
 ## Fontes
