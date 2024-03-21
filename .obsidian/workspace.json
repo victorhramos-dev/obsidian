@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19e9801e3130cce3",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/ED_1_BCB_23_ABERTURA_ATUALIZADO_RET_4.PDF"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Edital.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Edital.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,11 +236,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6d990d78fdf97a39",
+  "active": "19e9801e3130cce3",
   "lastOpenFiles": [
+    "Edital.md",
     "Segurança/Ferramentas de Segurança/IAM.md",
     "Segurança/Segurança em Cloud Computing.md",
-    "Edital.md",
     "Engenharia de Software/DevOps.md",
     "Infraestrutura/Puppet.md",
     "Gestão em TI/Itil 4.md",
