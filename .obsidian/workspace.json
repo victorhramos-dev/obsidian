@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "72ed5cbb30578edd",
@@ -87,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Edital.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,14 +109,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181634,
+                  "scale": 0.18462326225858192,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Edital.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Edital.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Edital.md"
+                "file": "Segurança/Segurança em Cloud Computing.md"
               }
             }
           },
@@ -232,10 +230,10 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Edital.md",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Paas.md",
     "Segurança/Segurança em Cloud Computing.md",
-    "Edital.md",
     "Segurança/Ferramentas de Segurança/IAM.md",
     "Engenharia de Software/DevOps.md",
     "Infraestrutura/Puppet.md",
