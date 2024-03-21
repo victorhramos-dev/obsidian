@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +110,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224427,
+                  "scale": 0.7132754626224439,
                   "close": true
                 }
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/DevOps.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/DevOps.md"
+                "file": "Segurança/Segurança em Cloud Computing.md"
               }
             }
           },
@@ -230,8 +230,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5cd15d46878eb0f0",
+  "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Edital.md",
+    "Engenharia de Software/DevOps.md",
     "Infraestrutura/Puppet.md",
     "Gestão em TI/Itil 4.md",
     "Ciência de Dados/IA Generativa.md",
@@ -240,7 +242,6 @@
     "Banco de Dados/Modelagem de Dados Multidimensional.md",
     "Infraestrutura/Monitoração/Nagios.md",
     "Discursivas Solução-Problema.md",
-    "Edital.md",
     "Ciência de Dados/Governança e Ética na IA.md",
     "Infraestrutura/Protocolos/TLS.md",
     "Engenharia de Software/CI & CD.md",
@@ -257,7 +258,6 @@
     "Ciência de Dados/Redes Neurais.md",
     "Ciência de Dados/Machine Learning.md",
     "Infraestrutura/WAN.md",
-    "Infraestrutura/Kubernetes.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
