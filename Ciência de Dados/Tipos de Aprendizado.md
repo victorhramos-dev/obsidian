@@ -26,3 +26,9 @@
 18. **(15%)** Aplicações de machine learning em diversas áreas (finanças, saúde, indústria, marketing).
 19. **(10%)** Desafios éticos e sociais do machine learning (viés, discriminação, explicabilidade).
 20. **(5%)** Futuro do machine learning e tendências emergentes (aprendizado federado, autoML, interpretabilidade).
+
+
+## Cebraspe
+- O algoritmo de classificação KNN (K Nearest Neighbors) é utilizado na inteligência artificial para reconhecimento de padrões.
+- Em uma rede regida pelo aprendizado Hebbiano os neurônios podem ser excitados simultaneamente.
+- Em uma rede regida pelo aprendizado competitivo apenas um neurônio de saída é disparado.
