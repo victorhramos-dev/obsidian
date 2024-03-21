@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Edital.md",
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "19e9801e3130cce3",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://cdn.cebraspe.org.br/concursos/BCB_24/arquivos/ED_1_BCB_23_ABERTURA_ATUALIZADO_RET_4.PDF"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Segurança/Segurança em Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Segurança/Segurança em Cloud Computing.md"
+              }
             }
           },
           {
@@ -236,7 +230,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "19e9801e3130cce3",
+  "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
     "Edital.md",
     "Segurança/Ferramentas de Segurança/IAM.md",
