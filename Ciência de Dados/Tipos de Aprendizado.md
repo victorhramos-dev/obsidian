@@ -43,3 +43,4 @@
 - SVM é um método de classificação binária que traça um hiperplano ótimo que maximiza a margem de separação entre duas classes de dados. A etapa principal do algoritmo é descobrir os vetores que são as instâncias equidistantes do hiperplano.
 - O SVM não é invariante à escala (scale invariant), portanto padronizar os dados é extremamente recomendável.
 - O SVM constrói os denominados classificadores lineares, que separam o conjunto de dados por meio de um hiperplano, sendo considerado um dos mais efetivos para a tarefa de classificação.
+- O princípio de minimização de risco estrutural, no qual o SVM se baseia, tem como objetivo minimizar uma função que considera o risco empírico e teórico de um conjunto de dados.
