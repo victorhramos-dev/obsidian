@@ -8,7 +8,7 @@ https://www.akamai.com/pt/glossary/what-is-enterprise-cloud-security
 - **Compliance jurídico:** Envolve a conformidade com leis, regulamentos e normas que governam a coleta, armazenamento, uso e transmissão de dados. Isso pode variar significativamente dependendo do setor de atuação e do local onde a empresa opera ou armazena seus dados.
 
 ## Visao Cebraspe
-- As equipes de segurança têm visibilidade limitada das cargas de trabalho executadas em ofertas de serviços de nuvem privada, o que dificulta garantir a proteção.
+- As equipes de segurança têm visibilidade limitada das cargas de trabalho executadas em ofertas de serviços de nuvem publica, o que dificulta garantir a proteção.
 ## Questões
 https://www.tecconcursos.com.br/questoes/2781038
 ## Fontes
