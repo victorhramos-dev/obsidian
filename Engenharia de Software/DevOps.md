@@ -32,6 +32,7 @@ https://www.tecconcursos.com.br/s/Q3NdId
     5.4. Feedback e aprendizado (5%)
 
 ## Devops por afirmações da Cebraspe
+- Uma das etapas na implementação do DevOps é o processo de _build_ que envolve tarefas necessárias para se conseguir executar um programa, como, por exemplo, vinculação com bibliotecas, compilação, download e resolução de dependências, conforme a linguagem de programação que se estiver utilizando.
 - O Jenkins é uma ferramenta de integração contínua de código aberto que pode ser instalada e configurada em qualquer servidor, enquanto o Travis CI é uma ferramenta de integração contínua hospedada na nuvem que se integra com o GitHub.
 - O conceito de DevOps envolve a automatização de processos e colaboração entre equipes.
 - Em DevOps, a análise estática de código e geração de documentação fazem parte do processo de _build_ d e uma aplicação.
