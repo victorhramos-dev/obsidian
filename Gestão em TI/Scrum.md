@@ -4,4 +4,10 @@
 - O Scrum master promove um ambiente em que um product owner ordena o trabalho de um problema complexo em um product backlog.
 - Não existem subequipes ou hierarquias dentro de um time Scrum.
 - A meta do produto é o objetivo de longo prazo do time Scrum, que deve cumprir ou abandonar um objetivo antes de assumir o próximo.
-- 
+- A Meta da Sprint é o único objetivo da Sprint. Ela cria coerência e foco para o Time Scrum trabalhar junto ao invés de iniciativas separadas.
+- A Meta da Sprint é criada durante o evento Sprint Planning e então adicionada ao Sprint Backlog. 
+- O Product Owner deve ir para Sprint Planning com um objetivo em mente. No entanto, ele deve ser desenvolvido e construído com os Developers. 
+- A Meta da Sprint resultante é de propriedade de todo Time Scrum.
+- A Meta do Produto descreve um estado futuro do produto que pode servir como um alvo para o Scrum Team planejar. 
+- A Meta do produto está no Product Backlog. O Product Backlog deve ser construído e ajustado para definir “o que” cumprirá a Meta do Produto.
+- Um produto é um veículo para entregar valor. Um produto pode ser um serviço, um produto físico ou algo mais abstrato.
