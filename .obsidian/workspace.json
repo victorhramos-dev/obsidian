@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/IAM.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/IAM.md",
+                "file": "Edital.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/IAM.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/IAM.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança/Ferramentas de Segurança/IAM.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Segurança/Ferramentas de Segurança/IAM.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Edital.md",
     "Engenharia de Software/DevOps.md",
@@ -257,7 +258,6 @@
     "Ciência de Dados/Grandes Modelos LLM.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Ciência de Dados/Redes Neurais.md",
-    "Ciência de Dados/Machine Learning.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
