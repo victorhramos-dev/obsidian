@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Paas.md",
+                "file": "Edital.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infraestrutura/Paas.md",
+                "file": "Edital.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -110,7 +110,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224439,
+                  "scale": 0.2588386562181634,
                   "close": true
                 }
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Paas.md",
+                "file": "Edital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Paas.md",
+                "file": "Edital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Paas.md"
+                "file": "Edital.md"
               }
             }
           },
@@ -233,6 +233,7 @@
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
     "Infraestrutura/Iaas.md",
+    "Infraestrutura/Paas.md",
     "Segurança/Segurança em Cloud Computing.md",
     "Edital.md",
     "Segurança/Ferramentas de Segurança/IAM.md",
@@ -257,7 +258,6 @@
     "Ciência de Dados/Big Data.md",
     "Ciência de Dados/Deep Learning.md",
     "Ciência de Dados/Grandes Modelos LLM.md",
-    "Ciência de Dados/Tipos de Aprendizado.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
