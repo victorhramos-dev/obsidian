@@ -46,3 +46,5 @@
 - O princípio de minimização de risco estrutural, no qual o SVM se baseia, tem como objetivo minimizar uma função que considera o risco empírico e teórico de um conjunto de dados.
 - A técnica de agrupamento (clustering) é um tipo de aprendizado não supervisionado em que o algoritmo identifica padrões em um conjunto de dados de entrada sem ter recebido qualquer _feedback_ prévio.
 - O PCA é um procedimento estatístico que converte um conjunto de objetos com atributos possivelmente correlacionados em um conjunto de objetos com atributos linearmente descorrelacionados.
+- A regra de associação é uma técnica que busca relações de co-ocorrência entre objetos de uma base de dados.
+- 
