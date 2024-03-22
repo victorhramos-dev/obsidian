@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infraestrutura/Protocolos/LDAP.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Infraestrutura/Protocolos/LDAP.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infraestrutura/Protocolos/LDAP.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infraestrutura/Protocolos/LDAP.md",
+                "file": "Ciência de Dados/Tipos de Aprendizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infraestrutura/Protocolos/LDAP.md"
+                "file": "Ciência de Dados/Tipos de Aprendizado.md"
               }
             }
           },
@@ -253,6 +253,7 @@
   },
   "active": "122e143625eaf08c",
   "lastOpenFiles": [
+    "Infraestrutura/Protocolos/LDAP.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
     "Engenharia de Software/DevOps.md",
     "Segurança/Ferramentas de Segurança/Proxy.md",
@@ -278,7 +279,6 @@
     "Infraestrutura/Protocolos/TLS.md",
     "Engenharia de Software/CI & CD.md",
     "Direito Administrativo/LGPD.md",
-    "Economia/Multiplicador monetário.md",
     "Pasted image 20240220140453.png",
     "Web/Pasted image 20240220140453.png",
     "Web/Direito Administrativo/Pasted image 20240303233617.png",
