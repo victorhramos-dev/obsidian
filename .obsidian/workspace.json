@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciência de Dados/Tipos de Aprendizado.md",
+                "file": "Ciência de Dados/Machine Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ciência de Dados/Tipos de Aprendizado.md",
+                "file": "Ciência de Dados/Machine Learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciência de Dados/Tipos de Aprendizado.md",
+                "file": "Ciência de Dados/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciência de Dados/Tipos de Aprendizado.md",
+                "file": "Ciência de Dados/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciência de Dados/Tipos de Aprendizado.md"
+                "file": "Ciência de Dados/Machine Learning.md"
               }
             }
           },
@@ -253,8 +253,9 @@
   },
   "active": "122e143625eaf08c",
   "lastOpenFiles": [
-    "Infraestrutura/Protocolos/LDAP.md",
+    "Edital.md",
     "Ciência de Dados/Tipos de Aprendizado.md",
+    "Infraestrutura/Protocolos/LDAP.md",
     "Engenharia de Software/DevOps.md",
     "Segurança/Ferramentas de Segurança/Proxy.md",
     "Gestão em TI/Scrum.md",
@@ -263,7 +264,6 @@
     "Engenharia de Software/Testes de Software/BDD.md",
     "Engenharia de Software/Testes de Software/TDD.md",
     "Segurança/Segurança em Cloud Computing.md",
-    "Edital.md",
     "Infraestrutura/Iaas.md",
     "Infraestrutura/Paas.md",
     "Segurança/Ferramentas de Segurança/IAM.md",
