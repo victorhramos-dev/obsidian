@@ -80,7 +80,7 @@ https://www.examtopics.com/exams/itil/itilfnd-v4/view/
 - Serviço, na ITIL 4, é um meio de permitir a cocriação de valor, a fim de facilitar os resultados que o cliente deseja alcançar, sem que ele tenha de gerenciar custos e riscos específicos.
 - Desenvolvimento e gerenciamento de software é uma d as práticas de gerenciamento técnico do ITIL v4.
 - No ITIL 4, o processo de habilitar mudança faz parte do sistema de valor de serviço.
-- Os princípios orientadores de ITIL fornecem uma abordagem holística, que permite a integração com os frameworks lean, Agile e DevOps.
+- Os princípios orientadores de ITIL fornecem uma abordagem holística, que permite a integração com os frameworks lean, Agile e [[DevOps]].
 - O risco é um possível evento capaz de causar dados ou perdas, bem como dificultar o alcance dos objetivos da organização; o risco pode, também, ser utilizado para medir a probabilidade de resultados positivos.
 - Os acordos de nível operacional são necessários para garantir que os objetivos do acordo de nível de serviços, firmado entre o cliente e o provedor, sejam cumpridos na prática.
 - As quatro dimensões do ITIL v4 estão agregadas por um elo central chamado valor, que se refere à entrega de valor dos produtos e serviços ao cliente.
