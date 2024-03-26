@@ -93,3 +93,4 @@ https://www.examtopics.com/exams/itil/itilfnd-v4/view/
 - O processo de gerenciamento de portfólio de serviços faz parte da estratégia de serviços do ciclo de vida.
 - O objetivo do tempo de recuperação (OTR) descreve o tempo máximo aceitável que pode decorrer após a interrupção do serviço até que a sua falta cause impacto na organização. 
 - O surgimento do ITIL v4 teve como objetivo viabilizar às empresas uma jornada de transformação digital.
+- 

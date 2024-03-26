@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestão em TI/Itil 4.md",
+                "file": "Engenharia de Software/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestão em TI/Itil 4.md"
+                "file": "Engenharia de Software/DevOps.md"
               }
             }
           },
@@ -252,6 +252,7 @@
   },
   "active": "6d990d78fdf97a39",
   "lastOpenFiles": [
+    "Gestão em TI/Itil 4.md",
     "Engenharia de Software/DevOps.md",
     "Engenharia de Software/Testes de Software/TDD.md",
     "Ciência de Dados/Machine Learning.md",
@@ -267,7 +268,6 @@
     "Infraestrutura/Paas.md",
     "Segurança/Ferramentas de Segurança/IAM.md",
     "Infraestrutura/Puppet.md",
-    "Gestão em TI/Itil 4.md",
     "Ciência de Dados/IA Generativa.md",
     "Banco de Dados/SGBD NoSQL.md",
     "Infraestrutura/Monitoração/Prometheus.md",
