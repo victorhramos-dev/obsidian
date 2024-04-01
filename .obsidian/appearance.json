@@ -10,7 +10,7 @@
   "translucency": false,
   "enabledCssSnippets": [
     "snipet1",
-    "icons",
-    "www"
+    "www",
+    "supercharged-links-gen"
   ]
 }
